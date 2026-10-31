@@ -22,8 +22,10 @@
     }
   },
   "debugLog": false,
+  "errorReport": true,
   "vaultOwner": {
     "vaultId": "343",
     "email": "oldhorse041007@163.com"
-  }
+  },
+  "errorReportNoticeShown": true
 }
