@@ -1,0 +1,174 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzo">
+    <style>
+      <fill id="fzo">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="beE" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.4" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bDr">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第二幕 · 03 Kronemer 2025 · 概念框架</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.4" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bev">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">13</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="57.8" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="beK">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="38.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">先把「意识」拆成三个问题</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bDx">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="275.831968503937" height="237.6" topLeftX="44.639999999999986" topLeftY="144" presetHandlers="9.359064" type="round-rect" id="bek">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="254.231968503937" height="5.76" topLeftX="55.43999999999998" topLeftY="151.2" presetHandlers="2.88" type="round-rect" id="ben">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="229.751968503937" height="22.8" topLeftX="67.68" topLeftY="158.4" type="text" id="bDa">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">Conscious level</span></strong></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="40.3" topLeftX="67.68" topLeftY="184.32" type="text" id="bDR">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="26.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识水平</span></strong></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="1.0080314960629921" topLeftX="67.68" topLeftY="224.64" presetHandlers="0.5039956" type="round-rect" id="bez">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="229.751968503937" height="64.8" topLeftX="67.68" topLeftY="234.72" type="text" id="beS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="13.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">有多可能处于清醒 / 有意识状态</span></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="50.4" topLeftX="67.68" topLeftY="302.4" type="text" id="bDw">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">wakefulness、alertness、vigilance</span></p>
+        </content>
+      </shape>
+      <shape width="275.831968503937" height="237.6" topLeftX="342.071968503937" topLeftY="144" presetHandlers="9.359064" type="round-rect" id="bDM">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="254.231968503937" height="5.76" topLeftX="352.871968503937" topLeftY="151.2" presetHandlers="2.88" type="round-rect" id="beh">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="229.751968503937" height="22.8" topLeftX="365.1119685039371" topLeftY="158.4" type="text" id="beN">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">Conscious state</span></strong></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="40.3" topLeftX="365.1119685039371" topLeftY="184.32" type="text" id="bDA">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="26.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识状态</span></strong></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="1.0080314960629921" topLeftX="365.1119685039371" topLeftY="224.64" presetHandlers="0.5039956" type="round-rect" id="bDe">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="229.751968503937" height="64.8" topLeftX="365.1119685039371" topLeftY="234.72" type="text" id="beP">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="13.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">某一时刻整体的意识状态</span></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="50.4" topLeftX="365.1119685039371" topLeftY="302.4" type="text" id="beT">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">随时间和情境变化的状态剖面</span></p>
+        </content>
+      </shape>
+      <shape width="275.831968503937" height="237.6" topLeftX="639.5040157480316" topLeftY="144" presetHandlers="9.359064" type="round-rect" id="bDH">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="254.231968503937" height="5.76" topLeftX="650.3040157480315" topLeftY="151.2" presetHandlers="2.88" type="round-rect" id="bDD">
+        <fill>
+          <fillColor color="rgba(224, 122, 95, 1)" />
+        </fill>
+        <border color="rgba(224, 122, 95, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="229.751968503937" height="20.5" topLeftX="662.5440157480315" topLeftY="158.4" type="text" id="bem">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(224, 122, 95, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">Conscious content</span></strong></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="40.3" topLeftX="662.5440157480315" topLeftY="184.32" type="text" id="bes">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="26.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识内容</span></strong></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="1.0080314960629921" topLeftX="662.5440157480315" topLeftY="224.64" presetHandlers="0.5039956" type="round-rect" id="bDJ">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="229.751968503937" height="64.8" topLeftX="662.5440157480315" topLeftY="234.72" type="text" id="beW">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="13.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">看到、听到、想到、感觉到的具体内容</span></p>
+        </content>
+      </shape>
+      <shape width="229.751968503937" height="50.4" topLeftX="662.5440157480315" topLeftY="302.4" type="text" id="beO">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">体验里的那个「什么」</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="17.5" topLeftX="44.639999999999986" topLeftY="388.8" type="text" id="bDb">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="11.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">检测 level 与解码 content 是两个完全不同的问题——不是难度的差别，而是问题本身的差别：前者问「有没有、有多少」，后者问「是什么」。</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="36" topLeftX="44.639999999999986" topLeftY="430.56" type="text" id="bDV">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">一个神经或生理指标可以被叫作「意识标记物」，但必须先说清它对应三者中的哪一个——否则「alpha 功率升高」会被直接写成「意识增强」。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="beg">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页的作用是给整场汇报立一套词汇。level 问的是「有多清醒」，state 问的是「此刻整体状态」，content 问的是「体验里是什么」。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">强调中间那句话：检测 level 和解码 content 不是同一个问题的难易版本，而是两个不同的问题——这决定了实验设计和证据标准都不一样。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">如果时间和听众水平允许，可以举一个反例：脑电 alpha 功率升高不等于「意识增强」，它更可能对应觉醒水平的变化。</span></p>
+      </content>
+    </note>
+  </slide>

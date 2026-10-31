@@ -1,0 +1,153 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzt">
+    <style>
+      <fill id="fzt">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bMp" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bMd">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第三幕 · 06 Tang 2023 · 方法</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bMq">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">17</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bMU">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">为什么「意义」才是接口</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bMi">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="396" height="123.84" topLeftX="44.639999999999986" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="bMu">
+        <fill>
+          <fillColor color="rgba(245, 248, 251, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="347.04" height="32.7" topLeftX="69.12" topLeftY="151.2" type="text" id="bMt">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="21.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">脑 → 词</span></strong></p>
+        </content>
+      </shape>
+      <shape width="347.04" height="67.68" topLeftX="69.12" topLeftY="184.32" type="text" id="bML">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">识别的是刺激本身：这个人听到了哪个词。仍然接近 stimulus recognition。</span></p>
+        </content>
+      </shape>
+      <shape width="453.0959842519685" height="123.84" topLeftX="462.24" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="bMY">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="404.1359842519685" height="32.7" topLeftX="486.72" topLeftY="151.2" type="text" id="bMf">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="21.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">脑 → 意义</span></strong></p>
+        </content>
+      </shape>
+      <shape width="404.1359842519685" height="67.68" topLeftX="486.72" topLeftY="184.32" type="text" id="bMB">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">重建的是这个人理解到的内容。更接近高层级的认知表征，也更接近意识研究关心的东西。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="31.68" topLeftX="44.639999999999986" topLeftY="273.6" type="text" id="bMj">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识体验往往不是感官像素，而是整合后的语义与概念内容——所以语义层面的「差不多」，比逐词正确率更接近我们真正想读的东西。</span></strong></p>
+        </content>
+      </shape>
+      <shape width="277.751968503937" height="139.68" topLeftX="44.640000000000015" topLeftY="315.36" presetHandlers="9.359957" type="round-rect" id="bMc">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="256.151968503937" height="5.76" topLeftX="55.44" topLeftY="322.56" presetHandlers="2.88" type="round-rect" id="bMG">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="237.43196850393701" height="48.96" topLeftX="64.80000000000001" topLeftY="331.2" type="text" id="bMQ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">指标选择本身就是立场</span></strong></p>
+        </content>
+      </shape>
+      <shape width="237.43196850393701" height="70.56" topLeftX="64.80000000000001" topLeftY="381.6" type="text" id="bMh">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">不同词可以表达同一意思（“we were busy” 与 “we had a lot of work”），所以用 BERTScore 这类意义相似度衡量；用 WER 衡量会系统性低估这套系统的价值。</span></p>
+        </content>
+      </shape>
+      <shape width="277.751968503937" height="139.68" topLeftX="341.1119685039371" topLeftY="315.36" presetHandlers="9.359957" type="round-rect" id="bMC">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="256.151968503937" height="5.76" topLeftX="351.91196850393703" topLeftY="322.56" presetHandlers="2.88" type="round-rect" id="bMl">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="237.43196850393701" height="48.96" topLeftX="361.271968503937" topLeftY="331.2" type="text" id="bMX">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">行为学验证：解码文本真的可用</span></strong></p>
+        </content>
+      </shape>
+      <shape width="237.43196850393701" height="70.56" topLeftX="361.271968503937" topLeftY="381.6" type="text" id="bMI">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">只让被试阅读解码出来的文字，16 道阅读理解题中答对 9 道。</span></p>
+        </content>
+      </shape>
+      <shape width="277.751968503937" height="139.68" topLeftX="637.5840157480314" topLeftY="315.36" presetHandlers="9.359957" type="round-rect" id="bMo">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="256.151968503937" height="5.76" topLeftX="648.3840157480315" topLeftY="322.56" presetHandlers="2.88" type="round-rect" id="bMy">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="237.43196850393701" height="48.96" topLeftX="657.7440157480315" topLeftY="331.2" type="text" id="bMP">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意义是跨模态共享的</span></strong></p>
+        </content>
+      </shape>
+      <shape width="237.43196850393701" height="70.56" topLeftX="657.7440157480315" topLeftY="381.6" type="text" id="bMZ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">听过的语言、想象说的语言、无声视频，共用同一个解码器。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bMF">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页回答「为什么是语义，而不是词」。左边是刺激识别，右边是意义重建——后者才对应意识研究关心的层级。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第二点很实用：用词错率评价这类系统会冤枉它，因为同义表达本来就允许不同词；要用意义相似度和下游任务可用性来评价。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第三点给后面做铺垫：意义是跨模态共享的，这正是把语义解码迁移到听觉语言、想象语言的依据。</span></p>
+      </content>
+    </note>
+  </slide>
+  

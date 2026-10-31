@@ -1,0 +1,263 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzz">
+    <style>
+      <fill id="fzz">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="buo" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="buk">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">讨论 · 汇总</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bun">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">32</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bja">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">八篇文献的汇报结论</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bjR">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="50.4" height="20.16" topLeftX="44.64" topLeftY="132.48" type="text" id="bjF">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="12.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">编号</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="20.16" topLeftX="102.23999999999998" topLeftY="132.48" type="text" id="buq">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="12.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">文献</span></strong></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="20.16" topLeftX="260.64" topLeftY="132.48" type="text" id="buz">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="12.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">一句话汇报结论</span></strong></p>
+        </content>
+      </shape>
+      <shape width="144" height="20.16" topLeftX="771.3359842519685" topLeftY="132.48" type="text" id="buS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="12.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">在主线上的位置</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="1.44" topLeftX="44.639999999999986" topLeftY="155.52" presetHandlers="0.72" type="round-rect" id="bjw">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="887.9759842519685" height="36.72" topLeftX="36" topLeftY="158.03999999999996" presetHandlers="9.359928" type="round-rect" id="bjM">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="161.28" type="text" id="bjf">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">01</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="161.28" type="text" id="buL">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Bodien 2024</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="161.28" type="text" id="buh">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">行为无反应 ≠ 认知不存在；把临床诊断问题转化成一个 BCI 问题。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="161.28" type="text" id="buN">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">起点</span></strong></p>
+        </content>
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="201.6" type="text" id="bjA">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">02</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="201.6" type="text" id="bje">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Fischer 2025</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="201.6" type="text" id="bjB">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">从「检测」到「解码」；但可解码 ≠ 可证明为意识。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="201.6" type="text" id="buG">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">范式转换</span></strong></p>
+        </content>
+      </shape>
+      <shape width="887.9759842519685" height="36.72" topLeftX="36" topLeftY="238.68" presetHandlers="9.359928" type="round-rect" id="buP">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="241.91999999999996" type="text" id="buT">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">03</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="241.91999999999996" type="text" id="bjH">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Kronemer 2025</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="241.91999999999996" type="text" id="bjD">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">普通 BCI 有行为 ground truth，意识 BCI 没有。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="241.91999999999996" type="text" id="bjZ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">方法学约束</span></strong></p>
+        </content>
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="282.24" type="text" id="buI">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">06</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="282.24" type="text" id="buy">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Tang 2023</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="37.2" topLeftX="260.64" topLeftY="322.3" type="text" id="bum">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">语义解码仍是 proof of principle；下一步是在 EEG/ECoG/iEEG 上做实时语义解码。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="282.24" type="text" id="bus">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">技术地基</span></strong></p>
+        </content>
+      </shape>
+      <shape width="887.9759842519685" height="36.72" topLeftX="36" topLeftY="319.32" presetHandlers="9.359928" type="round-rect" id="bjJ">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="322.56" type="text" id="bji">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">04</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="322.56" type="text" id="bud">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Littlejohn 2025</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="322.56" type="text" id="buU">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">从 assessment 到 communication：问题变成「能不能持续表达」。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="322.56" type="text" id="buW">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">通道连续</span></strong></p>
+        </content>
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="362.88" type="text" id="buO">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(224, 122, 95, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">05</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="362.88" type="text" id="bjb">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Wairagkar 2025</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="362.88" type="text" id="bju">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">从「想移动什么」到「想说什么、以及声音该怎么表达」。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="362.88" type="text" id="buY">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(224, 122, 95, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">输出丰富度</span></strong></p>
+        </content>
+      </shape>
+      <shape width="887.9759842519685" height="36.72" topLeftX="36" topLeftY="399.96" presetHandlers="9.359928" type="round-rect" id="bug">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="403.2" type="text" id="buE">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">07</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="403.2" type="text" id="bjr">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">du Bois 2026</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="403.2" type="text" id="bjV">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">意识 BCI 正从实验室范式走向 wearable、interactive、bedside。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="403.2" type="text" id="bjC">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">临床落地</span></strong></p>
+        </content>
+      </shape>
+      <shape width="50.4" height="33.12" topLeftX="44.64" topLeftY="443.52" type="text" id="buc">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">08</span></strong></p>
+        </content>
+      </shape>
+      <shape width="151.2" height="33.12" topLeftX="102.23999999999998" topLeftY="443.52" type="text" id="buQ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Kordas 2026</span></p>
+        </content>
+      </shape>
+      <shape width="493.2" height="33.12" topLeftX="260.64" topLeftY="443.52" type="text" id="buv">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">未来是多模态 + AI + 个体化 + 交互式的组合，并指向闭环。</span></p>
+        </content>
+      </shape>
+      <shape width="144" height="33.12" topLeftX="771.3359842519685" topLeftY="443.52" type="text" id="buK">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">方向</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="1.44" topLeftX="44.639999999999986" topLeftY="477.36" presetHandlers="0.72" type="round-rect" id="bjx">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+    </data>
+    <note id="bjl">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页是全场的一句话索引，用于收束和答疑定位，不必逐条念。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">建议只点三行：02（可解码 ≠ 可证明为意识）、03（没有 ground truth）、08（指向闭环）。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">如果要现场定位某篇文献的结论，直接从这一页指过去。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,91 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzU">
+    <style>
+      <fill id="fzU">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bjX" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.4" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bjI">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">REFERENCES</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.4" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bjo">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">34</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="57.8" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bjU">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="38.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">参考文献与数据来源</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bjp">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="417.348031496063" height="70.56" topLeftX="44.640000000000015" topLeftY="142.56" type="text" id="bjd">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">01  Bodien YG, Allanson J, Cardone P, et al. Cognitive Motor Dissociation in Disorders of Consciousness. N Engl J Med. 2024;391(7):598–608. doi:10.1056/NEJMoa2400645</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="72.9" topLeftX="44.640000000000015" topLeftY="217.44" type="text" id="bjq">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">02  Fischer D, Edlow BL, Freeman HJ, et al. Reconstructing Covert Consciousness: Neural Decoding as a Novel Consciousness Assessment. Neurology. 2025;104(4):e210208. doi:10.1212/WNL.0000000000210208</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="72.9" topLeftX="44.640000000000015" topLeftY="292.32000000000005" type="text" id="bjh">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">03  Kronemer SI, Bandettini PA, Gonzalez-Castillo J. Sleuthing subjectivity: a review of covert measures of consciousness. Nat Rev Neurosci. 2025;26(8):476–496. doi:10.1038/s41583-025-00934-1</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="70.56" topLeftX="44.640000000000015" topLeftY="367.20000000000005" type="text" id="bjt">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">04  Littlejohn KT, Cho CJ, Liu JR, et al. A streaming brain-to-voice neuroprosthesis to restore naturalistic communication. Nat Neurosci. 2025;28:902–912. doi:10.1038/s41593-025-01905-6</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="70.56" topLeftX="497.98803149606306" topLeftY="142.56" type="text" id="bjL">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">05  Wairagkar M, Card NS, Singer-Clark T, et al. An instantaneous voice-synthesis neuroprosthesis. Nature. 2025;644:145–152. doi:10.1038/s41586-025-09127-3</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="72.9" topLeftX="497.98803149606306" topLeftY="217.44" type="text" id="bjY">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">06  Tang J, LeBel A, Jain S, Huth AG. Semantic reconstruction of continuous language from non-invasive brain recordings. Nat Neurosci. 2023;26(5):858–866. doi:10.1038/s41593-023-01304-9</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="70.56" topLeftX="497.98803149606306" topLeftY="292.32000000000005" type="text" id="bjQ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">07  du Bois N, Korik A, Hodge S, et al. Advancing EEG-based assessment of consciousness and cognition in prolonged disorders of consciousness. Commun Med. 2026;6:344. doi:10.1038/s43856-026-01574-x</span></p>
+        </content>
+      </shape>
+      <shape width="417.348031496063" height="82.0" topLeftX="497.98803149606306" topLeftY="447.0" type="text" id="bjj">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">08  Kordas B. Multimodal Assessment of Consciousness with Brain-Computer Interfaces and Artificial Intelligence: From Acquired Brain Injury to Neurodegenerative Disease. J Clin Med. 2026;15(14):5398. doi:10.3390/jcm15145398</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="1.44" topLeftX="44.639999999999986" topLeftY="444.96" presetHandlers="0.72" type="round-rect" id="bjc">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="870.6959842519685" height="40.32" topLeftX="44.639999999999986" topLeftY="456.48" type="text" id="bjG">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:15.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">原文状态：01 / 02 / 05 / 06 / 07 / 08 已在本合集 PDFs/ 目录本地存档（含 SHA-256 校验）；03 与 04 经验证不存在合法开放获取版本，需机构订阅，对应笔记为摘要级提取。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bjy">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">最后一页供回查。所有数字都来自本合集的精读笔记与其引用的原文；03、04 两篇为摘要级提取。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,130 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzZ">
+    <style>
+      <fill id="fzZ">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bws" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.4" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bra">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 1 · 边界</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.4" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="brJ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">06</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="57.8" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="brR">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="38.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">25% 是下限，而不是上限</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bwT">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="276.791968503937" height="220.32" topLeftX="44.639999999999986" topLeftY="144" presetHandlers="9.359194" type="round-rect" id="bwK">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="255.191968503937" height="5.76" topLeftX="55.44" topLeftY="151.2" presetHandlers="2.88" type="round-rect" id="brH">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="233.591968503937" height="47.52" topLeftX="66.24" topLeftY="161.28" type="text" id="brx">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:20.50" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">对照也只有 38% 阳性</span></strong></p>
+        </content>
+      </shape>
+      <shape width="233.591968503937" height="133.92" topLeftX="66.24" topLeftY="216" type="text" id="brD">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">112 名可观察指令反应者中仅 43 人（38%）在任务态 fMRI/EEG 上出现对应反应。说明任务范式本身假阴性率很高。</span></p>
+        </content>
+      </shape>
+      <shape width="276.791968503937" height="220.32" topLeftX="341.591968503937" topLeftY="144" presetHandlers="9.359194" type="round-rect" id="bwN">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="255.191968503937" height="5.76" topLeftX="352.391968503937" topLeftY="151.2" presetHandlers="2.88" type="round-rect" id="bwE">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="233.591968503937" height="47.52" topLeftX="363.191968503937" topLeftY="161.28" type="text" id="brA">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:20.50" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="15.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">技术覆盖并不完整</span></strong></p>
+        </content>
+      </shape>
+      <shape width="233.591968503937" height="133.92" topLeftX="363.191968503937" topLeftY="216" type="text" id="brr">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">多数患者只做了单模态检查（仅 fMRI 或仅 EEG），而 60 例阳性里有 36 例是双模态共同检出——真实的 CMD 比例只会更高。</span></p>
+        </content>
+      </shape>
+      <shape width="276.791968503937" height="220.32" topLeftX="638.5440157480316" topLeftY="144" presetHandlers="9.359194" type="round-rect" id="bre">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="255.191968503937" height="5.76" topLeftX="649.3440157480316" topLeftY="151.2" presetHandlers="2.88" type="round-rect" id="bwW">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="233.591968503937" height="47.52" topLeftX="660.1440157480315" topLeftY="161.28" type="text" id="bwS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:20.50" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="15.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">关联不等于因果</span></strong></p>
+        </content>
+      </shape>
+      <shape width="233.591968503937" height="133.92" topLeftX="660.1440157480315" topLeftY="216" type="text" id="bwO">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">CMD 与更年轻、伤后时间更长、创伤性病因相关，但这是观察性结果，不能读成因果解释。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="89.28" topLeftX="44.639999999999986" topLeftY="388.8" presetHandlers="9.360115" type="round-rect" id="brw">
+        <fill>
+          <fillColor color="rgba(10, 26, 47, 1)" />
+        </fill>
+        <border color="rgba(10, 26, 47, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="813.0959842519685" height="25.9" topLeftX="73.44" topLeftY="400.32" type="text" id="brb">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(21, 118, 133, 1)" fontSize="17.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">双向边界（汇报时必须说清）</span></strong></p>
+        </content>
+      </shape>
+      <shape width="813.0959842519685" height="44.64" topLeftX="73.44" topLeftY="424.8" type="text" id="brM">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:20.50" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">单次阳性 ≠ 患者具有完整意识或决策能力；单次阴性 ≠ 患者没有意识。25% 描述的是一个检测结果，不是一个意识等级。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bwn">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页是这篇文献的诚实边界，也是后面所有讨论的前提。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">重点：对照组 38% 的检出率，说明范式灵敏度有限，所以 25% 是下限。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">收尾一定要读那句双向边界。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,154 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzc">
+    <style>
+      <fill id="fzc">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bfb" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.4" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bfM">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 6 · 需要标注的地方</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.4" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bfi">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">25</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="57.8" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bfF">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="38.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">两处需要谨慎阅读的结果</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bfp">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="424.548031496063" height="211.68" topLeftX="44.639999999999986" topLeftY="142.56" presetHandlers="9.36049" type="round-rect" id="biO">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="402.948031496063" height="5.76" topLeftX="55.44" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bfJ">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="375.58803149606297" height="32.0" topLeftX="69.12" topLeftY="158.4" type="text" id="bfR">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="21.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">① 一个尚未区分的效应</span></strong></p>
+        </content>
+      </shape>
+      <shape width="375.58803149606297" height="50.4" topLeftX="69.12" topLeftY="187.2" type="text" id="bfZ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">限定「显著 run」后，UWS 组在问答阶段的解码准确率反而高于 MCS 组（p = 0.049）。</span></strong></p>
+        </content>
+      </shape>
+      <shape width="375.58803149606297" height="108" topLeftX="69.12" topLeftY="243.36" type="text" id="bfl">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:16.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="6.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">解释 A：问答由熟悉的照护者／亲属录音，情感显著性提升了 UWS 患者的投入度。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:16.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="6.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">解释 B：UWS 组本身被标准行为学评估系统性低估。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:16.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="6.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">作者并列给出两种解释，并未区分——这正是「MI-BCI 可能发现被漏掉的人」的最强线索，也仍是待检验的问题。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="424.548031496063" height="211.68" topLeftX="490.788031496063" topLeftY="142.56" presetHandlers="9.36049" type="round-rect" id="bfX">
+        <fill>
+          <fillColor color="rgba(252, 238, 218, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="375.58803149606297" height="32.0" topLeftX="515.268031496063" topLeftY="158.4" type="text" id="bfa">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="21.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">② 一个数字不一致</span></strong></p>
+        </content>
+      </shape>
+      <shape width="375.58803149606297" height="31.1" topLeftX="515.268031496063" topLeftY="187.2" type="text" id="bfx">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="9.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">融合模型的平衡诊断准确率，在文中出现了三个数值：</span></p>
+        </content>
+      </shape>
+      <shape width="117.99598425196851" height="35.8" topLeftX="515.268031496063" topLeftY="220.32" type="text" id="bfD">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="23.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">61.81%</span></strong></p>
+        </content>
+      </shape>
+      <shape width="117.99598425196851" height="22.8" topLeftX="515.268031496063" topLeftY="254.88" type="text" id="bfC">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">Results</span></p>
+        </content>
+      </shape>
+      <shape width="117.99598425196851" height="35.8" topLeftX="640.4640157480314" topLeftY="220.32" type="text" id="bfB">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="23.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">63.21%</span></strong></p>
+        </content>
+      </shape>
+      <shape width="117.99598425196851" height="16.7" topLeftX="640.4640157480314" topLeftY="254.88" type="text" id="bfj">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">Discussion</span></p>
+        </content>
+      </shape>
+      <shape width="117.99598425196851" height="40.3" topLeftX="765.66" topLeftY="220.32" type="text" id="bfH">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="26.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">62%</span></strong></p>
+        </content>
+      </shape>
+      <shape width="117.99598425196851" height="21.3" topLeftX="765.66" topLeftY="254.88" type="text" id="bfr">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="14.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">Abstract</span></p>
+        </content>
+      </shape>
+      <shape width="375.58803149606297" height="34.5" topLeftX="515.268031496063" topLeftY="280.8" type="text" id="bfe">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">引用时建议写作「约 62%（61.8–63.2%）」，或以出版社终版为准。</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="108" topLeftX="44.639999999999986" topLeftY="365.76" presetHandlers="9.36036" type="round-rect" id="bfV">
+        <fill>
+          <fillColor color="rgba(15, 58, 87, 1)" />
+        </fill>
+        <border color="rgba(15, 58, 87, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="813.0959842519685" height="29.7" topLeftX="73.44" topLeftY="372.96" type="text" id="bff">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(21, 118, 133, 1)" fontSize="19.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">③ 一个关键限定：诊断本身就是用有缺陷的尺子做出的</span></strong></p>
+        </content>
+      </shape>
+      <shape width="813.0959842519685" height="33.12" topLeftX="73.44" topLeftY="398.88" type="text" id="bfu">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><em><span color="rgba(234, 242, 248, 1)" fontSize="12.5" fontFamily="Times New Roman" bold="false" strikethrough="false" underline="false">“At issue is whether diagnoses formed using assessment measures that require overt behavioural responses are accurate.”</span></em></p>
+        </content>
+      </shape>
+      <shape width="813.0959842519685" height="31.68" topLeftX="73.44" topLeftY="434.88" type="text" id="bfA">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(159, 180, 199, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">作者用这一句把问题打回原点：CRS-R 与 WHIM 都要求外显行为，因此不能拿它们当作「意识」的绝对金标准。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bfw">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页体现读书笔记的纪律：把增强结论的数字和削弱结论的数字一起留下。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">UWS 反超 MCS 这个结果，作者自己也没有定论，我们如实呈现两种解释。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">数字不一致的三个数值并列保留，引用时给区间。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,179 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzJ">
+    <style>
+      <fill id="fzJ">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bfq" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="4" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bfz">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="10.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第三幕 · 08 Kordas 2026 · 多模态</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bfg">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">26</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="6" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bfE">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">为什么必须一起读</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bft">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="483.0" height="269.8" topLeftX="44.639999999999986" topLeftY="141.12" presetHandlers="9.36049" type="round-rect" id="bfY">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="347.04" height="25.1" topLeftX="69.12" topLeftY="151.2" type="text" id="bfv">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">单一模态各自的边界</span></strong></p>
+        </content>
+      </shape>
+      <shape width="64.8" height="44.64" topLeftX="69.12" topLeftY="180" type="text" id="bfK">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">EEG</span></strong></p>
+        </content>
+      </shape>
+      <shape width="324" height="173.7" topLeftX="139.68" topLeftY="180" type="text" id="bfc">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">时间分辨率高、可床旁；但空间分辨率有限，且背景活动异常时信号质量差。</span></p>
+        </content>
+      </shape>
+      <shape width="64.8" height="44.64" topLeftX="69.12" topLeftY="230.4" type="text" id="bfQ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">fMRI</span></strong></p>
+        </content>
+      </shape>
+      <shape width="324" height="123.3" topLeftX="139.68" topLeftY="15.8" type="text" id="bfm">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">空间分辨率高；但时间分辨率差、不可移动，重症患者转运困难。</span></p>
+        </content>
+      </shape>
+      <shape width="64.8" height="44.64" topLeftX="69.12" topLeftY="280.8" type="text" id="bfs">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="14.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">fNIRS</span></strong></p>
+        </content>
+      </shape>
+      <shape width="324" height="72.9" topLeftX="139.68" topLeftY="66.2" type="text" id="bfI">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">可便携、可在床旁重复、能结合主动范式；但只是间接的血流动力学指标。</span></p>
+        </content>
+      </shape>
+      <shape width="453.0959842519685" height="192.96" topLeftX="462.24" topLeftY="141.12" presetHandlers="9.36049" type="round-rect" id="bfy">
+        <fill>
+          <fillColor color="rgba(231, 239, 246, 1)" />
+        </fill>
+        <border color="rgba(231, 239, 246, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="404.1359842519685" height="25.1" topLeftX="486.72" topLeftY="151.2" type="text" id="bfW">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">融合的目标：把各自的盲区互相补上</span></strong></p>
+        </content>
+      </shape>
+      <shape width="127.03196850393701" height="36" topLeftX="486.71999999999997" topLeftY="180" presetHandlers="9.36" type="round-rect" id="bfO">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="118.39196850393701" height="36" topLeftX="491.03999999999996" topLeftY="180" type="text" id="bfd">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">EEG</span></strong></p>
+        </content>
+      </shape>
+      <shape width="127.03196850393701" height="36" topLeftX="625.271968503937" topLeftY="180" presetHandlers="9.36" type="round-rect" id="bfU">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="118.39196850393701" height="36" topLeftX="629.591968503937" topLeftY="180" type="text" id="bfN">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">fMRI</span></strong></p>
+        </content>
+      </shape>
+      <shape width="127.03196850393701" height="36" topLeftX="763.8240157480315" topLeftY="180" presetHandlers="9.36" type="round-rect" id="bBA">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="118.39196850393701" height="36" topLeftX="768.1440157480315" topLeftY="180" type="text" id="bfL">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">fNIRS</span></strong></p>
+        </content>
+      </shape>
+      <shape width="127.03196850393701" height="36" topLeftX="486.71999999999997" topLeftY="224.64" presetHandlers="9.36" type="round-rect" id="bfh">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="118.39196850393701" height="36" topLeftX="491.03999999999996" topLeftY="224.64" type="text" id="bfT">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">生理信号</span></strong></p>
+        </content>
+      </shape>
+      <shape width="127.03196850393701" height="36" topLeftX="625.271968503937" topLeftY="224.64" presetHandlers="9.36" type="round-rect" id="bfG">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="118.39196850393701" height="36" topLeftX="629.591968503937" topLeftY="224.64" type="text" id="bfP">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">行为学</span></strong></p>
+        </content>
+      </shape>
+      <shape width="404.1359842519685" height="50.4" topLeftX="486.72" topLeftY="275.04" type="text" id="bfn">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.50" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">AI 融合 → 多模态认知状态评估</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="83.52" topLeftX="44.639999999999986" topLeftY="345.6" presetHandlers="9.360086" type="round-rect" id="bfo">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="821.7359842519685" height="70.4" topLeftX="69.12" topLeftY="355.68" type="text" id="bfk">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">作者明确限定：自主神经指标（心率变异性、压力反射指数）是觉醒与投入的辅助生理背景，不是意识的直接标志物。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">本汇报推论：单一模态的阴性结果，无法区分「没有意识」和「这个模态看不到」——这正是必须多模态的根本理由，而不是把准确率再抬几个百分点。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+    </data>
+    <note id="bfS">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页回答「为什么要折腾多模态」。依次说清三种模态各自的边界，再指出融合的意义是互补盲区，不是简单叠加准确率。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第一条要注意：作者本人明确把自主神经指标限定为背景信息，不是意识标志物——这个限定要保留。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">底部推论请重点讲：单一模态的阴性，本身不携带「没有意识」这个信息。</span></p>
+      </content>
+    </note>
+  </slide>

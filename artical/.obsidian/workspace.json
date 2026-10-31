@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "7090461fd2460473",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d1a484509efe8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f9589bd3662c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain-Computer Interface/neuropsychiatric disorders/Brain-computer interfaces for neuropsychiatric disorders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brain-computer interfaces for neuropsychiatric disorders"
+            }
+          },
+          {
+            "id": "b89cadd31368cacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain-Computer Interface/运动重建/00_README_运动重建_文献精读合集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_README_运动重建_文献精读合集"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a603171827950ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2456352bc3da6fc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fb2c357d65aa95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8bdacde4a48af66a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "neuro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a56e625824ae7fed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00972fd36bdb0995",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7f93f19c7b519c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e627c931df6246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R/基因组学（Genomics）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "594408a3b4cd3bf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brain-Computer Interface/Brain-computer interfaces for neuropsychiatric disorders.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "81b7734d4a45fabb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e75dfcd8e1d1d669",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "11ae7fddf3de2fee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brain-Computer Interface/运动重建/00_README_运动重建_文献精读合集.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "33fb2c357d65aa95",
+  "lastOpenFiles": [
+    "Brain-Computer Interface/Cell_2025Jan23_文章汇报.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/01_Cognitive Motor Dissociation in Disorders of Consciousness.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/02_Reconstructing Covert Consciousness - Neural Decoding as a Novel Consciousness Assessment.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/00_README_脑机接口与意识_文献精读合集.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/PDFs/04_Supplement_Littlejohn PhD Thesis - Ch3 Streaming Brain-to-Voice.pdf",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/PDFs/03_Sleuthing subjectivity - a review of covert measures of consciousness.pdf",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/07_Advancing EEG-based assessment of consciousness and cognition in prolonged disorders of consciousness.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/06_Semantic reconstruction of continuous language from non-invasive brain recordings.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/04_A streaming brain-to-voice neuroprosthesis to restore naturalistic communication.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/03_Sleuthing subjectivity - a review of covert measures of consciousness.md",
+    "Brain-Computer Interface/视觉重建/04_A flexible photoacoustic retinal prosthesis.md",
+    "Brain-Computer Interface/视觉重建/00_README_视觉重建_文献精读合集.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/组会汇报_脑机接口与意识_从意识检测到意识内容解码_润色版.pptx.bak",
+    "Brain-Computer Interface/汇报/ppt_work/shots/INk2strs7lljtQdfG0rcpgsZn7b_p017_pYG.jpg",
+    "Brain-Computer Interface/汇报/ppt_work/shots/INk2strs7lljtQdfG0rcpgsZn7b_p014_pYg.jpg",
+    "Brain-Computer Interface/汇报/ppt_work/shots/INk2strs7lljtQdfG0rcpgsZn7b_p005_pYC.jpg",
+    "Brain-Computer Interface/汇报/ppt_work/shots/INk2strs7lljtQdfG0rcpgsZn7b_p004_pYi.jpg",
+    "Brain-Computer Interface/汇报/ppt_work/shots/INk2strs7lljtQdfG0rcpgsZn7b_p001_pYY.jpg",
+    "Brain-Computer Interface/汇报/ppt_work/shots",
+    "Brain-Computer Interface/汇报/ppt_work/full.xml",
+    "Brain-Computer Interface/汇报/ppt_work/slide-18.xml",
+    "Brain-Computer Interface/汇报/ppt_work/slide-17.xml",
+    "Brain-Computer Interface/汇报/ppt_work/slide-16.xml",
+    "Brain-Computer Interface/汇报/ppt_work/slide-15.xml",
+    "Brain-Computer Interface/汇报/ppt_work/slide-14.xml",
+    "Brain-Computer Interface/视觉重建/05_MindSight - A Bio-Inspired Neural Architecture for Visual Restoration via Cortical Electrical Stimulation.md",
+    "Brain-Computer Interface/汇报/_shots/脑机接口五方向进展汇报_desktop.png",
+    "Brain-Computer Interface/视觉重建/03_A Second-Generation (44-Channel) Suprachoroidal Retinal Prosthesis - A Single-Arm Clinical Trial of Feasibility.md",
+    "Brain-Computer Interface/视觉重建/02_Neural correlates of phosphene perception in blind individuals - A step toward a bidirectional cortical visual prosthesis.md",
+    "Brain-Computer Interface/汇报/_shots/m1_top.png",
+    "Brain-Computer Interface/汇报/_shots/c6_critique.png",
+    "Brain-Computer Interface/汇报/_shots/c5_conscious.png",
+    "Brain-Computer Interface/汇报/_shots/c4_end.png",
+    "Brain-Computer Interface/视觉重建/01_Subretinal Photovoltaic Implant to Restore Vision in Geographic Atrophy Due to AMD.md",
+    "Brain-Computer Interface/2026-09-21_Brain_Computer_Interface_2/results.md",
+    "Brain-Computer Interface/2026-09-21_Brain_Computer_Interface/00_README_Brain_Computer_Interface_检索结果.md",
+    "skills/Nature Skills.md",
+    "Brain-Computer Interface/BCI_Consciousness_Literature_Deep_Read/08_Multimodal Assessment of Consciousness with Brain-Computer Interfaces and Artificial Intelligence - From Acquired Brain Injury to Neurodegenerative Disease.md",
+    "Brain-Computer Interface/00_README_脑机接口五方向文献精读总索引.md",
+    "Brain-Computer Interface/听觉重建/00_README_听觉重建_文献精读合集.md",
+    "Brain-Computer Interface/听觉重建/06_Paediatric auditory brainstem implant - How we do it.md",
+    "Brain-Computer Interface/听觉重建/05_Power-efficient ramped stimulation in a fully implantable cochlear implant.md",
+    "Brain-Computer Interface/听觉重建/04_Forecasting Spoken Language Development in Children With Cochlear Implants Using Preimplant Magnetic Resonance Imaging.md",
+    "Brain-Computer Interface/听觉重建/03_A systematic review of machine learning approaches in cochlear implant outcomes.md",
+    "Brain-Computer Interface/听觉重建/02_A Brain-Computer Interface for Improving Auditory Attention in Multi-Talker Environments.md",
+    "Brain-Computer Interface/听觉重建/01_Closing the Loop on the Cocktail Party Effect - From Attention Decoding to Neuro-Steered Selective Hearing.md",
+    "algorithm/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

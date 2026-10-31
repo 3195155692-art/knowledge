@@ -1,0 +1,319 @@
+TY  - JOUR
+AU  - Zachery M Fogg
+AU  - Nicholas S Card
+AU  - Maitreyee Wairagkar
+AU  - Aparna Srinivasan
+AU  - Tyler Singer-Clark
+AU  - Xianda Hou
+AU  - Elizaveta Okorokova
+AU  - Hamza Peracha
+AU  - Carrina Iacobacci
+AU  - Tiffany Brailow
+AU  - Justin Jude
+AU  - Hadar Levi-Aharoni
+AU  - Trung Le
+AU  - Domenick Mifsud
+AU  - Pranav I Deevi
+AU  - Samuel R Nason-Tomaszewski
+AU  - Anna L Pritchard
+AU  - Yunnuo Zhang
+AU  - Brice Richards
+AU  - Payton Bechefsky
+AU  - Leigh R Hochberg
+AU  - Ziv Williams
+AU  - Kiarash Shahlaie
+AU  - Nicholas AuYong
+AU  - Daniel B Rubin
+AU  - Chethan Pandarinath
+AU  - David M Brandman
+AU  - Sergey D Stavisky
+TI  - A generalizable speech neuroprosthesis.
+JO  - bioRxiv
+AB  - Intracortical brain-computer interfaces (BCIs) can restore communication to people with vocal tract paralysis by decoding cortical activity during attempted speech into text. State-of-the-art systems pairing neural-to-phoneme decoders with phoneme-to-word language models have achieved word error rates (WERs) as low as 1%, but only after collecting thousands of sentences of training data. Shortening the data collection process would facilitate scaling this new technology by reducing the time from device implant to high-accuracy communication. Here we introduce a transformer-based decoder model trained jointly across six intracortical speech BCI participants. For every participant - regardless of sex, disease etiology, or attempted speaking strategy - a multi-user model decoded speech more accurately (over 50% lower relative WER on average) than models trained on individual users' data. Notably, the multi-user model could be finetuned on fewer than 200 sentences from a held-out user to achieve a WER below 7%. These results reveal how to pool intracortical data across people to yield more accurate, generalizable, and rapidly-deployable decoding models.
+PY  - 2026
+DA  - 2026-Jul-27
+DO  - 10.64898/2026.07.23.739430
+AN  - 42619707
+UR  - https://pubmed.ncbi.nlm.nih.gov/42619707/
+ER  - 
+
+TY  - JOUR
+AU  - Eduardo Abreu
+AU  - Pedro Felipe Vazquez
+AU  - Gabriela Castellano
+TI  - Decoding inner speech with functional connectivity.
+JO  - Biomed Phys Eng Express
+AB  - Background:Inner-Speech (IS) based Brain-Computer Interfaces (BCIs) offer potential communication solutions for individuals with disabilities by decoding brain signals generated during speech imagination. While most IS-BCI systems rely on time-frequency EEG features, this study investigates functional connectivity-specifically, motif synchronization (MS)-to determine whether interactions between brain regions improve the discrimination of imagined words.Methods: We analyzed Electroencephalography (EEG) data from the 'Thinking Out Loud' dataset by Nietoet al2022, involving 10 participants mentally simulating four Spanish words ('Up,' 'Down,' 'Left,' 'Right'). Connectivity matrices were derived using the MS method, and node metrics (strength, PageRank) were calculated across 11 frequency bands. A two-stage classification framework was implemented: a support vector machine (SVM) ranked features by discriminatory power, followed by 5-fold cross-validation to identify optimal feature combinations.Results:The proposed approach achieved an average classification accuracy of 43.7%, comparable to previously reported results on the same dataset.Conclusions:Motif synchronization-based functional connectivity and graph metrics provide informative features for imagined speech BCIs by capturing cross-regional brain interactions. Further work is needed to improve robustness and generalization across sessions and subjects.
+PY  - 2026
+DA  - 2026-Feb-24
+VL  - 12
+IS  - 2
+DO  - 10.1088/2057-1976/ae451b
+AN  - 41678839
+UR  - https://pubmed.ncbi.nlm.nih.gov/41678839/
+ER  - 
+
+TY  - JOUR
+AU  - Nicholas S Card
+AU  - Tyler Singer-Clark
+AU  - Hamza Peracha
+AU  - Carrina Iacobacci
+AU  - Xianda Hou
+AU  - Maitreyee Wairagkar
+AU  - Zachery Fogg
+AU  - Elena C Offenberg
+AU  - Leigh R Hochberg
+AU  - Sergey D Stavisky
+AU  - David M Brandman
+TI  - Long-term independent use of an intracortical brain-computer interface for speech and cursor control.
+JO  - Nat Med
+AB  - Brain-computer interfaces (BCIs) can provide naturalistic communication and digital access to people with severe paralysis by decoding neural activity associated with attempted speech and movement. Recent work has demonstrated highly accurate intracortical BCIs for speech and cursor control, but two critical capabilities needed for practical viability were unmet: independent at-home operation without researcher assistance and reliable long-term performance supporting accurate speech and cursor decoding. Here we demonstrate the independent and near-daily use of a multimodal BCI with novel brain-to-text speech and computer cursor decoders by a man with paralysis and severe dysarthria due to amyotrophic lateral sclerosis. Over nearly 2 years, the participant used the BCI for more than 3,800 h at home with no researchers present to maintain rich interpersonal communication with his family and friends, independently control his personal computer and sustain full-time employment-despite being paralyzed. He communicated 183,060 sentences-totaling 1,960,163 words-at an average rate of 56 words per minute. He labeled 92% of sentences as being decoded at least mostly correctly. In formal quantifications of performance where he was asked to say words presented on a screen, attempted speech was consistently decoded with more than 99% word accuracy (125,000 word vocabulary). The participant also used the speech BCI as keyboard input and the cursor BCI as mouse input to control his personal computer, enabling him to send text messages and emails and to browse the internet. These results demonstrate that intracortical BCIs have the potential to support independent use in the home, marking a critical step toward practical assistive technology for people with severe motor impairment.
+PY  - 2026
+DA  - 2026-Jul
+VL  - 32
+IS  - 7
+SP  - 2504
+EP  - 2510
+DO  - 10.1038/s41591-026-04414-6
+AN  - 42297978
+UR  - https://pubmed.ncbi.nlm.nih.gov/42297978/
+ER  - 
+
+TY  - JOUR
+AU  - Maitreyee Wairagkar
+AU  - Nicholas S Card
+AU  - Tyler Singer-Clark
+AU  - Xianda Hou
+AU  - Carrina Iacobacci
+AU  - Lee M Miller
+AU  - Leigh R Hochberg
+AU  - David M Brandman
+AU  - Sergey D Stavisky
+TI  - An instantaneous voice-synthesis neuroprosthesis.
+JO  - Nature
+AB  - Brain computer interfaces (BCIs) have the potential to restore communication to people who have lost the ability to speak due to neurological disease or injury. BCIs have been used to translate the neural correlates of attempted speech into text1-3. However, text communication fails to capture the nuances of human speech such as prosody, intonation and immediately hearing one's own voice. Here, we demonstrate a "brain-to-voice" neuroprosthesis that instantaneously synthesizes voice with closed-loop audio feedback by decoding neural activity from 256 microelectrodes implanted into the ventral precentral gyrus of a man with amyotrophic lateral sclerosis and severe dysarthria. We overcame the challenge of lacking ground-truth speech for training the neural decoder and were able to accurately synthesize his voice. Along with phonemic content, we were also able to decode paralinguistic features from intracortical activity, enabling the participant to modulate his BCI-synthesized voice in real-time to change intonation, emphasize words, and sing short melodies. These results demonstrate the feasibility of enabling people with paralysis to speak intelligibly and expressively through a BCI.
+PY  - 2025
+DA  - 2025-Aug
+VL  - 644
+IS  - 8075
+SP  - 145
+EP  - 152
+DO  - 10.1038/s41586-025-09127-3
+AN  - 40506548
+UR  - https://pubmed.ncbi.nlm.nih.gov/40506548/
+ER  - 
+
+TY  - JOUR
+AU  - Erin M Kunz
+AU  - Benyamin Abramovich Krasa
+AU  - Foram Kamdar
+AU  - Donald T Avansino
+AU  - Nick Hahn
+AU  - Seonghyun Yoon
+AU  - Akansha Singh
+AU  - Samuel R Nason-Tomaszewski
+AU  - Nicholas S Card
+AU  - Justin J Jude
+AU  - Brandon G Jacques
+AU  - Payton H Bechefsky
+AU  - Carrina Iacobacci
+AU  - Leigh R Hochberg
+AU  - Daniel B Rubin
+AU  - Ziv M Williams
+AU  - David M Brandman
+AU  - Sergey D Stavisky
+AU  - Nicholas AuYong
+AU  - Chethan Pandarinath
+AU  - Shaul Druckmann
+AU  - Jaimie M Henderson
+AU  - Francis R Willett
+TI  - Inner speech in motor cortex and implications for speech neuroprostheses.
+JO  - Cell
+AB  - Speech brain-computer interfaces (BCIs) show promise in restoring communication to people with paralysis but have also prompted discussions regarding their potential to decode private inner speech. Separately, inner speech may be a way to bypass the current approach of requiring speech BCI users to physically attempt speech, which is fatiguing and can slow communication. Using multi-unit recordings from four participants, we found that inner speech is robustly represented in the motor cortex and that imagined sentences can be decoded in real time. The representation of inner speech was highly correlated with attempted speech, though we also identified a neural "motor-intent" dimension that differentiates the two. We investigated the possibility of decoding private inner speech and found that some aspects of free-form inner speech could be decoded during sequence recall and counting tasks. Finally, we demonstrate high-fidelity strategies that prevent speech BCIs from unintentionally decoding private inner speech.
+PY  - 2025
+DA  - 2025-Aug-21
+VL  - 188
+IS  - 17
+SP  - 4658
+EP  - 4673.e17
+DO  - 10.1016/j.cell.2025.06.015
+AN  - 40816265
+UR  - https://pubmed.ncbi.nlm.nih.gov/40816265/
+ER  - 
+
+TY  - JOUR
+AU  - Kaylo T Littlejohn
+AU  - Cheol Jun Cho
+AU  - Jessie R Liu
+AU  - Alexander B Silva
+AU  - Bohan Yu
+AU  - Vanessa R Anderson
+AU  - Cady M Kurtz-Miott
+AU  - Samantha Brosler
+AU  - Anshul P Kashyap
+AU  - Irina P Hallinan
+AU  - Adit Shah
+AU  - Adelyn Tu-Chan
+AU  - Karunesh Ganguly
+AU  - David A Moses
+AU  - Edward F Chang
+AU  - Gopala K Anumanchipalli
+TI  - A streaming brain-to-voice neuroprosthesis to restore naturalistic communication.
+JO  - Nat Neurosci
+AB  - Natural spoken communication happens instantaneously. Speech delays longer than a few seconds can disrupt the natural flow of conversation. This makes it difficult for individuals with paralysis to participate in meaningful dialogue, potentially leading to feelings of isolation and frustration. Here we used high-density surface recordings of the speech sensorimotor cortex in a clinical trial participant with severe paralysis and anarthria to drive a continuously streaming naturalistic speech synthesizer. We designed and used deep learning recurrent neural network transducer models to achieve online large-vocabulary intelligible fluent speech synthesis personalized to the participant's preinjury voice with neural decoding in 80-ms increments. Offline, the models demonstrated implicit speech detection capabilities and could continuously decode speech indefinitely, enabling uninterrupted use of the decoder and further increasing speed. Our framework also successfully generalized to other silent-speech interfaces, including single-unit recordings and electromyography. Our findings introduce a speech-neuroprosthetic paradigm to restore naturalistic spoken communication to people with paralysis.
+PY  - 2025
+DA  - 2025-Apr
+VL  - 28
+IS  - 4
+SP  - 902
+EP  - 912
+DO  - 10.1038/s41593-025-01905-6
+AN  - 40164740
+UR  - https://pubmed.ncbi.nlm.nih.gov/40164740/
+ER  - 
+
+TY  - JOUR
+AU  - Jingyuan Li
+AU  - Trung Le
+AU  - Chaofei Fan
+AU  - Mingfei Chen
+AU  - Eli Shlizerman
+TI  - Brain-to-text decoding with context-aware neural representations and large language models.
+JO  - J Neural Eng
+AB  - Objective. Decoding attempted speech from neural activity offers a promising avenue for restoring communication abilities in individuals with speech impairments. Previous studies have focused on mapping neural activity to text using phonemes as the intermediate target. While successful, decoding neural activity directly to phonemes ignores the context dependent nature of the neural activity-to-phoneme mapping in the brain, leading to suboptimal decoding performance.Approach. In this work, we propose the use of diphone-an acoustic representation that captures the transitions between two phonemes-as the context-aware modeling target. We integrate diphones into existing phoneme decoding frameworks through a novel divide-and-conquer strategy in which we model the phoneme distribution by marginalizing over the diphone distribution. Our approach effectively leverages the enhanced context-aware representation of diphones while preserving the manageable class size of phonemes, a key factor in simplifying the subsequent phoneme-to-text conversion task.Main results. We demonstrate the effectiveness of our approach on the Brain-to-Text 2024 benchmark, where it achieves state-of-the-art phoneme error rate (PER) of 15.34% compared to 16.62% PER of monophone-based decoding. When coupled with finetuned large language models (LLMs), our method yields a Word error rate (WER) of 5.77%, significantly outperforming the 8.93% WER of the leading method in the benchmark.Significance. These results demonstrate the effectiveness of leveraging context-aware neural representations and LLMs for brain-to-text decoding, thereby expanding the capabilities of speech neuroprostheses and paving the way toward restoring communication in individuals with speech impairments.
+PY  - 2025
+DA  - 2025-Oct-14
+VL  - 22
+IS  - 5
+DO  - 10.1088/1741-2552/adfab1
+AN  - 40795874
+UR  - https://pubmed.ncbi.nlm.nih.gov/40795874/
+ER  - 
+
+TY  - JOUR
+AU  - Daohan Zhang
+AU  - Zhenjie Wang
+AU  - Youkun Qian
+AU  - Zehao Zhao
+AU  - Yan Liu
+AU  - Xiaotao Hao
+AU  - Wanxin Li
+AU  - Shuo Lu
+AU  - Honglin Zhu
+AU  - Luyao Chen
+AU  - Kunyu Xu
+AU  - Yuanning Li
+AU  - Junfeng Lu
+TI  - A brain-to-text framework for decoding natural tonal sentences.
+JO  - Cell Rep
+AB  - Speech brain-computer interfaces (BCIs) directly translate brain activity into speech sound and text. Despite successful applications in non-tonal languages, the distinct syllabic structures and pivotal lexical information conveyed through tonal nuances present challenges in BCI decoding for tonal languages like Mandarin Chinese. Here, we designed a brain-to-text framework to decode Mandarin sentences from invasive neural recordings. Our framework dissects speech onset, base syllables, and lexical tones, integrating them with contextual information through Bayesian likelihood and a Viterbi decoder. The results demonstrate accurate tone and syllable decoding during naturalistic speech production. The overall word error rate (WER) for 10 offline-decoded tonal sentences with a vocabulary of 40 high-frequency Chinese characters is 21% (chance: 95.3%) averaged across five participants, and tone decoding accuracy reaches 93% (chance: 25%), surpassing previous intracranial Mandarin tonal syllable decoders. This study provides a robust and generalizable approach for brain-to-text decoding of continuous tonal speech sentences.
+PY  - 2024
+DA  - 2024-Nov-26
+VL  - 43
+IS  - 11
+SP  - 114924
+DO  - 10.1016/j.celrep.2024.114924
+AN  - 39485790
+UR  - https://pubmed.ncbi.nlm.nih.gov/39485790/
+ER  - 
+
+TY  - JOUR
+AU  - Nicholas S Card
+AU  - Maitreyee Wairagkar
+AU  - Carrina Iacobacci
+AU  - Xianda Hou
+AU  - Tyler Singer-Clark
+AU  - Francis R Willett
+AU  - Erin M Kunz
+AU  - Chaofei Fan
+AU  - Maryam Vahdati Nia
+AU  - Darrel R Deo
+AU  - Aparna Srinivasan
+AU  - Eun Young Choi
+AU  - Matthew F Glasser
+AU  - Leigh R Hochberg
+AU  - Jaimie M Henderson
+AU  - Kiarash Shahlaie
+AU  - Sergey D Stavisky
+AU  - David M Brandman
+TI  - An Accurate and Rapidly Calibrating Speech Neuroprosthesis.
+JO  - N Engl J Med
+AB  - BACKGROUND: Brain-computer interfaces can enable communication for people with paralysis by transforming cortical activity associated with attempted speech into text on a computer screen. Communication with brain-computer interfaces has been restricted by extensive training requirements and limited accuracy. METHODS: A 45-year-old man with amyotrophic lateral sclerosis (ALS) with tetraparesis and severe dysarthria underwent surgical implantation of four microelectrode arrays into his left ventral precentral gyrus 5 years after the onset of the illness; these arrays recorded neural activity from 256 intracortical electrodes. We report the results of decoding his cortical neural activity as he attempted to speak in both prompted and unstructured conversational contexts. Decoded words were displayed on a screen and then vocalized with the use of text-to-speech software designed to sound like his pre-ALS voice. RESULTS: On the first day of use (25 days after surgery), the neuroprosthesis achieved 99.6% accuracy with a 50-word vocabulary. Calibration of the neuroprosthesis required 30 minutes of cortical recordings while the participant attempted to speak, followed by subsequent processing. On the second day, after 1.4 additional hours of system training, the neuroprosthesis achieved 90.2% accuracy using a 125,000-word vocabulary. With further training data, the neuroprosthesis sustained 97.5% accuracy over a period of 8.4 months after surgical implantation, and the participant used it to communicate in self-paced conversations at a rate of approximately 32 words per minute for more than 248 cumulative hours. CONCLUSIONS: In a person with ALS and severe dysarthria, an intracortical speech neuroprosthesis reached a level of performance suitable to restore conversational communication after brief training. (Funded by the Office of the Assistant Secretary of Defense for Health Affairs and others; BrainGate2 ClinicalTrials.gov number, NCT00912041.).
+PY  - 2024
+DA  - 2024-Aug-15
+VL  - 391
+IS  - 7
+SP  - 609
+EP  - 618
+DO  - 10.1056/nejmoa2314132
+AN  - 39141853
+UR  - https://pubmed.ncbi.nlm.nih.gov/39141853/
+ER  - 
+
+TY  - JOUR
+AU  - Alexander B Silva
+AU  - Kaylo T Littlejohn
+AU  - Jessie R Liu
+AU  - David A Moses
+AU  - Edward F Chang
+TI  - The speech neuroprosthesis.
+JO  - Nat Rev Neurosci
+AB  - Loss of speech after paralysis is devastating, but circumventing motor-pathway injury by directly decoding speech from intact cortical activity has the potential to restore natural communication and self-expression. Recent discoveries have defined how key features of speech production are facilitated by the coordinated activity of vocal-tract articulatory and motor-planning cortical representations. In this Review, we highlight such progress and how it has led to successful speech decoding, first in individuals implanted with intracranial electrodes for clinical epilepsy monitoring and subsequently in individuals with paralysis as part of early feasibility clinical trials to restore speech. We discuss high-spatiotemporal-resolution neural interfaces and the adaptation of state-of-the-art speech computational algorithms that have driven rapid and substantial progress in decoding neural activity into text, audible speech, and facial movements. Although restoring natural speech is a long-term goal, speech neuroprostheses already have performance levels that surpass communication rates offered by current assistive-communication technology. Given this accelerated rate of progress in the field, we propose key evaluation metrics for speed and accuracy, among others, to help standardize across studies. We finish by highlighting several directions to more fully explore the multidimensional feature space of speech and language, which will continue to accelerate progress towards a clinically viable speech neuroprosthesis.
+PY  - 2024
+DA  - 2024-Jul
+VL  - 25
+IS  - 7
+SP  - 473
+EP  - 492
+DO  - 10.1038/s41583-024-00819-9
+AN  - 38745103
+UR  - https://pubmed.ncbi.nlm.nih.gov/38745103/
+ER  - 
+
+TY  - JOUR
+AU  - Scott Wellington
+AU  - Holly Wilson
+AU  - Foteini Simistira Liwicki
+AU  - Vibha Gupta
+AU  - Rajkumar Saini
+AU  - Kanjar De
+AU  - Nosheen Abid
+AU  - Sumit Rakesh
+AU  - Johan Eriksson
+AU  - Oliver Watts
+AU  - Xi Chen
+AU  - Damien Coyle
+AU  - Mohammad Golbabaee
+AU  - Michael J Proulx
+AU  - Marcus Liwicki
+AU  - Eamonn O'Neill
+AU  - Benjamin Metcalfe
+TI  - Improving inner speech decoding by hybridisation of bimodal EEG and fMRI data.
+JO  - Annu Int Conf IEEE Eng Med Biol Soc
+AB  - Decoding inner speech from the brain via the hybridisation of fMRI and EEG data is explored to investigate the performance benefits over unimodal models. Two different fusion approaches are examined: concatenation of probability vectors from unimodal fMRI and EEG machine learning models, and data fusion with feature engineering. Same-task inner speech data are recorded from four participants, and different processing strategies are compared and contrasted to previously-employed hybridisation efforts. Data across participants are discovered to encode different underlying structures, which correlates to decoding performances between subject-dependent fusion models. For all participants, the performance of inner speech decoding models is shown to improve when pursuing bimodal fMRI-EEG fusion strategies, with an average increase of 6.025% accuracy on an 8-word classification task across two semantic categories.
+PY  - 2024
+DA  - 2024-Jul
+VL  - 2024
+SP  - 1
+EP  - 5
+DO  - 10.1109/embc53108.2024.10781692
+AN  - 40039096
+UR  - https://pubmed.ncbi.nlm.nih.gov/40039096/
+ER  - 
+
+TY  - JOUR
+AU  - Diego Lopez-Bernal
+AU  - David Balderas
+AU  - Pedro Ponce
+AU  - Arturo Molina
+TI  - Exploring inter-trial coherence for inner speech classification in EEG-based brain-computer interface.
+JO  - J Neural Eng
+AB  - Objective. In recent years, electroencephalogram (EEG)-based brain-computer interfaces (BCIs) applied to inner speech classification have gathered attention for their potential to provide a communication channel for individuals with speech disabilities. However, existing methodologies for this task fall short in achieving acceptable accuracy for real-life implementation. This paper concentrated on exploring the possibility of using inter-trial coherence (ITC) as a feature extraction technique to enhance inner speech classification accuracy in EEG-based BCIs.Approach. To address the objective, this work presents a novel methodology that employs ITC for feature extraction within a complex Morlet time-frequency representation. The study involves a dataset comprising EEG recordings of four different words for ten subjects, with three recording sessions per subject. The extracted features are then classified using k-nearest-neighbors (kNNs) and support vector machine (SVM).Main results. The average classification accuracy achieved using the proposed methodology is 56.08% for kNN and 59.55% for SVM. These results demonstrate comparable or superior performance in comparison to previous works. The exploration of inter-trial phase coherence as a feature extraction technique proves promising for enhancing accuracy in inner speech classification within EEG-based BCIs.Significance. This study contributes to the advancement of EEG-based BCIs for inner speech classification by introducing a feature extraction methodology using ITC. The obtained results, on par or superior to previous works, highlight the potential significance of this approach in improving the accuracy of BCI systems. The exploration of this technique lays the groundwork for further research toward inner speech decoding.
+PY  - 2024
+DA  - 2024-Apr-26
+VL  - 21
+IS  - 2
+DO  - 10.1088/1741-2552/ad3f50
+AN  - 38626760
+UR  - https://pubmed.ncbi.nlm.nih.gov/38626760/
+ER  - 

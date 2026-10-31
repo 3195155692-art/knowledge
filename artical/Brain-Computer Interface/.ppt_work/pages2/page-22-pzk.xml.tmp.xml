@@ -1,0 +1,171 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzk">
+    <style>
+      <fill id="fzk">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bMn" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.4" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bVa">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第三幕 · 06 Tang 2023 · 边界</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.4" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bVR">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">18</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="57.8" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bMz">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="38.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">语义解码的四个代价</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bMS">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="203.6340157480315" height="165.6" topLeftX="44.64" topLeftY="142.56" presetHandlers="9.359712" type="round-rect" id="bVw">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="182.0340157480315" height="5.76" topLeftX="55.44" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bVM">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="166.1940157480315" height="33.5" topLeftX="63.36" topLeftY="156.96" type="text" id="bME">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="22.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">设备</span></strong></p>
+        </content>
+      </shape>
+      <shape width="166.1940157480315" height="108" topLeftX="63.36" topLeftY="192.96" type="text" id="bVr">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">fMRI 需要大型设备与完全配合，无法直接做成实时临床 BCI。</span></p>
+        </content>
+      </shape>
+      <shape width="203.6340157480315" height="165.6" topLeftX="266.9940157480315" topLeftY="142.56" presetHandlers="9.359712" type="round-rect" id="bVV">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="182.0340157480315" height="5.76" topLeftX="277.7940157480315" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bMg">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="166.1940157480315" height="33.5" topLeftX="285.7140157480315" topLeftY="156.96" type="text" id="bMK">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="22.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">训练</span></strong></p>
+        </content>
+      </shape>
+      <shape width="166.1940157480315" height="108" topLeftX="285.7140157480315" topLeftY="192.96" type="text" id="bVx">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">跨被试训练的 decoder 只略高于随机，模型必须个体化，且需要被试配合。</span></p>
+        </content>
+      </shape>
+      <shape width="203.6340157480315" height="165.6" topLeftX="489.34803149606296" topLeftY="142.56" presetHandlers="9.359712" type="round-rect" id="bVC">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="182.0340157480315" height="5.76" topLeftX="500.14803149606297" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bMv">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="166.1940157480315" height="33.5" topLeftX="508.068031496063" topLeftY="156.96" type="text" id="bMm">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="22.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">抵抗</span></strong></p>
+        </content>
+      </shape>
+      <shape width="166.1940157480315" height="108" topLeftX="508.068031496063" topLeftY="192.96" type="text" id="bMs">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">默算、默想动物、讲另一个故事，都会显著压低解码性能——解码可以被有意识地抵抗。</span></p>
+        </content>
+      </shape>
+      <shape width="203.6340157480315" height="165.6" topLeftX="711.701968503937" topLeftY="142.56" presetHandlers="9.359712" type="round-rect" id="bVJ">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="182.0340157480315" height="5.76" topLeftX="722.5019685039372" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bMW">
+        <fill>
+          <fillColor color="rgba(224, 122, 95, 1)" />
+        </fill>
+        <border color="rgba(224, 122, 95, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="166.1940157480315" height="33.5" topLeftX="730.421968503937" topLeftY="156.96" type="text" id="bMO">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(224, 122, 95, 1)" fontSize="22.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">隐私</span></strong></p>
+        </content>
+      </shape>
+      <shape width="166.1940157480315" height="108" topLeftX="730.421968503937" topLeftY="192.96" type="text" id="bVb">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">如果语义可以被恢复，mental privacy 就从假设变成一个现实问题。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="108" topLeftX="44.639999999999986" topLeftY="319.68" presetHandlers="9.36036" type="round-rect" id="bMN">
+        <fill>
+          <fillColor color="rgba(231, 239, 246, 1)" />
+        </fill>
+        <border color="rgba(231, 239, 246, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="115.2" height="25.1" topLeftX="69.12" topLeftY="329.76" type="text" id="bVA">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.2">本汇报推论</span></strong></p>
+        </content>
+      </shape>
+      <shape width="821.7359842519685" height="67.68" topLeftX="69.12" topLeftY="352.79999999999995" type="text" id="bVe">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">在一篇以「能解码多少」为卖点的论文里，最有价值的证据其实是「可以被抵抗」：它证明输出真的取决于被试当下的认知状态，而不是信号里一个稳定的指纹。这也意味着，跨被试失败的结论不能直接外推到意识障碍患者——我们无从确认他们能不能表达「不合作」。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="64.8" topLeftX="44.639999999999986" topLeftY="442.08" presetHandlers="9.359712" type="round-rect" id="bMT">
+        <fill>
+          <fillColor color="rgba(15, 58, 87, 1)" />
+        </fill>
+        <border color="rgba(15, 58, 87, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="102.24" height="25.1" topLeftX="67.68" topLeftY="442.08" type="text" id="bVH">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.2" defaultTabSize="72"><strong><span color="rgba(21, 118, 133, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.2">汇报结论</span></strong></p>
+        </content>
+      </shape>
+      <shape width="716.6159842519685" height="62.8" topLeftX="175.67999999999995" topLeftY="442.08" type="text" id="bVD">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="13.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">语义解码目前仍是 proof of principle；真正临床可用的版本，需要把同样的能力搬到 EEG / ECoG / iEEG 上做实时解码。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bMk">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">四个代价里，前两个是设备与训练成本，后两个更值得讨论。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">「抵抗」这一条请重点讲：它看起来是限制，其实是质量证明——说明解码依赖被试的认知状态。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">底部那条推论是把 06 和后面的临床场景连起来：跨被试失败不等于患者不可解码，因为患者未必能表达「不合作」。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,29 @@
+{
+  "vaultId": "343",
+  "vaultName": "knowledge",
+  "selective": {
+    "images": false,
+    "audio": false,
+    "video": false,
+    "pdf": false,
+    "other": false,
+    "excludedFolders": [
+      "skills"
+    ],
+    "config": {
+      "app": true,
+      "appearance": false,
+      "appearanceData": true,
+      "hotkey": true,
+      "corePlugin": true,
+      "corePluginData": true,
+      "communityPlugin": false,
+      "communityPluginData": false
+    }
+  },
+  "debugLog": false,
+  "vaultOwner": {
+    "vaultId": "343",
+    "email": "oldhorse041007@163.com"
+  }
+}

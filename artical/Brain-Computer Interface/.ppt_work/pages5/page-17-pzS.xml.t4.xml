@@ -1,0 +1,244 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzS">
+    <style>
+      <fill id="fzS">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bRJ" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bRZ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第二幕 · 03 Kronemer 2025 · 方法</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bRX">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">14</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bRQ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">为什么「让患者报告」会污染我们要测的东西</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bRk">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="870.6959842519685" height="100.8" topLeftX="44.639999999999986" topLeftY="136.8" presetHandlers="9.360288" type="round-rect" id="bRb">
+        <fill>
+          <fillColor color="rgba(252, 238, 218, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="475.2" height="24.4" topLeftX="69.12000000000003" topLeftY="145.44" type="text" id="bRi">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">① 传统做法：把报告也算进测量</span></strong></p>
+        </content>
+      </shape>
+      <shape width="264.311968503937" height="36" topLeftX="69.12" topLeftY="172.8" presetHandlers="9.36" type="round-rect" id="bRp">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="249.911968503937" height="36" topLeftX="76.32000000000001" topLeftY="172.8" type="text" id="bRo">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">刺激</span></strong></p>
+        </content>
+      </shape>
+      <shape width="14.4" height="36" topLeftX="331.991968503937" topLeftY="172.8" type="text" id="bRV">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="264.311968503937" height="36" topLeftX="347.831968503937" topLeftY="172.8" presetHandlers="9.36" type="round-rect" id="bRu">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="249.911968503937" height="36" topLeftX="355.031968503937" topLeftY="172.8" type="text" id="bRq">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">患者报告「我看到了」</span></strong></p>
+        </content>
+      </shape>
+      <shape width="14.4" height="36" topLeftX="610.7040157480315" topLeftY="172.8" type="text" id="bRz">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="264.311968503937" height="36" topLeftX="626.5440157480316" topLeftY="172.8" presetHandlers="9.36" type="round-rect" id="bRh">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="249.911968503937" height="36" topLeftX="633.7440157480315" topLeftY="172.8" type="text" id="bRN">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">脑信号</span></strong></p>
+        </content>
+      </shape>
+      <shape width="821.7359842519685" height="18.72" topLeftX="69.12" topLeftY="213.12" type="text" id="bRx">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">报告这个动作本身会改变脑活动——测量动作进入了被测量的对象。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="100.8" topLeftX="44.639999999999986" topLeftY="244.79999999999998" presetHandlers="9.360288" type="round-rect" id="bRC">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="475.2" height="24.4" topLeftX="69.12000000000003" topLeftY="253.44" type="text" id="bRj">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">② no-report paradigm：把报告拿出去</span></strong></p>
+        </content>
+      </shape>
+      <shape width="264.311968503937" height="36" topLeftX="69.12" topLeftY="280.8" presetHandlers="9.36" type="round-rect" id="bRL">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="249.911968503937" height="36" topLeftX="76.32000000000001" topLeftY="280.8" type="text" id="bRT">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">刺激</span></strong></p>
+        </content>
+      </shape>
+      <shape width="14.4" height="36" topLeftX="331.991968503937" topLeftY="280.8" type="text" id="bRR">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(27, 140, 153, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="264.311968503937" height="36" topLeftX="347.831968503937" topLeftY="280.8" presetHandlers="9.36" type="round-rect" id="bRl">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="249.911968503937" height="36" topLeftX="355.031968503937" topLeftY="280.8" type="text" id="bRG">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">脑 / 生理信号</span></strong></p>
+        </content>
+      </shape>
+      <shape width="14.4" height="36" topLeftX="610.7040157480315" topLeftY="280.8" type="text" id="bRP">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(27, 140, 153, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="264.311968503937" height="36" topLeftX="626.5440157480316" topLeftY="280.8" presetHandlers="9.36" type="round-rect" id="bRm">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="249.911968503937" height="36" topLeftX="633.7440157480315" topLeftY="280.8" type="text" id="bRM">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">不要求显性报告</span></strong></p>
+        </content>
+      </shape>
+      <shape width="821.7359842519685" height="18.72" topLeftX="69.12" topLeftY="321.12" type="text" id="bRF">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">研究的是 consciousness 本身，而不是 reporting process。</span></p>
+        </content>
+      </shape>
+      <shape width="277.751968503937" height="83.52" topLeftX="44.640000000000015" topLeftY="355.68" presetHandlers="9.360086" type="round-rect" id="bRI">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="63.36" topLeftX="53.28" topLeftY="365.76" presetHandlers="2.7" type="round-rect" id="bRy">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="241.751968503937" height="22.8" topLeftX="63.359999999999985" topLeftY="364.32" type="text" id="bRU">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="15.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">在 DoC 场景尤其关键</span></strong></p>
+        </content>
+      </shape>
+      <shape width="241.751968503937" height="47.4" topLeftX="63.359999999999985" topLeftY="388.8" type="text" id="bRW">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">「能不能报告」本身就是待检验的变量，不能既当测量工具、又当结论依据。</span></p>
+        </content>
+      </shape>
+      <shape width="277.751968503937" height="83.52" topLeftX="341.1119685039371" topLeftY="355.68" presetHandlers="9.360086" type="round-rect" id="bRe">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="63.36" topLeftX="349.751968503937" topLeftY="365.76" presetHandlers="2.7" type="round-rect" id="bRf">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="241.751968503937" height="22.8" topLeftX="359.831968503937" topLeftY="364.32" type="text" id="bRt">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="15.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">它剥离的是报告过程</span></strong></p>
+        </content>
+      </shape>
+      <shape width="241.751968503937" height="44.64" topLeftX="359.831968503937" topLeftY="388.8" type="text" id="bRd">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">不是降低要求，而是把「报告」从信号里分离出去。</span></p>
+        </content>
+      </shape>
+      <shape width="277.751968503937" height="83.52" topLeftX="637.5840157480314" topLeftY="355.68" presetHandlers="9.360086" type="round-rect" id="bRg">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="63.36" topLeftX="646.2240157480315" topLeftY="365.76" presetHandlers="2.7" type="round-rect" id="bRD">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="241.751968503937" height="22.8" topLeftX="656.3040157480315" topLeftY="364.32" type="text" id="bRB">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">代价是失去行为锚点</span></strong></p>
+        </content>
+      </shape>
+      <shape width="241.751968503937" height="47.4" topLeftX="656.3040157480315" topLeftY="388.8" type="text" id="bRc">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">因此反过来要求更强的对照设计——这正是下一页四道对照的来由。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="20.16" topLeftX="44.639999999999986" topLeftY="450.72" type="text" id="bRY">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(217, 138, 33, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">▍本页涉及 03 原文正文，笔记为摘要级提取：原文需机构订阅，以上为公开摘要与综述框架层面的整理。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bRv">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页回答「为什么要费劲做无报告范式」。核心一句：报告本身是脑活动的一部分，所以让患者报告，等于把测量工具混进了被测对象。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">在意识障碍场景这一点更尖锐：能不能报告，本来就是我们要判断的事情，不能同时拿它当尺子。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">提醒听众：no-report 的代价是失去行为锚点，所以必须用更严的对照补回来。</span></p>
+      </content>
+    </note>
+  </slide>

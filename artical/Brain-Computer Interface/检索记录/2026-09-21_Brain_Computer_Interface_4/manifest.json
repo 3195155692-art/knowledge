@@ -1,0 +1,185 @@
+{
+  "project": "Brain-Computer Interface/2026-09-21_Brain_Computer_Interface_4",
+  "generatedAt": "2026-09-21T19:10:02+08:00",
+  "tool": "lky-search v1.0.0",
+  "kind": "search",
+  "query": "(\"intracortical\"[Title/Abstract] OR \"neuroprosthesis\"[Title/Abstract] OR \"brain-computer interface\"[Title/Abstract]) AND (tetraplegia[Title/Abstract] OR paralysis[Title/Abstract] OR \"motor cortex\"[Title/Abstract]) AND (2024:2026[dp])",
+  "sources": [
+    "pubmed",
+    "europepmc",
+    "openalex",
+    "crossref",
+    "arxiv"
+  ],
+  "sort": "cited",
+  "filters": {
+    "year_from": null,
+    "year_to": null
+  },
+  "outputLayout": {
+    "notes": "*.md",
+    "pdfs": "PDFs/",
+    "data": "results.{csv,ris,bib,json}"
+  },
+  "fullTextPolicy": "本技能只判定 OA；付费与 CNKI 全文由 nature-downloader 获取",
+  "summary": {
+    "total": 8,
+    "with_doi": 8,
+    "open_access": 0
+  },
+  "errors": [],
+  "results": [
+    {
+      "index": 1,
+      "title": "A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia.",
+      "authors": "Santosh Chandrasekaran; Sarah K Wandelt; Aniket Jangam; Zeev Elias; Erona Ibroci; Christina Maffei; Isabelle A Rosenthal; Richard Ramdeo; Joo-Won Kim; Junqian Xu; Matthew F Glasser; Allison Neuwirth; Todd A Goldstein; Nathan E Crone; Matthew S Fifer; Gelana Tostaeva; Stephan Bickel; Douglas Griffin; Michael Funaro; Nicholas G Carras; Rachel Pruitt; Netanel Ben-Shalom; Adam B Stein; Ashesh D Mehta; Chad E Bouton",
+      "journal": "Nat Med",
+      "year": 2026,
+      "doi": "10.1038/s41591-026-04498-0",
+      "pmid": "42463883",
+      "pmcid": "PMC13375563",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463883/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 2,
+      "title": "Inner speech in motor cortex and implications for speech neuroprostheses.",
+      "authors": "Erin M Kunz; Benyamin Abramovich Krasa; Foram Kamdar; Donald T Avansino; Nick Hahn; Seonghyun Yoon; Akansha Singh; Samuel R Nason-Tomaszewski; Nicholas S Card; Justin J Jude; Brandon G Jacques; Payton H Bechefsky; Carrina Iacobacci; Leigh R Hochberg; Daniel B Rubin; Ziv M Williams; David M Brandman; Sergey D Stavisky; Nicholas AuYong; Chethan Pandarinath; Shaul Druckmann; Jaimie M Henderson; Francis R Willett",
+      "journal": "Cell",
+      "year": 2025,
+      "doi": "10.1016/j.cell.2025.06.015",
+      "pmid": "40816265",
+      "pmcid": "PMC12360486",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40816265/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 3,
+      "title": "An instantaneous voice-synthesis neuroprosthesis.",
+      "authors": "Maitreyee Wairagkar; Nicholas S Card; Tyler Singer-Clark; Xianda Hou; Carrina Iacobacci; Lee M Miller; Leigh R Hochberg; David M Brandman; Sergey D Stavisky",
+      "journal": "Nature",
+      "year": 2025,
+      "doi": "10.1038/s41586-025-09127-3",
+      "pmid": "40506548",
+      "pmcid": "PMC12369848",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40506548/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 4,
+      "title": "A streaming brain-to-voice neuroprosthesis to restore naturalistic communication.",
+      "authors": "Kaylo T Littlejohn; Cheol Jun Cho; Jessie R Liu; Alexander B Silva; Bohan Yu; Vanessa R Anderson; Cady M Kurtz-Miott; Samantha Brosler; Anshul P Kashyap; Irina P Hallinan; Adit Shah; Adelyn Tu-Chan; Karunesh Ganguly; David A Moses; Edward F Chang; Gopala K Anumanchipalli",
+      "journal": "Nat Neurosci",
+      "year": 2025,
+      "doi": "10.1038/s41593-025-01905-6",
+      "pmid": "40164740",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40164740/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 5,
+      "title": "Stabilizing brain-computer interfaces through alignment of latent dynamics.",
+      "authors": "Brianna M Karpowicz; Yahia H Ali; Lahiru N Wimalasena; Andrew R Sedler; Mohammad Reza Keshtkaran; Kevin Bodkin; Xuan Ma; Daniel B Rubin; Ziv M Williams; Sydney S Cash; Leigh R Hochberg; Lee E Miller; Chethan Pandarinath",
+      "journal": "Nat Commun",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-59652-y",
+      "pmid": "40389429",
+      "pmcid": "PMC12089531",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40389429/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 6,
+      "title": "An Accurate and Rapidly Calibrating Speech Neuroprosthesis.",
+      "authors": "Nicholas S Card; Maitreyee Wairagkar; Carrina Iacobacci; Xianda Hou; Tyler Singer-Clark; Francis R Willett; Erin M Kunz; Chaofei Fan; Maryam Vahdati Nia; Darrel R Deo; Aparna Srinivasan; Eun Young Choi; Matthew F Glasser; Leigh R Hochberg; Jaimie M Henderson; Kiarash Shahlaie; Sergey D Stavisky; David M Brandman",
+      "journal": "N Engl J Med",
+      "year": 2024,
+      "doi": "10.1056/nejmoa2314132",
+      "pmid": "39141853",
+      "pmcid": "PMC11328962",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39141853/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 7,
+      "title": "Speech motor cortex enables BCI cursor control and click.",
+      "authors": "Tyler Singer-Clark; Xianda Hou; Nicholas S Card; Maitreyee Wairagkar; Carrina Iacobacci; Hamza Peracha; Leigh R Hochberg; Sergey D Stavisky; David M Brandman",
+      "journal": "bioRxiv",
+      "year": 2024,
+      "doi": "10.1101/2024.11.12.623096",
+      "pmid": "39605556",
+      "pmcid": "PMC11601350",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39605556/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 8,
+      "title": "Motor somatotopy impacts imagery strategy success in human intracortical brain-computer interfaces.",
+      "authors": "N G Kunigk; H R Schone; C Gontier; W Hockeimer; A F Tortolani; N G Hatsopoulos; J E Downey; S M Chase; M L Boninger; B D Dekleva; J L Collinger",
+      "journal": "medRxiv",
+      "year": 2024,
+      "doi": "10.1101/2024.08.01.24311180",
+      "pmid": "39132484",
+      "pmcid": "PMC11312650",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39132484/",
+      "file": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cns71101" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CNS Neurosci Ther</journal-id><journal-id journal-id-type="iso-abbrev">CNS Neurosci Ther</journal-id><journal-id journal-id-type="pmc-domain-id">3640</journal-id><journal-id journal-id-type="pmc-domain">cnsneurosci</journal-id><journal-id journal-id-type="nlm-id">101473265</journal-id><journal-id journal-id-type="publisher-id">CNS</journal-id><journal-title-group><journal-title>CNS Neuroscience &amp; Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">1755-5930</issn><issn pub-type="epub">1755-5949</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13498968</article-id><article-id pub-id-type="pmcid-ver">PMC13498968.1</article-id><article-id pub-id-type="pmcaid">13498968</article-id><article-id pub-id-type="pmcaiid">13498968</article-id><article-id pub-id-type="pmid">42630118</article-id><article-id pub-id-type="doi">10.1002/cns.71101</article-id><article-id pub-id-type="publisher-id">CNS71101</article-id><article-id pub-id-type="other">7616787</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Early High‐Frequency Network Reorganization After Spinal Cord Stimulation Is Linked to Long‐Term Recovery in Disorders of Consciousness</article-title></title-group><contrib-group><contrib id="cns71101-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="K">Kang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-9813-7895</contrib-id><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cns71101-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="Y">Yunqian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2199-8618</contrib-id><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cns71101-cr-0003" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="Z">Zean</given-names></name><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cns71101-cr-0004" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="X">Xinran</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0000-5958-7465</contrib-id><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cns71101-cr-0005" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="Z">Zhiyang</given-names></name><xref rid="cns71101-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cns71101-cr-0006" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="C">Chunyun</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4284-8064</contrib-id><xref rid="cns71101-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cns71101-cr-0007" contrib-type="author"><name name-style="western"><surname>Lv</surname><given-names initials="C">Chuanxiang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-4454-3776</contrib-id><xref rid="cns71101-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cns71101-cr-0008" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="B">Boyuan</given-names></name><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cns71101-cr-0009" contrib-type="author"><name name-style="western"><surname>Jin</surname><given-names initials="H">Haoyong</given-names></name><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cns71101-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bie</surname><given-names initials="L">Li</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-1048-1815</contrib-id><xref rid="cns71101-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>bie_li@jlu.edu.cn</email></address></contrib></contrib-group><aff id="cns71101-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>The First Hospital of Jilin University</institution>
+<city>Changchun</city>
+<country country="CN">China</country>
+</aff><aff id="cns71101-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>The Fourth People's Hospital of Jinan</institution>
+<city>Jinan</city>
+<country country="CN">China</country>
+</aff><aff id="cns71101-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>Qilu Hospital of Shandong University (Qingdao)</institution>
+<city>Qingdao</city>
+<country country="CN">China</country>
+</aff><aff id="cns71101-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>The First Affiliated Hospital of Guangzhou Medical University</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Li Bie (<email>bie_li@jlu.edu.cn</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>8</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2026</year></pub-date><volume>32</volume><issue seq="630">8</issue><issue-id pub-id-type="pmc-issue-id">518652</issue-id><issue-id pub-id-type="doi">10.1002/cns.v32.8</issue-id><elocation-id>e71101</elocation-id><history>
+<date date-type="rev-recd"><day>28</day><month>7</month><year>2026</year></date>
+<date date-type="received"><day>01</day><month>5</month><year>2026</year></date>
+<date date-type="accepted"><day>13</day><month>8</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>22</day><month>08</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>23</day><month>08</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-26 19:25:21.393"><day>26</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">CNS Neuroscience &amp; Therapeutics</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CNS-32-e71101.pdf"><?pdf-name CNS-32-e71101.pdf?><?pdf-size 3679309?><?pdf-md5 4e01c7a37cb174f84c317e7bd0638e6a?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:ca07/13498968/4e01c7a37cb1/CNS-32-e71101.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CNS-32-e71101.pdf"/><abstract><title>ABSTRACT</title><sec id="cns71101-sec-0001"><title>Aims</title><p>Spinal cord stimulation (SCS) is a promising treatment for disorders of consciousness (DoC), but early neurophysiological markers of durable recovery remain unclear. We aimed to determine whether source‐space EEG network energy and communication features capture early brain‐network reorganization linked to 6‐month recovery in chronic DoC.</p></sec><sec id="cns71101-sec-0002"><title>Methods</title><p>Thirty‐one chronic DoC patients undergoing cervical SCS completed resting‐state EEG before stimulation and at 1 week and 1 month after stimulation onset. Source‐space EEG was analyzed across delta, theta, alpha, and beta bands. NetPower quantified network energy within five canonical networks, and ModularAUC quantified threshold‐robust within‐ and between‐network communication. EEG features were related to 6‐month CRS‐R outcomes.</p></sec><sec id="cns71101-sec-0003"><title>Results</title><p>Recovery was associated with sustained alpha/beta NetPower enhancement across default mode, frontoparietal, cingulo‐opercular, somatomotor, and occipital networks, peaking at 1 month. Beta‐band ModularAUC showed the clearest communication‐architecture consolidation, with broader within‐ and cross‐network synergy in recovered patients. Low‐frequency changes were weaker and less consistent. High‐frequency NetPower features, especially FPN alpha at 1 month and CON beta at 1 week, showed the strongest associations with long‐term improvement.</p></sec><sec id="cns71101-sec-0004"><title>Conclusions</title><p>SCS‐related recovery in DoC is characterized by high‐frequency network‐energy enhancement and beta‐band communication consolidation. Here, high‐frequency network reorganization mainly refers to alpha‐ and beta‐band source‐space EEG changes. Source‐space EEG may provide early potential neurophysiological markers for monitoring recovery.</p></sec></abstract><abstract abstract-type="graphical"><p>Source‐space EEG revealed that recovery after spinal cord stimulation in chronic disorders of consciousness is marked by early consolidation of high‐frequency network activity. Sustained alpha/beta NetPower increases and beta‐band communication strengthening across large‐scale networks—strongest at 1 month—were associated with better 6‐month clinical recovery.<boxed-text position="anchor" content-type="graphic" id="cns71101-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CNS-32-e71101-g006.webp"><?image-name CNS-32-e71101-g006.webp?><?image-size 29870?><?image-md5 27073445ecef1cb170bfbc3279f0355b?><?image-image-server-status NEVER_LOAD?><?image-original-height 405?><?image-original-width 331?><?image-scaled-height 405?><?image-scaled-width 331?><?image-cloudpmc-urn urn:cdn:blobs/ca07/13498968/27073445ecef/CNS-32-e71101-g006.webp?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cns71101-kwd-0001">alpha/beta oscillations</kwd><kwd id="cns71101-kwd-0002">brain‐network reorganization</kwd><kwd id="cns71101-kwd-0003">candidate recovery markers</kwd><kwd id="cns71101-kwd-0004">disorders of consciousness</kwd><kwd id="cns71101-kwd-0005">ModularAUC</kwd><kwd id="cns71101-kwd-0006">NetPower</kwd><kwd id="cns71101-kwd-0007">source‐space EEG</kwd><kwd id="cns71101-kwd-0008">spinal cord stimulation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Science and Technology Development Plan Project of Jilin Province</institution></institution-wrap>
+</funding-source><award-id>20230204094YY</award-id><award-id>YDZJ202201ZYTS001</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="13"/><word-count count="8400"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.6 mode:remove_FC converted:22.08.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cns71101-body-0001"><sec id="cns71101-sec-0005"><label>1</label><title>Introduction</title><p>Disorders of consciousness (DoC), including vegetative state/unresponsive wakefulness syndrome (VS/UWS) and minimally conscious state (MCS), remain among the most challenging syndromes after acquired brain injury [<xref rid="cns71101-bib-0001" ref-type="bibr">1</xref>, <xref rid="cns71101-bib-0002" ref-type="bibr">2</xref>, <xref rid="cns71101-bib-0003" ref-type="bibr">3</xref>]. MCS can be further divided into MCS− and MCS+ according to language‐related responses such as command following [<xref rid="cns71101-bib-0004" ref-type="bibr">4</xref>, <xref rid="cns71101-bib-0005" ref-type="bibr">5</xref>]. Clinical decisions still rely heavily on the Coma Recovery Scale‐Revised (CRS‐R), which is indispensable but inherently behavior dependent [<xref rid="cns71101-bib-0006" ref-type="bibr">6</xref>, <xref rid="cns71101-bib-0007" ref-type="bibr">7</xref>]. In these patients, arousal fluctuation, motor‐output impairment, aphasia, fatigue, and limited behavioral repertoire can mask residual brain function [<xref rid="cns71101-bib-0001" ref-type="bibr">1</xref>]. As a result, short‐term clinical examination may underestimate recovery potential, and delayed improvement may be recognized only after a substantial period of treatment and observation.</p><p>Neuromodulation has become a major therapeutic direction for DoC because it aims to reactivate residual circuits rather than merely describe the behavioral state [<xref rid="cns71101-bib-0008" ref-type="bibr">8</xref>]. Non‐invasive methods such as transcranial direct current stimulation (tDCS) or transcranial alternating current stimulation (tACS) can modulate cortical excitability, whereas invasive approaches may engage deeper arousal circuits [<xref rid="cns71101-bib-0009" ref-type="bibr">9</xref>, <xref rid="cns71101-bib-0010" ref-type="bibr">10</xref>]. Among invasive approaches, spinal cord stimulation (SCS) has emerged as a representative arousal‐promoting strategy with demonstrated potential to improve the level of consciousness. A large‐sample study reported that 54% of VS patients achieved favorable outcomes after long‐term SCS [<xref rid="cns71101-bib-0011" ref-type="bibr">11</xref>]; a subsequent 2019 study found that 42% of VS patients were SCS‐responsive [<xref rid="cns71101-bib-0012" ref-type="bibr">12</xref>]. Synthesizing recent reports, the overall SCS arousal‐response rate in DoC is approximately 30%–50%. Thus, although SCS holds promise, its therapeutic effect is markedly heterogeneous, and early behavioral changes are often difficult to distinguish from transient arousal fluctuations. Mechanistically, it is proposed that SCS promotes arousal by engaging ascending arousal systems, thalamocortical modulatory pathways, and large‐scale brain‐network activity [<xref rid="cns71101-bib-0013" ref-type="bibr">13</xref>, <xref rid="cns71101-bib-0014" ref-type="bibr">14</xref>, <xref rid="cns71101-bib-0015" ref-type="bibr">15</xref>]. Resting‐state EEG evidence from Bai et al. suggests that SCS may modulate a “reticular formation‐thalamus‐frontal cortex” network in MCS patients [<xref rid="cns71101-bib-0016" ref-type="bibr">16</xref>]; Yamamoto et al. reported that SCS broadly increases whole‐brain cerebral blood flow, with a 22% elevation during stimulation relative to pre‐stimulation [<xref rid="cns71101-bib-0017" ref-type="bibr">17</xref>]. Consequently, the pivotal question facing the field is no longer simply whether SCS is effective, but rather whether it induces central biomarkers that are linked to long‐term recovery and whether these biomarkers can be objectively captured before substantial behavioral improvement manifests.</p><p>Electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) have been widely used to support clinical assessment and mechanistic investigation in DoC. Whole‐brain network models derived from resting‐state fMRI have provided a vital platform for understanding brain functional plasticity [<xref rid="cns71101-bib-0018" ref-type="bibr">18</xref>, <xref rid="cns71101-bib-0019" ref-type="bibr">19</xref>, <xref rid="cns71101-bib-0020" ref-type="bibr">20</xref>, <xref rid="cns71101-bib-0021" ref-type="bibr">21</xref>]; graph‐theoretic analyses can characterize topological properties of functional networks, including local and global communication efficiency, while modularity analysis reveals organizing principles of within‐ and between‐network connectivity [<xref rid="cns71101-bib-0022" ref-type="bibr">22</xref>, <xref rid="cns71101-bib-0023" ref-type="bibr">23</xref>]. Relative to fMRI, EEG offers bedside accessibility, repeatability, and millisecond‐scale temporal resolution [<xref rid="cns71101-bib-0024" ref-type="bibr">24</xref>], making it especially suited to capturing rapidly evolving system‐level brain dynamics following neuromodulation. Prior studies show that patients with higher levels of consciousness or better outcomes tend to exhibit more preserved connectivity and better organized network dynamics [<xref rid="cns71101-bib-0025" ref-type="bibr">25</xref>, <xref rid="cns71101-bib-0026" ref-type="bibr">26</xref>]. At the same time, neuromodulation studies suggest that therapeutic response reflects not only regional activation changes but also reconfiguration of cross‐regional and cross‐network information integration [<xref rid="cns71101-bib-0027" ref-type="bibr">27</xref>, <xref rid="cns71101-bib-0028" ref-type="bibr">28</xref>, <xref rid="cns71101-bib-0029" ref-type="bibr">29</xref>, <xref rid="cns71101-bib-0030" ref-type="bibr">30</xref>]. Yet most EEG studies remain centered on scalp‐level spectral power, single connectivity metrics, or isolated dynamic features [<xref rid="cns71101-bib-0031" ref-type="bibr">31</xref>, <xref rid="cns71101-bib-0032" ref-type="bibr">32</xref>, <xref rid="cns71101-bib-0033" ref-type="bibr">33</xref>], limiting their ability to capture both network activation and network communication.</p><p>To address this gap, we developed a source‐space EEG dual‐axis framework to capture early brain‐network reorganization after SCS. This framework quantified network energy using spectral power within five canonical networks and communication architecture using threshold‐robust module‐interaction AUC. We then related longitudinal EEG changes from baseline to 1 week and 1 month after implantation to 6‐month clinical recovery.</p></sec><sec sec-type="methods" id="cns71101-sec-0006"><label>2</label><title>Methods</title><sec id="cns71101-sec-0007"><label>2.1</label><title>Study Design and Participants</title><p>This longitudinal observational study included 31 patients with chronic DoC who underwent cervical SCS as clinical treatment and completed resting‐state EEG at all three predefined time points plus 6‐month follow‐up. Inclusion criteria were DoC diagnosed by repeated CRS‐R assessment, age 18–75 years, disease duration of at least 3 months, clinical stability with limited response to conventional treatment, and no major skull defect affecting EEG acquisition. Exclusion criteria included disease duration under 3 months, vertebral fracture or severe spinal canal stenosis, severe structural defects compromising assessment, intracranial implants, life‐threatening complications, or anesthetic/sedative use within 48 h before EEG.</p></sec><sec id="cns71101-sec-0008"><label>2.2</label><title>
+<styled-content style="fixed-case" toggle="no">SCS</styled-content> Implantation and Stimulation Protocol</title><p>SCS electrodes were implanted under general anesthesia into the dorsal epidural space at the C2–C4 level. Postoperative imaging and clinical examination were used to confirm electrode location and treatment safety. Stimulation was initiated on postoperative day 3 and delivered daily from 08:00 to 20:00 using alternating 15‐min ON and 15‐min OFF cycles. Stimulation parameters were set at 70 Hz, a pulse width of 210 μs, and 1.2–5.4 V, and were individually adjusted according to patient tolerance and arousal‐related responses while avoiding excessive motor activation. EEG was acquired during quiet resting state at baseline/pre‐SCS (Pre), 1 week after stimulation initiation (Post1W), and 1 month after stimulation initiation (Post1M). The stimulator was turned off 15 min before each recording to minimize online stimulation artifacts.</p></sec><sec id="cns71101-sec-0009"><label>2.3</label><title>Clinical Assessment and Outcome Definition</title><p>CRS‐R was used for diagnosis and longitudinal outcome assessment. Baseline variables included age, sex, etiology, disease duration, CRS‐R total score, and CRS‐R index [<xref rid="cns71101-bib-0034" ref-type="bibr">34</xref>]. The primary categorical outcome was defined as improvement by at least one CRS‐R diagnostic category at 6 months relative to baseline. Patients meeting this criterion were assigned to the Recovery group; the remainder formed the Non‐recovery group. Two continuous endpoints quantified improvement magnitude: ΔCRS‐R total at (6 m − baseline) (defined as CRS‐R total at 6 months minus CRS‐R total at baseline) and Relative ΔCRS‐R index (defined as 100 × [CRS‐R index at 6 months − CRS‐R index at baseline]/CRS‐R index at baseline). The former captures the absolute magnitude of behavioral improvement; the latter reflects the relative recovery efficiency.</p></sec><sec id="cns71101-sec-0010"><label>2.4</label><title>
+<styled-content style="fixed-case" toggle="no">EEG</styled-content> Acquisition and Preprocessing</title><p>EEG was recorded with a 64‐channel Grael system (Compumedics, Australia) at 1024 Hz using the international 10–20 layout. Each session lasted approximately 15 min during quiet rest, with impedance maintained below 10 kΩ. Preprocessing was performed in MATLAB R2022b with EEGLAB [<xref rid="cns71101-bib-0035" ref-type="bibr">35</xref>] and custom scripts. Bad channels were identified by visual inspection and signal‐quality criteria, including flat signals, high noise, disconnection, or abnormal amplitude/variance relative to neighboring electrodes, and were removed before ICA. Data were band‐pass filtered at 1–40 Hz and notch filtered at 48–52 Hz. ICA components corresponding to ocular, muscle, cardiac, and electrode artifacts were removed by integrating topography, time course, and spectrum. Only artifact‐free segments within −100 to 100 μV were retained, and each included recording preserved more than 80% of its original duration.</p></sec><sec id="cns71101-sec-0011"><label>2.5</label><title>Source Reconstruction and Network Definition</title><p>Source‐space analysis employed a fixed 6‐s time window to obtain stable individual‐level network phenotypes. Source reconstruction was performed using the FieldTrip toolbox [<xref rid="cns71101-bib-0036" ref-type="bibr">36</xref>] with a partial canonical coherence (PCC) frequency‐domain beamformer. The standard boundary element method (BEM) head model was adopted, with a source‐space grid resolution of 0.6 cm and a regularization parameter of 10%. Noise projection was enabled, source orientation was fixed, and the spatial filter was retained for subsequent ROI‐level aggregation. Four frequency bands were defined: delta (1–4 Hz), theta (4–8 Hz), alpha (8–13 Hz), and beta (13–30 Hz). ROIs were defined according to the Dosenbach atlas [<xref rid="cns71101-bib-0037" ref-type="bibr">37</xref>] and mapped onto five canonical functional networks: default mode network (DMN), frontoparietal network (FPN), cingulo‐opercular/salience network (CON), somatomotor network (SMN), and occipital network (ON). A schematic of the brain template used for source reconstruction and network mapping is provided in Figure <xref rid="cns71101-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="cns71101-sec-0012"><label>2.6</label><title>Construction of the Dual‐Axis <styled-content style="fixed-case" toggle="no">EEG</styled-content> Phenotype</title><p>Two complementary source‐space EEG phenotypic axes were constructed. All source‐space features were first estimated from retained clean 6‐s EEG segments and then averaged within each subject to generate subject‐level phenotypes. The first is the energy‐state axis. For each frequency band, frequency‐domain source estimates were obtained using a multitaper Fourier transform with discrete prolate spheroidal sequence (DPSS) tapers, and source power was extracted as the largest eigenvalue of the source power matrix, as implemented in FieldTrip [<xref rid="cns71101-bib-0036" ref-type="bibr">36</xref>]. Spectral power was first computed for each ROI and then averaged within each of the five canonical networks, yielding network‐level power indices. To mitigate the influence of zero values and skewed distributions, a small constant was added before log transformation. The resulting network‐level energy metric is denoted NetPower. The second is the communication‐architecture axis. For this axis, source‐space functional connectivity matrices were constructed from segment‐level source Fourier coefficients using coherence, and the absolute value of the imaginary component of coherence was retained to reduce the potential influence of zero‐lag coupling and volume conduction. Based on the source‐space functional connectivity matrix, 15 module‐interaction features were extracted per frequency band, comprising 5 within‐network and 10 between‐network connectivity indices. To reduce the bias associated with any single graph‐threshold selection, module‐interaction strength was computed using GRETNA [<xref rid="cns71101-bib-0038" ref-type="bibr">38</xref>] across 55 thresholds ranging from 0.06 to 0.60. The area under the curve was calculated by integrating the threshold‐dependent module‐interaction values across this threshold range and was taken as the final threshold‐robust phenotype, denoted ModularAUC. The same analytical pipeline was applied to all four frequency bands.</p></sec><sec id="cns71101-sec-0013"><label>2.7</label><title>Statistical Analysis and Correlation Analysis</title><p>For demographic comparisons, sex and etiology were tested using <italic toggle="yes">χ</italic>
+<sup>2</sup> tests, whereas age, post‐injury duration, CRS‐R total score, and CRS‐R index were compared using <italic toggle="yes">t</italic>‐tests. Data normality was assessed with the Shapiro–Wilk test. For the energy axis, linear mixed‐effects models tested the effects of Group, Time, and Group × Time, with subject as a random intercept. NetPower differences between Recovery and Non‐recovery groups were then assessed for each network, time point, and frequency band, with Cohen's d used as the effect size. For the communication axis, ModularAUC was compared between groups at three static time points (Pre, Post1W, Post1M) and three change windows (ΔPost1W − Pre, ΔPost1M − Pre, ΔPost1M − Post1W) using two‐tailed Welch's <italic toggle="yes">t</italic>‐tests, with Hedges' <italic toggle="yes">g</italic> as the effect size. Benjamini–Hochberg false discovery rate correction was applied within prespecified analytical families. For NetPower group comparisons, each frequency band was treated as a separate test family, and post hoc between‐group comparisons were corrected across the five networks and three time points within that band. For ModularAUC group comparisons, correction was performed separately within each frequency band and comparison type, with the 15 module‐interaction features corrected within static time‐point comparisons and change‐window comparisons. For EEG–clinical correlation analyses, correction was performed separately for each clinical endpoint and feature family, namely NetPower‐alpha, NetPower‐beta, ModularAUC‐alpha, and ModularAUC‐beta.</p><p>Associations between EEG features and long‐term clinical improvement were examined using partial Spearman rank correlations controlling for age, time post‐injury, and baseline CRS‐R total score. Analyses included alpha‐ and beta‐band NetPower and ModularAUC features and two continuous clinical outcomes: ΔCRS‐R total and Relative ΔCRS‐R index. Clinical, NetPower, and ModularAUC data were aligned by subject to form a unified analysis matrix. For each endpoint, the top 10 EEG features ranked by absolute correlation coefficient were identified and tested for robustness using 5000‐sample bootstrap confidence intervals, leave‐one‐out stability analysis, and feature overlap/composition analysis across feature family, time point, and feature type. The same covariate adjustment was retained in all bootstrap and leave‐one‐out analyses. All analyses were performed in Python.</p></sec></sec><sec sec-type="results" id="cns71101-sec-0014"><label>3</label><title>Results</title><sec id="cns71101-sec-0015"><label>3.1</label><title>Demographic and Clinical Characteristics</title><p>Baseline characteristics were comparable between the Recovery and Non‐recovery groups, with no significant differences in age (52.17 ± 13.77 vs. 50.86 ± 14.87 years, <italic toggle="yes">p</italic> = 0.62), female proportion (41.7% vs. 42.9%, <italic toggle="yes">p</italic> = 1.00), disease duration (19.83 ± 7.92 vs. 16.43 ± 7.16 months, <italic toggle="yes">p</italic> = 0.46), baseline CRS‐R total score (7.62 ± 3.33 vs. 9.71 ± 3.45, <italic toggle="yes">p</italic> = 0.16), baseline CRS‐R index (18.86 ± 17.79 vs. 28.52 ± 26.09, <italic toggle="yes">p</italic> = 0.29), or etiology distribution (<italic toggle="yes">p</italic> = 0.10) (Table <xref rid="cns71101-tbl-0001" ref-type="table">1</xref>). Early behavioral trajectories were largely overlapping, with no significant group difference in CRS‐R total score from baseline to 1 month; however, by 6 months, CRS‐R total was significantly higher in the Recovery group (14.50 ± 4.39 vs. 10.43 ± 4.08, <italic toggle="yes">p</italic> = 0.03) (Figure <xref rid="cns71101-fig-0001" ref-type="fig">1A</xref>; Table <xref rid="cns71101-tbl-0001" ref-type="table">1</xref>). Improvement indices showed clearer separation: the Recovery group had greater ΔCRS‐R total (6.88 ± 3.25 vs. 0.71 ± 0.95, <italic toggle="yes">p</italic> &lt; 0.001) (Figure <xref rid="cns71101-fig-0001" ref-type="fig">1B</xref>; Table <xref rid="cns71101-tbl-0001" ref-type="table">1</xref>) and Relative ΔCRS‐R index (515.38 ± 582.08% vs. 3.97 ± 7.90%, <italic toggle="yes">p</italic> &lt; 0.001) (Figure <xref rid="cns71101-fig-0001" ref-type="fig">1C</xref>; Table <xref rid="cns71101-tbl-0001" ref-type="table">1</xref>), as well as higher 6‐month CRS‐R index (57.28 ± 26.91 vs. 29.16 ± 26.58, <italic toggle="yes">p</italic> = 0.03) and ΔCRS‐R index (38.43 ± 20.67 vs. 0.64 ± 0.86, <italic toggle="yes">p</italic> &lt; 0.001) (Table <xref rid="cns71101-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="cns71101-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographic and CRS‐R characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Recovery (<italic toggle="yes">N</italic> = 24)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Non‐recovery (<italic toggle="yes">N</italic> = 7)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Age (years)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.62</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">52.17 (13.77)</td><td align="center" valign="top" rowspan="1" colspan="1">50.86 (14.87)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median [min, max]</td><td align="center" valign="top" rowspan="1" colspan="1">55.00 [16.00, 68.00]</td><td align="center" valign="top" rowspan="1" colspan="1">50.00 [33.00, 73.00]</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Sex</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">F</td><td align="center" valign="top" rowspan="1" colspan="1">10 (41.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (42.9%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M</td><td align="center" valign="top" rowspan="1" colspan="1">14 (58.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (57.1%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Etiology</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stroke</td><td align="center" valign="top" rowspan="1" colspan="1">8 (33.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (57.1%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TBI</td><td align="center" valign="top" rowspan="1" colspan="1">14 (58.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (14.3%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypoxia</td><td align="center" valign="top" rowspan="1" colspan="1">2 (8.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (28.6%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Time post‐injury (months)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">19.83 (7.92)</td><td align="center" valign="top" rowspan="1" colspan="1">16.43 (7.16)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median [min, max]</td><td align="center" valign="top" rowspan="1" colspan="1">20.50 [9.00, 36.00]</td><td align="center" valign="top" rowspan="1" colspan="1">14.00 [9.00, 27.00]</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>CRS‐R total score (mean (SD))</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRS‐R<sub>total at baseline</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">7.62 (3.33)</td><td align="center" valign="top" rowspan="1" colspan="1">9.71 (3.45)</td><td align="center" valign="top" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRS‐R<sub>total at 6m</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">14.50 (4.39)</td><td align="center" valign="top" rowspan="1" colspan="1">10.43 (4.08)</td><td align="center" valign="top" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ΔCRS‐R<sub>total at (6m−baseline)</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">6.88 (3.25)</td><td align="center" valign="top" rowspan="1" colspan="1">0.71 (0.95)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>CRS‐R index (mean (SD))</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRS‐R<sub>index at pre</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">18.86 (17.79)</td><td align="center" valign="top" rowspan="1" colspan="1">28.52 (26.09)</td><td align="center" valign="top" rowspan="1" colspan="1">0.29</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRS‐R<sub>index at 6m</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">57.28 (26.91)</td><td align="center" valign="top" rowspan="1" colspan="1">29.16 (26.58)</td><td align="center" valign="top" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ΔCRS‐R<sub>index at (6m−pre)</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">38.43 (20.67)</td><td align="center" valign="top" rowspan="1" colspan="1">0.64 (0.86)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Relative ΔCRS‐R index (%)<xref rid="cns71101-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">515.38 (582.08)</td><td align="center" valign="top" rowspan="1" colspan="1">3.97 (7.90)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr></tbody></table><table-wrap-foot id="cns71101-ntgp-0001"><fn id="cns71101-note-0001"><p>
+<italic toggle="yes">Note:</italic> Values are mean (SD) unless otherwise indicated.</p></fn><fn id="cns71101-note-0002"><p>Abbreviations: CRS‐R, Coma Recovery Scale–Revised; TBI, traumatic brain injury.</p></fn><fn id="cns71101-note-0003"><label>
+<sup>a</sup>
+</label><p>Relative ΔCRS‐R index (%) = 100 × (CRS‐R index at 6 months − CRS‐R index at baseline)/CRS‐R index at baseline.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="cns71101-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Baseline comparability and long‐term clinical outcome differences between the Recovery and Non‐recovery groups. (A) Longitudinal CRS‐R total scores from baseline to 6 months show progressive behavioral improvement in the Recovery group but limited change in the Non‐recovery group. (B) Absolute behavioral improvement, measured as ΔCRS‐R total (6 m − baseline), is greater in the Recovery group. (C) Relative behavioral improvement, measured as Relative ΔCRS‐R index (%), is also greater in the Recovery group. CRS‐R, Coma Recovery Scale–Revised. Δ indicates change between two time points. Recovery indicates patients whose 6‐month CRS‐R diagnostic category improved by at least one level relative to baseline, whereas Non‐recovery indicates patients without such improvement. ns indicates not significant. *<italic toggle="yes">p</italic> &lt; 0.05, ***<italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CNS-32-e71101-g004.webp"><?image-name CNS-32-e71101-g004.webp?><?image-size 43916?><?image-md5 174299d387ae959f6eef9342a8d4b750?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 907?><?image-original-width 1064?><?image-scaled-height 907?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/ca07/13498968/174299d387ae/CNS-32-e71101-g004.webp?><?thumb-name CNS-32-e71101-g004.gif?><?thumb-size 4100?><?thumb-md5 b6ee49a7c7411dd292a20441e7cfd149?><?thumb-image-server-status NEVER_LOAD?><?thumb-cloudpmc-urn urn:cdn:blobs/ca07/13498968/b6ee49a7c741/CNS-32-e71101-g004.gif?></graphic></fig></sec><sec id="cns71101-sec-0016"><label>3.2</label><title>
+<styled-content style="fixed-case" toggle="no">NetPower</styled-content>: Recovery‐Related High‐Frequency Energy Enhancement Peaks at 1 Month</title><p>Recovery‐related separation was concentrated in the alpha and beta bands and was most evident at Post1M. In the alpha band, NetPower increased over time across all five canonical networks and remained consistently higher in the Recovery group than in the Non‐recovery group, indicating a pan‐network recovery‐related high‐frequency energy advantage (Figure <xref rid="cns71101-fig-0002" ref-type="fig">2A</xref>). Although positive group separation was already present at Pre and Post1W, it peaked at Post1M. The effect‐size heatmap confirmed large Post1M effects across DMN, FPN, CON, SMN, and ON, with Cohen's d of approximately 1.93, 1.85, 1.84, 1.77, and 1.88, respectively, all indicating widespread alpha‐band separation at 1 month (Figure <xref rid="cns71101-fig-0002" ref-type="fig">2C</xref>).</p><fig position="float" fig-type="FIGURE" id="cns71101-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Recovery‐related enhancement of high‐frequency network energy after spinal cord stimulation. (A) Alpha‐band NetPower increases over time and remains higher in the Recovery group across the five canonical networks. (B) Beta‐band NetPower shows a similar but stronger pattern of increase and between‐group separation. (C) Effect‐size summary of alpha‐band NetPower indicates that between‐group separation is most pronounced at Post1M. (D) Effect‐size summary of beta‐band NetPower shows stronger and more widespread between‐group differences, especially at Post1M. NetPower denotes network‐level spectral power after log transformation. CON, cingulo‐opercular network; DMN, default mode network; FPN, frontoparietal network; ON, occipital network; Post1M, 1 month after stimulation onset; Post1W, 1 week after stimulation onset; Pre, pre‐implantation baseline; s.e.m., standard error of the mean; SMN, somatomotor network. Cohen's <italic toggle="yes">d</italic> indicates between‐group effect size (Recovery − Non‐recovery). *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001. Stars indicate significance after Benjamini–Hochberg false discovery rate correction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CNS-32-e71101-g005.webp"><?image-name CNS-32-e71101-g005.webp?><?image-size 45422?><?image-md5 f69c600a4ee9a780d65599180cb1b1aa?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 366?><?image-original-width 1064?><?image-scaled-height 366?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/ca07/13498968/f69c600a4ee9/CNS-32-e71101-g005.webp?><?thumb-name CNS-32-e71101-g005.gif?><?thumb-size 3726?><?thumb-md5 ff19f33ae18f2c731ee72203e8ef3b23?><?thumb-image-server-status NEVER_LOAD?><?thumb-cloudpmc-urn urn:cdn:blobs/ca07/13498968/ff19f33ae18f/CNS-32-e71101-g005.gif?></graphic></fig><p>The beta band showed a similar but stronger pattern. NetPower was higher in the Recovery group across all networks and time points, with the most pronounced separation at Post1M, particularly in DMN, CON, and ON (Figure <xref rid="cns71101-fig-0002" ref-type="fig">2B</xref>). Post1M effect sizes were larger than those in the alpha band, reaching approximately 2.37 in DMN, 2.03 in CON, and 1.94 in ON; FPN and SMN also showed large effects of approximately 1.87 and 1.66, respectively (Figure <xref rid="cns71101-fig-0002" ref-type="fig">2D</xref>). All reported significant NetPower differences were corrected for multiple comparisons using the Benjamini–Hochberg false discovery rate procedure. Thus, beta‐band NetPower provided the strongest energy‐axis discrimination between outcome groups, with a cross‐network pattern that progressively consolidated by 1 month.</p><p>By contrast, theta and delta bands showed weaker and qualitatively different profiles. NetPower generally decreased over time in both groups, while the Non‐recovery group often retained higher absolute low‐frequency power, leading to predominantly negative effect sizes (Figure <xref rid="cns71101-supitem-0002" ref-type="supplementary-material">S2A–D</xref>). In the theta band, decreases from Pre to Post1M were observed across DMN, FPN, CON, SMN, and ON, with relatively larger group differences at Post1W; however, most effects were mild to moderate and did not survive FDR correction (Figure <xref rid="cns71101-supitem-0002" ref-type="supplementary-material">S2A,C</xref>). Delta‐band results were similar, with more evident negative separation at Post1W in DMN, FPN, SMN, and ON, but these effects were not stable after correction and lacked the cross‐network consistency and progressive strengthening observed in the alpha/beta bands (Figure <xref rid="cns71101-supitem-0002" ref-type="supplementary-material">S2B,D</xref>).</p></sec><sec id="cns71101-sec-0017"><label>3.3</label><title>Communication Architecture: Beta‐Band Within‐Network Cohesion and Cross‐Network Synergy as the Core Recovery‐Related Pattern</title><p>Alpha‐band ModularAUC showed limited and heterogeneous communication‐architecture differences. At Pre, only sparse connections showed mild positive or negative effects, with no clear group separation (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3A</xref>). At Post1W, moderate effects appeared in selected cross‐network edges, including DMN–CON, FPN–CON, and CON–SMN, suggesting early but restricted communication enhancement in the Recovery group (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3B</xref>). By Post1M, alpha‐band effects remained inconsistent: FPN–SMN and FPN–ON showed positive separation, whereas DMN–CON and CON–ON shifted negatively, indicating edge‐specific rather than globally organized reconfiguration (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3C</xref>). Change‐window analyses showed similarly scattered positive effects in ΔPost1W − Pre and ΔPost1M − Pre, with partial reversal in ΔPost1M − Post1W, supporting limited temporal stability of alpha‐band communication changes (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3D–F</xref>).</p><fig position="float" fig-type="FIGURE" id="cns71101-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Recovery‐related reorganization of communication architecture in the alpha and beta bands. (A–F) Alpha‐band module‐interaction AUC shows limited and spatially heterogeneous between‐group differences across static time points and change windows. (G–L) Beta‐band module‐interaction AUC shows broader and more consistent recovery‐related enhancement, with the strongest between‐group separation at Post1M and in the later change windows. AUC, area under the threshold curve; CON, cingulo‐opercular network; DMN, default mode network; FPN, frontoparietal network; ON, occipital network; Post1M, 1 month after stimulation onset; Post1W, 1 week after stimulation onset; Pre, pre‐implantation baseline; SMN, somatomotor network. Δ indicates change between two time points. Hedges' <italic toggle="yes">g</italic> indicates between‐group effect size (Recovery − Non‐recovery). *<italic toggle="yes">p</italic> &lt; 0.05 . Stars indicate significance after Benjamini–Hochberg false discovery rate correction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CNS-32-e71101-g003.webp"><?image-name CNS-32-e71101-g003.webp?><?image-size 54444?><?image-md5 add05021ea71599ce06031ab58494f91?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 372?><?image-original-width 1064?><?image-scaled-height 372?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/ca07/13498968/add05021ea71/CNS-32-e71101-g003.webp?><?thumb-name CNS-32-e71101-g003.gif?><?thumb-size 3932?><?thumb-md5 4f29c379d2035281da3f8f35cabd53f3?><?thumb-image-server-status NEVER_LOAD?><?thumb-cloudpmc-urn urn:cdn:blobs/ca07/13498968/4f29c379d203/CNS-32-e71101-g003.gif?></graphic></fig><p>Among the communication‐architecture features, beta‐band ModularAUC showed the most consistent exploratory recovery‐related pattern. Static effects were modest at Pre and Post1W (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3G,H</xref>), but became broadly positive at Post1M across within‐ and between‐network connections involving DMN, FPN, SMN, and ON (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3I</xref>). Positive effects included DMN–DMN, DMN–FPN, DMN–CON, DMN–SMN, DMN–ON, FPN–FPN, FPN–CON, FPN–SMN, and FPN–ON; notably, SMN–SMN approached Hedges' <italic toggle="yes">g</italic> ≈1.0, while FPN–SMN, FPN–ON, and CON–SMN reached moderate‐to‐strong effects (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3I</xref>). Change‐window analyses indicated limited early effects in ΔPost1W − Pre, mainly in selected cross‐network and ON‐related edges (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3J</xref>), but broader positive changes in ΔPost1M − Pre, especially DMN–ON, FPN–ON, SMN–SMN, and CON–ON (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3K</xref>). Importantly, ΔPost1M − Post1W retained positive separation for FPN–FPN, FPN–SMN, and FPN–ON, suggesting that recovery was linked to continued beta‐band communication consolidation from 1 week to 1 month (Figure <xref rid="cns71101-fig-0003" ref-type="fig">3L</xref>).</p><p>Low‐frequency communication effects were weaker and less stable. Delta‐band ModularAUC showed mostly mild‐to‐moderate effects with several direction reversals across static time points and change windows, indicating poor temporal consistency (Figure <xref rid="cns71101-supitem-0003" ref-type="supplementary-material">S3A–F</xref>). Theta‐band effects were similarly scattered, with mixed positive and negative directions and no coherent cross‐network pattern (Figure <xref rid="cns71101-supitem-0003" ref-type="supplementary-material">S3G–L</xref>). Thus, unlike beta‐band communication architecture, delta/theta changes mainly reflected dispersed low‐frequency fluctuations rather than a core recovery‐related network pattern.</p></sec><sec id="cns71101-sec-0018"><label>3.4</label><title>Correlation With Sustained Clinical Improvement</title><p>For ΔCRS‐R total, all top 10 correlates were NetPower measures, led by NetPower_alpha_FPN_Post1M (<italic toggle="yes">r</italic> = 0.71, FDR‐significant), followed by NetPower_alpha_DMN_Pre (<italic toggle="yes">r</italic> = 0.53), NetPower_beta_CON_Post1M (<italic toggle="yes">r</italic> = 0.49), NetPower_alpha_DMN_Post1M (<italic toggle="yes">r</italic> = 0.49), and NetPower_beta_FPN_Post1M (<italic toggle="yes">r</italic> = 0.48), indicating an alpha‐dominant, beta‐supported energy signature of absolute clinical improvement (Figure <xref rid="cns71101-fig-0004" ref-type="fig">4A</xref>). For Relative ΔCRS‐R index, the strongest correlate was NetPower_beta_CON_Post1W (<italic toggle="yes">r</italic> = 0.58, FDR‐significant), followed by NetPower_alpha_FPN_Post1M (<italic toggle="yes">r</italic> = 0.55), NetPower_beta_DMN_Post1M (<italic toggle="yes">r</italic> = 0.54), NetPower_alpha_DMN_Post1W (<italic toggle="yes">r</italic> = 0.53), NetPower_alpha_CON_Post1M (<italic toggle="yes">r</italic> = 0.51), and NetPower_alpha_DMN_Post1M (<italic toggle="yes">r</italic> = 0.48); only one ModularAUC feature, ModularAUC_beta_SMN–SMN_Post1W, entered the top 10, suggesting a limited additional contribution of communication architecture (Figure <xref rid="cns71101-fig-0004" ref-type="fig">4B</xref>).</p><fig position="float" fig-type="FIGURE" id="cns71101-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>EEG features most strongly associated with long‐term clinical improvement. (A) The top 10 EEG features associated with ΔCRS‐R are dominated by high‐frequency NetPower features. (B) The top 10 EEG features associated with Relative ΔCRS‐R index are also mainly high‐frequency NetPower features, with limited contributions from communication features. (C) Bootstrap results confirm the robustness of the top EEG correlates of ΔCRS‐R. (D) Bootstrap results confirm the robustness of the top EEG correlates of Relative ΔCRS‐R index. (E) The strongest EEG correlate of ΔCRS‐R is NetPower_alpha_FPN_Post1M. (F) The strongest EEG correlate of Relative ΔCRS‐R index is NetPower_beta_CON_Post1W. ΔCRS‐R indicates CRS‐R total at 6 months minus CRS‐R total at baseline. Relative ΔCRS‐R index (%) indicates 100 × (CRS‐R index at 6 months − CRS‐R index at baseline)/CRS‐R index at baseline. NetPower denotes network‐level spectral power after log transformation. ModularAUC denotes threshold‐robust module‐interaction area under the curve. CI, confidence interval; CON, cingulo‐opercular network; CRS‐R, Coma Recovery Scale–Revised; DMN, default mode network; FPN, frontoparietal network; Post1M, 1 month after stimulation onset; Post1W, 1 week after stimulation onset; Pre, pre‐implantation baseline; <italic toggle="yes">r</italic>, Spearman correlation coefficient; SMN, somatomotor network. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001. Stars in panels (A) and (B) indicate significance after Benjamini–Hochberg false discovery rate correction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="CNS-32-e71101-g002.webp"><?image-name CNS-32-e71101-g002.webp?><?image-size 80166?><?image-md5 2969f33d6474b3a39026f62227d00073?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 822?><?image-original-width 1064?><?image-scaled-height 822?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/ca07/13498968/2969f33d6474/CNS-32-e71101-g002.webp?><?thumb-name CNS-32-e71101-g002.gif?><?thumb-size 5386?><?thumb-md5 bda29e1efda204c40971b757803f7b77?><?thumb-image-server-status NEVER_LOAD?><?thumb-cloudpmc-urn urn:cdn:blobs/ca07/13498968/bda29e1efda2/CNS-32-e71101-g002.gif?></graphic></fig><p>Robustness analyses supported these associations. Bootstrap confidence intervals for the top ΔCRS‐R total features remained positive, with NetPower_alpha_FPN_Post1M showing the strongest right‐shifted distribution (Figure <xref rid="cns71101-fig-0004" ref-type="fig">4C</xref>). For Relative ΔCRS‐R index, NetPower_beta_CON_Post1W, NetPower_alpha_FPN_Post1M, and NetPower_beta_DMN_Post1M showed similarly stable positive intervals (Figure <xref rid="cns71101-fig-0004" ref-type="fig">4D</xref>). Scatterplots confirmed the strongest covariate‐adjusted associations: NetPower_alpha_FPN_Post1M correlated with ΔCRS‐R total (<italic toggle="yes">r</italic> = 0.71, <italic toggle="yes">p</italic> &lt; 0.01) (Figure <xref rid="cns71101-fig-0004" ref-type="fig">4E</xref>), and NetPower_beta_CON_Post1W correlated with Relative ΔCRS‐R index (<italic toggle="yes">r</italic> = 0.58, <italic toggle="yes">p</italic> = 0.01) (Figure <xref rid="cns71101-fig-0004" ref-type="fig">4F</xref>).</p><p>Leave‐one‐out analyses showed that these findings were not driven by single subjects: NetPower_alpha_FPN_Post1M and NetPower_beta_CON_Post1W retained the highest mean correlations for ΔCRS‐R total and Relative ΔCRS‐R index, respectively (Figure <xref rid="cns71101-fig-0005" ref-type="fig">5A,B</xref>). The two endpoints shared 8 of their top 10 EEG features (Figure <xref rid="cns71101-fig-0005" ref-type="fig">5C</xref>). Feature composition showed 7 NetPower‐alpha and 3 NetPower‐beta features for ΔCRS‐R total, versus 5 NetPower‐alpha, 4 NetPower‐beta, and 1 ModularAUC‐beta feature for Relative ΔCRS‐R index (Figure <xref rid="cns71101-fig-0005" ref-type="fig">5D</xref>). Top features were mainly post‐stimulation, especially Post1M: 1 Pre, 2 Post1W, and 7 Post1M features for ΔCRS‐R total, and 1 Pre, 3 Post1W, and 6 Post1M features for Relative ΔCRS‐R index (Figure <xref rid="cns71101-fig-0005" ref-type="fig">5E</xref>). Feature‐type analysis confirmed NetPower dominance, accounting for 10/10 and 9/10 top features for the two endpoints, respectively (Figure <xref rid="cns71101-fig-0005" ref-type="fig">5F</xref>). Thus, long‐term improvement was primarily coupled to alpha/beta network‐energy enhancement rather than broad communication‐architecture dominance. Exploratory etiology‐stratified analyses of the top‐ranked EEG features showed broadly consistent positive associations within the traumatic brain injury and stroke subgroups. The hypoxic injury subgroup was interpreted descriptively because of its small sample size (<italic toggle="yes">n</italic> = 4). None of the feature‐by‐etiology interaction effects survived Benjamini–Hochberg FDR correction (Figures <xref rid="cns71101-supitem-0004" ref-type="supplementary-material">S4</xref> and <xref rid="cns71101-supitem-0005" ref-type="supplementary-material">S5</xref>).</p><fig position="float" fig-type="FIGURE" id="cns71101-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Robustness and composition of EEG features associated with long‐term clinical improvement. (A) Leave‐one‐out analysis shows that the top EEG features associated with ΔCRS‐R are stable across individual exclusions. (B) Leave‐one‐out analysis shows similar stability for the top EEG features associated with Relative ΔCRS‐R index. (C) The two clinical endpoints share a large proportion of top‐ranked EEG features. (D) Most top EEG features belong to the NetPower alpha and NetPower beta families. (E) Most top EEG features are concentrated at Post1M, with fewer features at Pre and Post1W. (F) NetPower contributes the majority of top‐ranked EEG features, whereas ModularAUC contributes only minimally. ΔCRS‐R indicates CRS‐R total at 6 months minus CRS‐R total at baseline. Relative ΔCRS‐R index (%) indicates 100 × (CRS‐R index at 6 months − CRS‐R index at baseline)/CRS‐R index at baseline. NetPower denotes network‐level spectral power after log transformation. ModularAUC denotes threshold‐robust module‐interaction area under the curve. LOO, leave‐one‐out; Post1M, 1 month after stimulation onset; Post1W, 1 week after stimulation onset; Pre, pre‐implantation baseline; <italic toggle="yes">r</italic>, Spearman correlation coefficient.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="CNS-32-e71101-g001.webp"><?image-name CNS-32-e71101-g001.webp?><?image-size 47816?><?image-md5 df424fbd72518a853cc96ed24f5175dc?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 730?><?image-original-width 1064?><?image-scaled-height 730?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/ca07/13498968/df424fbd7251/CNS-32-e71101-g001.webp?><?thumb-name CNS-32-e71101-g001.gif?><?thumb-size 3860?><?thumb-md5 41ef3cb241901361f9ca7081f06d138e?><?thumb-image-server-status NEVER_LOAD?><?thumb-cloudpmc-urn urn:cdn:blobs/ca07/13498968/41ef3cb24190/CNS-32-e71101-g001.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="cns71101-sec-0019"><label>4</label><title>Discussion</title><p>Using source‐space EEG, we established a NetPower–ModularAUC dual‐axis framework to characterize early brain‐network reorganization after SCS in patients with chronic disorders of consciousness and to relate these changes to 6‐month clinical outcomes. The results indicate that recovery‐related reorganization was primarily characterized by enhanced alpha/beta network energy and consolidated beta‐band communication architecture, with the strongest effects emerging at 1 month after stimulation. These recovery‐related features were mainly distributed across the FPN, DMN, and CON, suggesting that long‐term recovery after SCS depends more on sustained reconstruction of high‐frequency network function than on broad, nonspecific spectral changes.</p><p>Across feature types, frequency bands, and time points, the FPN, DMN, and CON emerged as the most consistent contributors to recovery‐related effects. The FPN was mainly implicated by alpha‐band NetPower and its association with long‐term clinical improvement, the DMN by broad alpha/beta energy enhancement and beta‐band cross‐network interactions, and the CON by early beta‐band NetPower related to relative clinical improvement. SMN and ON contributions were more evident in beta‐band communication architecture, particularly at Post1M, whereas delta/theta findings were less consistent across analyses.</p><p>In DoC, increased low‐frequency activity is commonly interpreted as a marker of severe brain dysfunction, impaired thalamocortical integration, or insufficient cortical activation [<xref rid="cns71101-bib-0039" ref-type="bibr">39</xref>, <xref rid="cns71101-bib-0040" ref-type="bibr">40</xref>]. By contrast, alpha and beta activity are more closely associated with cortical excitability, large‐scale network integration, cognitive control, and efficient information transfer [<xref rid="cns71101-bib-0041" ref-type="bibr">41</xref>, <xref rid="cns71101-bib-0042" ref-type="bibr">42</xref>, <xref rid="cns71101-bib-0043" ref-type="bibr">43</xref>]. In the present study, the advantage observed in the Recovery group was not a broadband enhancement across all frequencies, but was selectively concentrated in alpha/beta activity. Delta/theta changes were less stable and more likely reflected diffuse brain injury, cortical inhibition, or slow‐wave burden [<xref rid="cns71101-bib-0044" ref-type="bibr">44</xref>]. Thus, effective network reorganization after SCS may represent a transition from a low‐frequency‐dominant, poorly integrated state toward a high‐frequency‐supported, more integrated state. Notably, beta‐band activity showed stronger discriminative value across multiple analytical levels, suggesting that it may more directly index the restoration of network integration and information exchange. In this sense, long‐term recovery is not simply explained by reduced slow‐wave activity, but by the re‐establishment and stabilization of high‐frequency network activity.</p><p>Physiologically, the predominance of alpha/beta NetPower may reflect a recovery‐relevant shift toward restored thalamocortical drive and cortical activation [<xref rid="cns71101-bib-0044" ref-type="bibr">44</xref>]. In DoC, excessive delta/theta activity is commonly associated with impaired thalamocortical integration and reduced cortical responsiveness, whereas preserved alpha/beta activity has been linked to more organized cortical dynamics and better clinical outcomes [<xref rid="cns71101-bib-0025" ref-type="bibr">25</xref>]. Therefore, the sustained alpha/beta NetPower increase observed after SCS may indicate strengthening of cortical excitability and large‐scale integrative capacity rather than a nonspecific broadband power increase.</p><p>On the energy‐state axis, the Recovery group showed higher alpha/beta NetPower across all five canonical networks, and this advantage further increased from 1 week to 1 month after stimulation, reaching its maximum at Post1M. This finding suggests that the critical distinction between Recovery and Non‐recovery patients is not merely whether the brain generates an early response to SCS, but whether this response can be consolidated into a stable high‐frequency network energy state. Mechanistically, SCS may not directly “produce” consciousness; rather, it may increase the background activation level of distributed brain networks and enrich alpha/beta oscillatory resources, thereby providing an energetic substrate for subsequent network integration and behavioral recovery. This high‐frequency enhancement was particularly stable in higher‐order networks, including the FPN, DMN, and CON. The FPN is involved in external task control and executive regulation, the DMN supports internal‐state maintenance and large‐scale integration, and the CON is closely related to arousal maintenance, salience detection, and state switching [<xref rid="cns71101-bib-0045" ref-type="bibr">45</xref>, <xref rid="cns71101-bib-0046" ref-type="bibr">46</xref>, <xref rid="cns71101-bib-0047" ref-type="bibr">47</xref>]. Sustained alpha/beta NetPower elevation in these networks therefore suggests that the recovered brain was not merely transiently “aroused”, but was progressively rebuilding a functional platform for cross‐network coordination.</p><p>Of note, beta‐band effects were strongest in the DMN, CON, and ON, indicating that recovery‐related high‐frequency enhancement was not confined to the frontoparietal control system, but also extended to posterior sensory‐integration networks. The involvement of the ON suggests that posterior cortical regions may represent important network nodes for consciousness recovery and behavioral expression [<xref rid="cns71101-bib-0048" ref-type="bibr">48</xref>]. In contrast, theta/delta NetPower generally decreased over time, while the Non‐recovery group often retained higher low‐frequency power, indicating that low‐frequency changes may reflect brain‐state dysregulation or slow‐wave burden rather than core drivers of recovery. The clinical relevance of the energy axis therefore lies in determining whether alpha/beta activity can be sustained and stabilized by 1 month after stimulation.</p><p>At the communication‐architecture level, the beta band provided the most informative recovery‐related pattern. Unlike the more localized and heterogeneous alpha‐band changes, beta‐band ModularAUC showed broader and more coherent enhancement of within‐ and between‐network module interactions at Post1M, particularly involving the DMN, FPN, SMN, and their coupling with the ON. This finding is important because consciousness recovery cannot depend solely on increased power within individual networks; it also requires the re‐establishment of inter‐network communication, selective coupling, and hierarchical coordination. Neurophysiologically, beta oscillations are frequently linked to long‐range coupling, anterior–posterior cortical coordination, maintenance‐related information transfer, and stable cognitive states [<xref rid="cns71101-bib-0043" ref-type="bibr">43</xref>, <xref rid="cns71101-bib-0049" ref-type="bibr">49</xref>]. In this study, the Recovery group showed not only strengthened within‐network interactions, such as FPN–FPN and SMN–SMN, but also enhanced cross‐network interactions, including FPN–SMN, FPN–ON, DMN–ON, and CON–ON. These findings indicate that recovery depends on the reconstruction of selective large‐scale network synergy rather than isolated strengthening of single networks. The broad enhancement of FPN‐related interactions suggests that the executive‐control system may play an organizing role in network reconfiguration, whereas the involvement of ON‐related interactions indicates that posterior cortical and sensory‐integration systems may serve as important output pathways through which network reorganization supports behavioral improvement.</p><p>Change‐window analyses further showed that the core beta‐band differences were concentrated between 1 week and 1 month after stimulation, rather than in the earliest post‐stimulation phase. This suggests that long‐term recovery may not be determined by the initial neural response itself, but by whether that response can be progressively strengthened, integrated, and stabilized into a beta‐band communication advantage. By comparison, although delta/theta bands showed some localized differences, they lacked the broad, coherent, and temporally increasing structural pattern observed in the beta band. These findings support the view that recovery‐related reorganization is not broadband reconnection, but is preferentially expressed as the restoration of long‐range coordination and network organization supported by high‐frequency, particularly beta‐band, oscillations.</p><p>Beyond group comparisons, analyses of continuous clinical outcomes further confirmed the clinical relevance of high‐frequency EEG features. The features most strongly associated with ΔCRS‐R total and Relative ΔCRS‐R index were almost exclusively alpha/beta NetPower rather than ModularAUC, suggesting that individual differences in long‐term behavioral improvement are most directly coupled to a small set of high‐frequency network energy measures, particularly within the FPN, DMN, and CON. Specifically, NetPower_alpha_FPN_Post1M showed the strongest association with ΔCRS‐R total, potentially reflecting a stabilized network energy state after mid‐term consolidation. In contrast, NetPower_beta_CON_Post1W showed the strongest association with Relative ΔCRS‐R index, potentially indexing the early “launch capacity” of the salience/arousal regulatory system in response to SCS. Thus, FPN alpha enhancement may represent a consolidated recovery phenotype, whereas CON beta enhancement may serve as an early recovery‐sensitive marker. Moreover, 8 of the top 10 EEG features overlapped between the two clinical endpoints, indicating that this high‐frequency energy pattern is not dependent on a single outcome definition but shows cross‐endpoint consistency. This supports both the mechanistic interpretability and potential translational value of the dual‐axis framework.</p><p>Several high‐frequency features also showed visible baseline separation, suggesting that pre‐existing brain‐state organization may contribute to later recovery. Although these baseline differences did not reach statistical significance in the present cohort, they may reflect preserved neural reserve or a favorable baseline network configuration. In parallel, the longitudinal strengthening from Post1W to Post1M indicates that recovery may also depend on sustained post‐SCS network consolidation. We therefore interpret favorable outcome as the combined result of baseline network capacity and subsequent stimulation‐associated reorganization, a distinction that should be tested in larger cohorts and controlled designs.</p><p>The mechanisms by which SCS promotes recovery in DoC remain incompletely understood, but our findings suggest that its effect is unlikely to be a single‐pathway immediate response and may instead involve gradual reshaping of brain‐network states. Mechanistically, SCS may first enhance global arousal through spinal–brainstem–thalamocortical ascending systems, increasing the baseline excitability of large‐scale networks [<xref rid="cns71101-bib-0050" ref-type="bibr">50</xref>]. If this effect is transformed into sustained alpha/beta high‐frequency energy elevation, it may provide the basis for rebuilding inter‐network coordination [<xref rid="cns71101-bib-0016" ref-type="bibr">16</xref>]. Ultimately, long‐term behavioral improvement may become more likely when this high‐frequency advantage further consolidates into stable beta‐band communication architecture [<xref rid="cns71101-bib-0051" ref-type="bibr">51</xref>]. Thus, source‐space EEG, particularly alpha/beta NetPower and beta ModularAUC between 1 week and 1 month after stimulation, may identify effective network reorganization earlier than CRS‐R assessment alone and support a dual‐dimensional behavior–EEG network framework for evaluating therapeutic response. However, the sample size was modest, the Non‐recovery group was small, and etiological heterogeneity was substantial. The small Non‐recovery group limited statistical power and increased the uncertainty of between‐group effect estimates. Therefore, the ModularAUC findings should be interpreted as exploratory network‐level evidence rather than definitive recovery biomarkers. EEG was recorded with stimulation turned off and therefore reflects an offline brain state rather than an immediate online response. This framework requires validation in larger, more balanced external cohorts.</p><p>In conclusion, SCS‐related brain‐network reorganization in DoC is not a nonspecific broadband effect, but is marked by alpha/beta energy enhancement and beta‐band communication consolidation. Favorable recovery was associated with sustained high‐frequency network activity, broader beta‐band synergy, and stronger EEG–behavior coupling, supporting the dual‐axis source‐space EEG framework as a mechanistically informative tool for monitoring SCS‐related recovery.</p></sec><sec id="cns71101-sec-0020"><title>Author Contributions</title><p>Kang Zhang and Li Bie conceived and designed the study. Zean Li and Xinran Zhang wrote the manuscript, which was revised by Li Bie and approved by all the authors. Zhiyang Xu and Chunyun Zhang contributed to data collection. Chuanxiang Lv, Boyuan Zhang, Yunqian Li, and Haoyong Jin performed statistical analyses of the data.</p></sec><sec id="cns71101-sec-0022"><title>Funding</title><p>This work was supported by Science and Technology Development Plan Project of Jilin Province, China under Grant (20230204094YY) and (YDZJ202201ZYTS001).</p></sec><sec id="cns71101-sec-0023"><title>Ethics Statement</title><p>The study was approved by the Ethics Committee of the First Hospital of Jilin University (KYSQ 2021‐396‐01) and was conducted in accordance with the Declaration of Helsinki.</p></sec><sec sec-type="conclusions" id="cns71101-sec-0024"><title>Consent</title><p>Written informed consent was obtained from the legally authorized representatives of all participants.</p></sec><sec sec-type="COI-statement" id="cns71101-sec-0025"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cns71101-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Brain template used for source reconstruction and network mapping. Regions of interest from the Dosenbach atlas are assigned to the five canonical functional networks, including the default mode, frontoparietal, cingulo‐opercular, somatomotor, and occipital networks. CON, cingulo‐opercular network; DMN, default mode network; FPN, frontoparietal network; ON, occipital network; SMN, somatomotor network.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CNS-32-e71101-s004.jpg" position="float" orientation="portrait"><?suppdata-name CNS-32-e71101-s004.jpg?><?suppdata-size 2200433?><?suppdata-md5 7d473fff336c1b46653b898601f2e1d9?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:ca07/13498968/7d473fff336c/CNS-32-e71101-s004.jpg?></media></supplementary-material><supplementary-material id="cns71101-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S2:</bold> Low‐frequency energy‐state changes in the theta and delta bands. (A) Theta‐band NetPower shows an overall decline over time in both groups. (B) Delta‐band NetPower shows a similar declining pattern. (C) Effect‐size summary of theta‐band NetPower indicates predominantly negative and weak between‐group differences. (D) Effect‐size summary of delta‐band NetPower also shows predominantly negative and inconsistent between‐group differences. NetPower denotes network‐level spectral power after log transformation. CON, cingulo‐opercular network; DMN, default mode network; FPN, frontoparietal network; ON, occipital network; Post1M, 1 month after stimulation onset; Post1W, 1 week after stimulation onset; Pre, pre‐implantation baseline; s.e.m., standard error of the mean; SMN, somatomotor network. Cohen's <italic toggle="yes">d</italic> indicates between‐group effect size (Recovery − Non‐recovery).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CNS-32-e71101-s005.jpg" position="float" orientation="portrait"><?suppdata-name CNS-32-e71101-s005.jpg?><?suppdata-size 650310?><?suppdata-md5 a0e883932cba0bf4a88bf5339ded6191?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:ca07/13498968/a0e883932cba/CNS-32-e71101-s005.jpg?></media></supplementary-material><supplementary-material id="cns71101-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S3:</bold> Low‐frequency communication‐architecture changes in the delta and theta bands. (A–F) Delta‐band module‐interaction AUC shows weak and spatially inconsistent between‐group differences across static time points and change windows. (G–L) Theta‐band module‐interaction AUC also shows heterogeneous and unstable patterns, without the broad recovery‐related enhancement observed in the beta band. AUC, area under the threshold curve; CON, cingulo‐opercular network; DMN, default mode network; FPN, frontoparietal network; ON, occipital network; Post1M, 1 month after stimulation onset; Post1W, 1 week after stimulation onset; Pre, pre‐implantation baseline; SMN, somatomotor network. Δ indicates change between two time points. Hedges' <italic toggle="yes">g</italic> indicates between‐group effect size (Recovery − Non‐recovery).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CNS-32-e71101-s002.jpg" position="float" orientation="portrait"><?suppdata-name CNS-32-e71101-s002.jpg?><?suppdata-size 772449?><?suppdata-md5 2affc0d17bc4411b880075bcdfd17201?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:ca07/13498968/2affc0d17bc4/CNS-32-e71101-s002.jpg?></media></supplementary-material><supplementary-material id="cns71101-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S4:</bold> Etiology‐stratified correlations between top‐ranked EEG features and long‐term clinical improvement. (A) Etiology‐stratified Spearman correlations between the top 10 Spearman‐ranked EEG features and ΔCRS‐R total. Points indicate within‐etiology Spearman correlation coefficients, and horizontal lines indicate bootstrap 95% confidence intervals. (B) Etiology‐stratified Spearman correlations between the top 10 Spearman‐ranked EEG features and the Relative ΔCRS‐R index. (C) Heatmap showing within‐etiology Spearman r values for the top 10 EEG features associated with ΔCRS‐R total. (D) Heatmap showing within‐etiology Spearman r values for the top 10 EEG features associated with the Relative ΔCRS‐R index. Colors denote injury etiology: TBI, stroke, and hypoxic injury. Because the hypoxic injury subgroup included only four patients, its estimates were considered descriptive only. Asterisks indicate uncorrected within‐stratum significance levels: *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001. ΔCRS‐R indicates CRS‐R total at 6 months minus CRS‐R total at baseline.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CNS-32-e71101-s001.jpg" position="float" orientation="portrait"><?suppdata-name CNS-32-e71101-s001.jpg?><?suppdata-size 1828562?><?suppdata-md5 6eb03274e075672016e2bd08f03fb80c?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:ca07/13498968/6eb03274e075/CNS-32-e71101-s001.jpg?></media></supplementary-material><supplementary-material id="cns71101-supitem-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S5:</bold> Etiology‐stratified scatter plots for the leading EEG features associated with clinical improvement. (A) Scatter plots showing the relationship between NetPower_alpha_FPN_Post1M and ΔCRS‐R total within traumatic brain injury, stroke, and hypoxic injury subgroups. (B) Scatter plots showing the relationship between NetPower_beta_CON_Post1W and the Relative ΔCRS‐R index within each etiological subgroup. Points indicate individual patients. Colors denote injury etiology, and marker shapes denote clinical outcome group: circles indicate Recovery and squares indicate Non‐recovery. Black lines indicate linear trend lines within each etiological subgroup. Spearman <italic toggle="yes">r</italic> and <italic toggle="yes">p</italic> values are shown within each panel. Because the hypoxic injury subgroup included only four patients, its correlation estimates were interpreted descriptively. CRS‐R, Coma Recovery Scale–Revised; TBI, traumatic brain injury.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CNS-32-e71101-s003.jpg" position="float" orientation="portrait"><?suppdata-name CNS-32-e71101-s003.jpg?><?suppdata-size 884055?><?suppdata-md5 7ab967789ac6ce098079c1ea749c941c?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:ca07/13498968/7ab967789ac6/CNS-32-e71101-s003.jpg?></media></supplementary-material></sec></body><back><ack id="cns71101-sec-0021"><title>Acknowledgments</title><p>We thank the patients and their families for their participation and the clinical staff who supported longitudinal EEG acquisition and follow‐up assessments.</p></ack><sec sec-type="data-availability" id="cns71101-sec-0027"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="cns71101-bibl-0001"><title>References</title><ref id="cns71101-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cns71101-cit-0001">
+<string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Fins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Laureys</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Schiff</surname>
+</string-name>, “<article-title>Disorders of Consciousness After Acquired Brain Injury: The State of the Science</article-title>,” <source>Nature Reviews. Neurology</source>
+<volume>10</volume>, no. <issue>2</issue> (<year>2014</year>): <fpage>99</fpage>–<lpage>114</lpage>, <pub-id pub-id-type="doi">10.1038/nrneurol.2013.279</pub-id>.<pub-id pub-id-type="pmid">24468878</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cns71101-cit-0002">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Septien</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Rubin</surname>
+</string-name>, “<article-title>Disorders of Consciousness: Ethical Issues of Diagnosis, Treatment, and Prognostication</article-title>,” <source>Seminars in Neurology</source>
+<volume>38</volume>, no. <issue>5</issue> (<year>2018</year>): <fpage>548</fpage>–<lpage>554</lpage>, <pub-id pub-id-type="doi">10.1055/s-0038-1667384</pub-id>.<pub-id pub-id-type="pmid">30321893</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cns71101-cit-0003">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Bernat</surname>
+</string-name>, “<article-title>Chronic Disorders of Consciousness</article-title>,” <source>Lancet</source>
+<volume>367</volume>, no. <issue>9517</issue> (<year>2006</year>): <fpage>1181</fpage>–<lpage>1192</lpage>, <pub-id pub-id-type="doi">10.1016/S0140-6736(06)68508-5</pub-id>.<pub-id pub-id-type="pmid">16616561</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cns71101-cit-0004">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Laureys</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. G.</given-names>
+<surname>Celesia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Cohadon</surname>
+</string-name>, et al., “<article-title>Unresponsive Wakefulness Syndrome: A New Name for the Vegetative State or Apallic Syndrome</article-title>,” <source>BMC Medicine</source>
+<volume>8</volume> (<year>2010</year>): <elocation-id>68</elocation-id>, <pub-id pub-id-type="doi">10.1186/1741-7015-8-68</pub-id>.<pub-id pub-id-type="pmid">21040571</pub-id>
+<pub-id pub-id-type="pmcid">PMC2987895</pub-id></mixed-citation></ref><ref id="cns71101-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cns71101-cit-0005">
+<string-name name-style="western">
+<given-names>W. J.</given-names>
+<surname>Burke</surname>
+</string-name>, “<article-title>The Minimally Conscious State: Definition and Diagnostic Criteria</article-title>,” <source>Neurology</source>
+<volume>59</volume>, no. <issue>9</issue> (<year>2002</year>): <fpage>1473</fpage>.<pub-id pub-id-type="pmid">12427915</pub-id></mixed-citation></ref><ref id="cns71101-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cns71101-cit-0006">
+<string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kalmar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Whyte</surname>
+</string-name>, “<article-title>The JFK Coma Recovery Scale‐Revised: Measurement Characteristics and Diagnostic utility11No Commercial Party Having a Direct Financial Interest in the Results of the Research Supporting This Article Has or Will Confer a Benefit Upon the Authors or Upon Any Organization With Which the Authors Are Associated</article-title>,” <source>Archives of Physical Medicine and Rehabilitation</source>
+<volume>85</volume>, no. <issue>12</issue> (<year>2004</year>): <fpage>2020</fpage>–<lpage>2029</lpage>, <pub-id pub-id-type="doi">10.1016/j.apmr.2004.02.033</pub-id>.<pub-id pub-id-type="pmid">15605342</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cns71101-cit-0007">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Schnakers</surname>
+</string-name>, et al., “<article-title>Validation of the Chinese Version of the Coma Recovery Scale‐Revised (CRS‐R)</article-title>,” <source>Brain Injury</source>
+<volume>33</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>529</fpage>–<lpage>533</lpage>, <pub-id pub-id-type="doi">10.1080/02699052.2019.1566832</pub-id>.<pub-id pub-id-type="pmid">30663434</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cns71101-cit-0008">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thibaut</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Schiff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Laureys</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Gosseries</surname>
+</string-name>, “<article-title>Therapeutic Interventions in Patients With Prolonged Disorders of Consciousness</article-title>,” <source>Lancet Neurology</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>600</fpage>–<lpage>614</lpage>, <pub-id pub-id-type="doi">10.1016/S1474-4422(19)30031-6</pub-id>.<pub-id pub-id-type="pmid">31003899</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cns71101-cit-0009">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thibaut</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bruno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ledoux</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Demertzi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Laureys</surname>
+</string-name>, “<article-title>tDCS in Patients With Disorders of Consciousness: Sham‐Controlled Randomized Double‐Blind Study</article-title>,” <source>Neurology</source>
+<volume>82</volume>, no. <issue>13</issue> (<year>2014</year>): <fpage>1112</fpage>–<lpage>1118</lpage>, <pub-id pub-id-type="doi">10.1212/WNL.0000000000000260</pub-id>.<pub-id pub-id-type="pmid">24574549</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cns71101-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Naro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bramanti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Leo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Russo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Calabro</surname>
+</string-name>, “<article-title>Transcranial Alternating Current Stimulation in Patients With Chronic Disorder of Consciousness: A Possible Way to Cut the Diagnostic Gordian Knot?</article-title>,” <source>Brain Topography</source>
+<volume>29</volume>, no. <issue>4</issue> (<year>2016</year>), <pub-id pub-id-type="doi">10.1007/s10548-016-0489-z</pub-id>.<pub-id pub-id-type="pmid">27062669</pub-id></mixed-citation></ref><ref id="cns71101-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cns71101-cit-0011">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Morita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yamaguchi</surname>
+</string-name>, et al., “<article-title>Dorsal Column Stimulation in Persistent Vegetative State</article-title>,” <source>Neuromodulation: Technology at the Neural Interface</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2009</year>): <fpage>33</fpage>–<lpage>38</lpage>, <pub-id pub-id-type="doi">10.1111/j.1525-1403.2009.00185.x</pub-id>.<pub-id pub-id-type="pmid">22151220</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cns71101-cit-0012">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Cervical Spinal Cord Stimulation for the Vegetative State: A Preliminary Result of 12 Cases</article-title>,” <source>Neuromodulation: Technology at the Neural Interface</source>
+<volume>22</volume>, no. <issue>3</issue> (<year>2019</year>): <fpage>347</fpage>–<lpage>354</lpage>, <pub-id pub-id-type="doi">10.1111/ner.12903</pub-id>.<pub-id pub-id-type="pmid">30548939</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cns71101-cit-0013">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Funahashi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Komai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ogura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kuwata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nakai</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Tsuji</surname>
+</string-name>, “<article-title>Effects and Indications of Spinal Cord Stimulation on the Vegetative Syndrome</article-title>,” <source>No Shinkei Geka</source>
+<volume>17</volume>, no. <issue>10</issue> (<year>1989</year>): <fpage>917</fpage>–<lpage>923</lpage>.<pub-id pub-id-type="pmid">2812256</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cns71101-cit-0014">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hosobuchi</surname>
+</string-name>, “<article-title>Electrical Stimulation of the Cervical Spinal Cord Increases Cerebral Blood Flow in Humans</article-title>,” <source>Applied Neurophysiology</source>
+<volume>48</volume>, no. <issue>1–6</issue> (<year>1985</year>): <fpage>372</fpage>–<lpage>376</lpage>, <pub-id pub-id-type="doi">10.1159/000101161</pub-id>.<pub-id pub-id-type="pmid">3879799</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cns71101-cit-0015">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Visocchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tartaglione</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Romani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Meglio</surname>
+</string-name>, “<article-title>Spinal Cord Stimulation Prevents the Effects of Combined Experimental Ischemic and Traumatic Brain Injury. An MR Study</article-title>,” <source>Stereotactic and Functional Neurosurgery</source>
+<volume>76</volume>, no. <issue>3–4</issue> (<year>2001</year>): <fpage>276</fpage>–<lpage>281</lpage>, <pub-id pub-id-type="doi">10.1159/000066731</pub-id>.<pub-id pub-id-type="pmid">12378109</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cns71101-cit-0016">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, et al., “<article-title>Frontal Connectivity in EEG Gamma (30–45 Hz) Respond to Spinal Cord Stimulation in Minimally Conscious State Patients</article-title>,” <source>Frontiers in Cellular Neuroscience</source>
+<volume>11</volume> (<year>2017</year>): <elocation-id>177</elocation-id>, <pub-id pub-id-type="doi">10.3389/fncel.2017.00177</pub-id>.<pub-id pub-id-type="pmid">28701924</pub-id>
+<pub-id pub-id-type="pmcid">PMC5487422</pub-id></mixed-citation></ref><ref id="cns71101-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cns71101-cit-0017">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Katayama</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Obuchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kobayashi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Oshima</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fukaya</surname>
+</string-name>, “<article-title>Spinal Cord Stimulation for Treatment of Patients in the Minimally Conscious State</article-title>,” <source>Neurologia Medico‐Chirurgica</source>
+<volume>52</volume>, no. <issue>7</issue> (<year>2012</year>): <fpage>475</fpage>–<lpage>481</lpage>, <pub-id pub-id-type="doi">10.2176/nmc.52.475</pub-id>.<pub-id pub-id-type="pmid">22850495</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cns71101-cit-0018">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Guerra‐Carrillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Mackey</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Bunge</surname>
+</string-name>, “<article-title>Resting‐State fMRI: A Window Into Human Brain Plasticity</article-title>,” <source>Neuroscientist</source>
+<volume>20</volume>, no. <issue>5</issue> (<year>2014</year>): <fpage>522</fpage>–<lpage>533</lpage>, <pub-id pub-id-type="doi">10.1177/1073858414524442</pub-id>.<pub-id pub-id-type="pmid">24561514</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cns71101-cit-0019">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liao</surname>
+</string-name>, et al., “<article-title>Reduced Caudate Volume and Enhanced Striatal‐DMN Integration in Chess Experts</article-title>,” <source>NeuroImage</source>
+<volume>60</volume>, no. <issue>2</issue> (<year>2012</year>): <fpage>1280</fpage>–<lpage>1286</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2012.01.047</pub-id>.<pub-id pub-id-type="pmid">22270350</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cns71101-cit-0020">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Taubert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Lohmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Margulies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Villringer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ragert</surname>
+</string-name>, “<article-title>Long‐Term Effects of Motor Training on Resting‐State Networks and Underlying Brain Structure</article-title>,” <source>NeuroImage</source>
+<volume>57</volume>, no. <issue>4</issue> (<year>2011</year>): <fpage>1492</fpage>–<lpage>1498</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.05.078</pub-id>.<pub-id pub-id-type="pmid">21672633</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cns71101-cit-0021">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. W.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. X.</given-names>
+<surname>Lai</surname>
+</string-name>, et al., “<article-title>Musical Training Induces Functional Plasticity in Perceptual and Motor Networks: Insights From Resting‐State FMRI</article-title>,” <source>PLoS One</source>
+<volume>7</volume>, no. <issue>5</issue> (<year>2012</year>), <pub-id pub-id-type="doi">10.1371/journal.pone.0036568</pub-id>.<pub-id pub-id-type="pmcid">PMC3346725</pub-id><pub-id pub-id-type="pmid">22586478</pub-id></mixed-citation></ref><ref id="cns71101-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cns71101-cit-0022">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Sporns</surname>
+</string-name>, “<article-title>Network Attributes for Segregation and Integration in the Human Brain</article-title>,” <source>Current Opinion in Neurobiology</source>
+<volume>23</volume>, no. <issue>2</issue> (<year>2013</year>): <fpage>162</fpage>–<lpage>171</lpage>, <pub-id pub-id-type="doi">10.1016/j.conb.2012.11.015</pub-id>.<pub-id pub-id-type="pmid">23294553</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="cns71101-cit-0023">
+<article-title>“Communities, Modules and Large‐Scale Structure in Networks,”</article-title>
+<italic toggle="yes">Nature Physics</italic>, April 26, 2026, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nature.com/articles/nphys2162" ext-link-type="uri">https://www.nature.com/articles/nphys2162</ext-link>.</mixed-citation></ref><ref id="cns71101-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cns71101-cit-0024">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Veciana de Las Heras</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sala‐Padro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pedro‐Perez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>García‐Parra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hernández‐Pérez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Falip</surname>
+</string-name>, “<article-title>Utility of Quantitative EEG in Neurological Emergencies and ICU Clinical Practice</article-title>,” <source>Brain Sciences</source>
+<volume>14</volume>, no. <issue>9</issue> (<year>2024</year>): <elocation-id>939</elocation-id>, <pub-id pub-id-type="doi">10.3390/brainsci14090939</pub-id>.<pub-id pub-id-type="pmid">39335433</pub-id>
+<pub-id pub-id-type="pmcid">PMC11430096</pub-id></mixed-citation></ref><ref id="cns71101-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cns71101-cit-0025">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chennu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Annen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wannez</surname>
+</string-name>, et al., “<article-title>Brain Networks Predict Metabolism, Diagnosis and Prognosis at the Bedside in Disorders of Consciousness</article-title>,” <source>Brain: A Journal of Neurology</source>
+<volume>140</volume>, no. <issue>8</issue> (<year>2017</year>): <fpage>2120</fpage>–<lpage>2132</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awx163</pub-id>.<pub-id pub-id-type="pmid">28666351</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cns71101-cit-0026">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Díaz‐Fernández</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Henao‐Herreno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nieto</surname>
+</string-name>, et al., “<article-title>Differentiation of Tumor Versus Peritumoral Cortex in Gliomas by Intraoperative Electrocorticography</article-title>,” <source>Neuro‐Oncology</source>
+<volume>27</volume>, no. <issue>7</issue> (<year>2025</year>): <fpage>1758</fpage>–<lpage>1771</lpage>, <pub-id pub-id-type="doi">10.1093/neuonc/noaf082</pub-id>.<pub-id pub-id-type="pmid">40127031</pub-id>
+<pub-id pub-id-type="pmcid">PMC12417838</pub-id></mixed-citation></ref><ref id="cns71101-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cns71101-cit-0027">
+<string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Gorka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Jimmy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Koning</surname>
+</string-name>, et al., “<article-title>Alterations in Large‐Scale Resting‐State Network Nodes Following Transcranial Focused Ultrasound of Deep Brain Structures</article-title>,” <source>Frontiers in Human Neuroscience</source>
+<volume>18</volume> (<year>2024</year>), <pub-id pub-id-type="doi">10.3389/fnhum.2024.1486770</pub-id>.<pub-id pub-id-type="pmcid">PMC11652661</pub-id><pub-id pub-id-type="pmid">39698148</pub-id></mixed-citation></ref><ref id="cns71101-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cns71101-cit-0028">
+<string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Warren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Raguž</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Friedrich</surname>
+</string-name>, et al., “<article-title>A Human Brain Network Linked to Restoration of Consciousness After Deep Brain Stimulation</article-title>,” <source>Nature Communications</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2025</year>), <pub-id pub-id-type="doi">10.1038/s41467-025-61988-4</pub-id>.<pub-id pub-id-type="pmcid">PMC12279989</pub-id><pub-id pub-id-type="pmid">40691170</pub-id></mixed-citation></ref><ref id="cns71101-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cns71101-cit-0029">
+<string-name name-style="western">
+<given-names>W. J.</given-names>
+<surname>Neumann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Horn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Kühn</surname>
+</string-name>, “<article-title>Insights and Opportunities for Deep Brain Stimulation as a Brain Circuit Intervention</article-title>,” <source>Trends in Neurosciences</source>
+<volume>46</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>472</fpage>–<lpage>487</lpage>, <pub-id pub-id-type="doi">10.1016/j.tins.2023.03.009</pub-id>.<pub-id pub-id-type="pmid">37105806</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cns71101-cit-0030">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>She</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>He</surname>
+</string-name>, “<article-title>Default Mode Network and Visual Network Responsiveness to Transcutaneous Auricular Vagus Nerve Stimulation Predict Its Variable Efficacy in Primary Insomnia Disorder</article-title>,” <source>Frontiers in Neurology</source>
+<volume>16</volume> (<year>2025</year>), <pub-id pub-id-type="doi">10.3389/fneur.2025.1703747</pub-id>.<pub-id pub-id-type="pmcid">PMC12747963</pub-id><pub-id pub-id-type="pmid">41476747</pub-id></mixed-citation></ref><ref id="cns71101-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cns71101-cit-0031">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wutzl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Golaszewski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Leibnitz</surname>
+</string-name>, et al., “<article-title>Narrative Review: Quantitative EEG in Disorders of Consciousness</article-title>,” <source>Brain Sciences</source>
+<volume>11</volume>, no. <issue>6</issue> (<year>2021</year>), <pub-id pub-id-type="doi">10.3390/brainsci11060697</pub-id>.<pub-id pub-id-type="pmcid">PMC8228474</pub-id><pub-id pub-id-type="pmid">34070647</pub-id></mixed-citation></ref><ref id="cns71101-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cns71101-cit-0032">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Szirmai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zabihi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kói</surname>
+</string-name>, et al., “<article-title>EEG Connectivity and Network Analyses Predict Outcome in Patients With Disorders of Consciousness—A Systematic Review and Meta‐Analysis</article-title>,” <source>Heliyon</source>
+<volume>10</volume>, no. <issue>10</issue> (<year>2024</year>), <pub-id pub-id-type="doi">10.1016/j.heliyon.2024.e31277</pub-id>.<pub-id pub-id-type="pmcid">PMC11141356</pub-id><pub-id pub-id-type="pmid">38826755</pub-id></mixed-citation></ref><ref id="cns71101-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cns71101-cit-0033">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Su</surname>
+</string-name>, et al., “<article-title>Multiple Patterns of EEG Parameters and Their Role in the Prediction of Patients With Prolonged Disorders of Consciousness</article-title>,” <source>Frontiers in Neuroscience</source>
+<volume>19</volume> (<year>2025</year>): <elocation-id>1492225</elocation-id>, <pub-id pub-id-type="doi">10.3389/fnins.2025.1492225</pub-id>.<pub-id pub-id-type="pmid">39975972</pub-id>
+<pub-id pub-id-type="pmcid">PMC11836006</pub-id></mixed-citation></ref><ref id="cns71101-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cns71101-cit-0034">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Annen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Filippini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bonin</surname>
+</string-name>, et al., “<article-title>Diagnostic Accuracy of the CRS‐R Index in Patients With Disorders of Consciousness</article-title>,” <source>Brain Injury</source>
+<volume>33</volume>, no. <issue>11</issue> (<year>2019</year>): <fpage>1409</fpage>–<lpage>1412</lpage>, <pub-id pub-id-type="doi">10.1080/02699052.2019.1644376</pub-id>.<pub-id pub-id-type="pmid">31319707</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cns71101-cit-0035">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Delorme</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Makeig</surname>
+</string-name>, “<article-title>EEGLAB: An Open Source Toolbox for Analysis of Single‐Trial EEG Dynamics Including Independent Component Analysis</article-title>,” <source>Journal of Neuroscience Methods</source>
+<volume>134</volume>, no. <issue>1</issue> (<year>2004</year>): <fpage>9</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.1016/j.jneumeth.2003.10.009</pub-id>.<pub-id pub-id-type="pmid">15102499</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cns71101-cit-0036">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Oostenveld</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Fries</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Maris</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Schoffelen</surname>
+</string-name>, “<article-title>FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data</article-title>,” <source>Computational Intelligence and Neuroscience</source>
+<volume>2011</volume> (<year>2011</year>), <pub-id pub-id-type="doi">10.1155/2011/156869</pub-id>.<pub-id pub-id-type="pmcid">PMC3021840</pub-id><pub-id pub-id-type="pmid">21253357</pub-id></mixed-citation></ref><ref id="cns71101-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cns71101-cit-0037">
+<string-name name-style="western">
+<given-names>N. U. F.</given-names>
+<surname>Dosenbach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Nardos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Cohen</surname>
+</string-name>, et al., “<article-title>Prediction of Individual Brain Maturity Using fMRI</article-title>,” <source>Science</source>
+<volume>329</volume>, no. <issue>5997</issue> (<year>2010</year>): <fpage>1358</fpage>–<lpage>1361</lpage>, <pub-id pub-id-type="doi">10.1126/science.1194144</pub-id>.<pub-id pub-id-type="pmid">20829489</pub-id>
+<pub-id pub-id-type="pmcid">PMC3135376</pub-id></mixed-citation></ref><ref id="cns71101-bib-0038"><label>38</label><mixed-citation publication-type="miscellaneous" id="cns71101-cit-0038">
+<article-title>“GRETNA: A Graph Theoretical Network Analysis Toolbox for Imaging Connectomics,”</article-title> April 26, 2026, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/26175682/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/26175682/</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnhum.2015.00386</pub-id><pub-id pub-id-type="pmcid">PMC4485071</pub-id><pub-id pub-id-type="pmid">26175682</pub-id></mixed-citation></ref><ref id="cns71101-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cns71101-cit-0039">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Frohlich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Toker</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Monti</surname>
+</string-name>, “<article-title>Consciousness Among Delta Waves: A Paradox?</article-title>,” <source>Brain: A Journal of Neurology</source>
+<volume>144</volume>, no. <issue>8</issue> (<year>2021</year>), <pub-id pub-id-type="doi">10.1093/brain/awab095</pub-id>.<pub-id pub-id-type="pmid">33693596</pub-id></mixed-citation></ref><ref id="cns71101-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cns71101-cit-0040">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Duszyk‐Bogorodzka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zieleniewska</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Jankowiak‐Siuda</surname>
+</string-name>, “<article-title>Brain Activity Characteristics of Patients With Disorders of Consciousness in the EEG Resting State Paradigm: A Review</article-title>,” <source>Frontiers in Systems Neuroscience</source>
+<volume>16</volume> (<year>2022</year>), <pub-id pub-id-type="doi">10.3389/fnsys.2022.654541</pub-id>.<pub-id pub-id-type="pmcid">PMC9198636</pub-id><pub-id pub-id-type="pmid">35720438</pub-id></mixed-citation></ref><ref id="cns71101-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cns71101-cit-0041">
+<string-name name-style="western">
+<given-names>J. I.</given-names>
+<surname>Chapeton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Haque</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Wittig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Inati</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Zaghloul</surname>
+</string-name>, “<article-title>Large‐Scale Communication in the Human Brain Is Rhythmically Modulated Through Alpha Coherence</article-title>,” <source>Current Biology: CB</source>
+<volume>29</volume>, no. <issue>17</issue> (<year>2019</year>): <fpage>2801</fpage>–<lpage>2811</lpage>, <pub-id pub-id-type="doi">10.1016/j.cub.2019.07.014</pub-id>.<pub-id pub-id-type="pmid">31422882</pub-id>
+<pub-id pub-id-type="pmcid">PMC6736747</pub-id></mixed-citation></ref><ref id="cns71101-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cns71101-cit-0042">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sadaghiani</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kleinschmidt</surname>
+</string-name>, “<article-title>Brain Networks and α‐Oscillations: Structural and Functional Foundations of Cognitive Control</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>20</volume>, no. <issue>11</issue> (<year>2016</year>): <fpage>805</fpage>–<lpage>817</lpage>, <pub-id pub-id-type="doi">10.1016/j.tics.2016.09.004</pub-id>.<pub-id pub-id-type="pmid">27707588</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cns71101-cit-0043">
+<string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Engel</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Fries</surname>
+</string-name>, “<article-title>Beta‐Band Oscillations—Signalling the Status Quo?</article-title>,” <source>Current Opinion in Neurobiology</source>
+<volume>20</volume>, no. <issue>2</issue> (<year>2010</year>): <fpage>156</fpage>–<lpage>165</lpage>, <pub-id pub-id-type="doi">10.1016/j.conb.2010.02.015</pub-id>.<pub-id pub-id-type="pmid">20359884</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cns71101-cit-0044">
+<string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Schiff</surname>
+</string-name>, “<article-title>Recovery of Consciousness After Brain Injury: A Mesocircuit Hypothesis</article-title>,” <source>Trends in Neurosciences</source>
+<volume>33</volume>, no. <issue>1</issue> (<year>2010</year>): <fpage>1</fpage>–<lpage>9</lpage>, <pub-id pub-id-type="doi">10.1016/j.tins.2009.11.002</pub-id>.<pub-id pub-id-type="pmid">19954851</pub-id>
+<pub-id pub-id-type="pmcid">PMC2931585</pub-id></mixed-citation></ref><ref id="cns71101-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cns71101-cit-0045">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Menon</surname>
+</string-name>, “<article-title>Large‐Scale Brain Networks and Psychopathology: A Unifying Triple Network Model</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>15</volume>, no. <issue>10</issue> (<year>2011</year>): <fpage>483</fpage>–<lpage>506</lpage>, <pub-id pub-id-type="doi">10.1016/j.tics.2011.08.003</pub-id>.<pub-id pub-id-type="pmid">21908230</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0046"><label>46</label><mixed-citation publication-type="miscellaneous" id="cns71101-cit-0046">
+<article-title>“The Cognitive Control Network: Integrated Cortical Regions With Dissociable Functions,”</article-title> April 26, 2026, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/17553704/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/17553704/</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2007.03.071</pub-id><pub-id pub-id-type="pmid">17553704</pub-id></mixed-citation></ref><ref id="cns71101-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cns71101-cit-0047">
+<string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Gusnard</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Raichle</surname>
+</string-name>, “<article-title>Searching for a Baseline: Functional Imaging and the Resting Human Brain</article-title>,” <source>Nature Reviews Neuroscience</source>
+<volume>2</volume>, no. <issue>10</issue> (<year>2001</year>), <pub-id pub-id-type="doi">10.1038/35094500</pub-id>.<pub-id pub-id-type="pmid">11584306</pub-id></mixed-citation></ref><ref id="cns71101-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cns71101-cit-0048">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mencarelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Biagi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Salvador</surname>
+</string-name>, et al., “<article-title>Network Mapping of Connectivity Alterations in Disorder of Consciousness: Towards Targeted Neuromodulation</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>9</volume>, no. <issue>3</issue> (<year>2020</year>): <elocation-id>828</elocation-id>, <pub-id pub-id-type="doi">10.3390/jcm9030828</pub-id>.<pub-id pub-id-type="pmid">32197485</pub-id>
+<pub-id pub-id-type="pmcid">PMC7141258</pub-id></mixed-citation></ref><ref id="cns71101-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cns71101-cit-0049">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schnitzler</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gross</surname>
+</string-name>, “<article-title>Normal and Pathological Oscillatory Communication in the Brain</article-title>,” <source>Nature Reviews. Neuroscience</source>
+<volume>6</volume>, no. <issue>4</issue> (<year>2005</year>): <fpage>285</fpage>–<lpage>296</lpage>, <pub-id pub-id-type="doi">10.1038/nrn1650</pub-id>.<pub-id pub-id-type="pmid">15803160</pub-id>
+</mixed-citation></ref><ref id="cns71101-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cns71101-cit-0050">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Si</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Spinal Cord Stimulation Frequency Influences the Hemodynamic Response in Patients With Disorders of Consciousness</article-title>,” <source>Neuroscience Bulletin</source>
+<volume>34</volume>, no. <issue>4</issue> (<year>2018</year>), <pub-id pub-id-type="doi">10.1007/s12264-018-0252-4</pub-id>.<pub-id pub-id-type="pmcid">PMC6060214</pub-id><pub-id pub-id-type="pmid">29995275</pub-id></mixed-citation></ref><ref id="cns71101-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cns71101-cit-0051">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, et al., “<article-title>Combined Behavioral and EEG Evidence for the 70 Hz Frequency Selection of Short‐Term Spinal Cord Stimulation in Disorders of Consciousness</article-title>,” <source>CNS Neuroscience &amp; Therapeutics</source>
+<volume>30</volume>, no. <issue>2</issue> (<year>2024</year>), <pub-id pub-id-type="doi">10.1111/cns.14388</pub-id>.<pub-id pub-id-type="pmcid">PMC10848050</pub-id><pub-id pub-id-type="pmid">37563991</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,258 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzD">
+    <style>
+      <fill id="fzD">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bJg" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.4" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bJE">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 2 · 原文 Table 还原</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.4" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bbr">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">10</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="57.8" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bbV">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="38.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">为什么要换范式：逐条对齐</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bJk">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="453.6" height="33.12" topLeftX="44.639999999999986" topLeftY="139.68" presetHandlers="9.360044" type="round-rect" id="bJS">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="410.4" height="28.2" topLeftX="69.12" topLeftY="139.68" type="text" id="bbw">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(255, 255, 255, 1)" fontSize="18.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">现行范式的局限</span></strong></p>
+        </content>
+      </shape>
+      <shape width="401.2559842519685" height="33.12" topLeftX="514.08" topLeftY="139.68" presetHandlers="9.360044" type="round-rect" id="bbM">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="366.6959842519685" height="28.2" topLeftX="538.56" topLeftY="139.68" type="text" id="bbF">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(255, 255, 255, 1)" fontSize="18.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">解码范式的潜在解法</span></strong></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="189.36" presetHandlers="1.98" type="round-rect" id="bJP">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="180" type="text" id="bJn">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">fMRI 依赖先验 ROI、预设功能解剖不变</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="189.36" presetHandlers="1.98" type="round-rect" id="bba">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="180" type="text" id="bbR">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">更少依赖预设感兴趣区，可针对个体定制</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="41.4" topLeftX="44.639999999999986" topLeftY="220.68" presetHandlers="9.360126" type="round-rect" id="bbl">
+        <fill>
+          <fillColor color="rgba(236, 242, 247, 1)" />
+        </fill>
+        <border color="rgba(236, 242, 247, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="233.64" presetHandlers="1.98" type="round-rect" id="bbp">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="224.28" type="text" id="bJh">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">依赖任意的统计阈值</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="233.64" presetHandlers="1.98" type="round-rect" id="bJT">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="224.28" type="text" id="bbH">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">不依赖任意统计阈值</span></strong></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="277.92" presetHandlers="1.98" type="round-rect" id="bbD">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="268.56" type="text" id="bbB">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">EEG 对刺激的感觉成分与语义成分归属不确定</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="277.92" presetHandlers="1.98" type="round-rect" id="bbX">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="268.56" type="text" id="bJU">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">分别评估感觉内容与语义内容</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="41.4" topLeftX="44.639999999999986" topLeftY="309.24" presetHandlers="9.360126" type="round-rect" id="bJN">
+        <fill>
+          <fillColor color="rgba(236, 242, 247, 1)" />
+        </fill>
+        <border color="rgba(236, 242, 247, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="322.2" presetHandlers="1.98" type="round-rect" id="bbA">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="312.84" type="text" id="bbe">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">依赖患者配合</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="322.2" presetHandlers="1.98" type="round-rect" id="bbf">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="312.84" type="text" id="bbj">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">更少依赖患者配合</span></strong></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="366.48" presetHandlers="1.98" type="round-rect" id="bJy">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="357.12" type="text" id="bJW">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">把意识建构成二分现象</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="366.48" presetHandlers="1.98" type="round-rect" id="bJO">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="357.12" type="text" id="bbb">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">沿连续谱评估隐蔽意识</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="41.4" topLeftX="44.639999999999986" topLeftY="397.8" presetHandlers="9.360126" type="round-rect" id="bbi">
+        <fill>
+          <fillColor color="rgba(236, 242, 247, 1)" />
+        </fill>
+        <border color="rgba(236, 242, 247, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="410.76" presetHandlers="1.98" type="round-rect" id="bbu">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="401.4" type="text" id="bJm">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">难以转化为 BCI</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="410.76" presetHandlers="1.98" type="round-rect" id="bJs">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="401.4" type="text" id="bbJ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">易于转化为脑机接口</span></strong></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="51.84" topLeftY="455.04" presetHandlers="1.98" type="round-rect" id="bbZ">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="421.2" height="26.6" topLeftX="69.12000000000003" topLeftY="445.68" type="text" id="bJv">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="17.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">间接评估患者体验</span></p>
+        </content>
+      </shape>
+      <shape width="3.96" height="18.36" topLeftX="524.16" topLeftY="455.04" presetHandlers="1.98" type="round-rect" id="bJK">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="362.37598425196853" height="26.6" topLeftX="541.44" topLeftY="445.68" type="text" id="bbx">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">更直接地评估患者体验</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="26.6" topLeftX="44.639999999999986" topLeftY="498.24" type="text" id="bbC">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="17.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">七条一一对应：这不是「换个更好的分类器」，而是把评估目标整个换掉。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bJz">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这张表是全文最实用的部分。逐条读会太慢，挑三条讲：不依赖任意阈值、分别评估感觉与语义、沿连续谱评估。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">最后提醒：这张表承诺的是「潜在解法」，不是已验证的结果。</span></p>
+      </content>
+    </note>
+  </slide>

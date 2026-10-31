@@ -1,0 +1,231 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzQ">
+    <style>
+      <fill id="fzQ">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bZL" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bZz">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第三幕 · 05 Wairagkar 2025 · Nature</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bZW">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">21</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bZO">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">声音不只是「说了什么」</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bZj">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="331.2" height="296.64" topLeftX="44.640000000000015" topLeftY="141.12" presetHandlers="9.358992" type="round-rect" id="bZG">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="285.12" height="37.2" topLeftX="67.68" topLeftY="152.6" type="text" id="bZh">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="11.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">语言有很多层级，这项研究抓的是最后一段</span></strong></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="31.68" topLeftX="67.68" topLeftY="181.44" presetHandlers="9.359856" type="round-rect" id="bZg">
+        <fill>
+          <fillColor color="rgba(245, 248, 251, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="259.2" height="31.68" topLeftX="80.64000000000001" topLeftY="181.44" type="text" id="bZE">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">thought 想法</span></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="31.68" topLeftX="67.68" topLeftY="217.44" presetHandlers="9.359856" type="round-rect" id="bZl">
+        <fill>
+          <fillColor color="rgba(245, 248, 251, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="259.2" height="31.68" topLeftX="80.64000000000001" topLeftY="217.44" type="text" id="bZI">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">semantic 语义</span></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="31.68" topLeftX="67.68" topLeftY="253.43999999999997" presetHandlers="9.359856" type="round-rect" id="bZP">
+        <fill>
+          <fillColor color="rgba(245, 248, 251, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="259.2" height="31.68" topLeftX="80.64000000000001" topLeftY="253.43999999999997" type="text" id="bZv">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">linguistic 语言</span></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="31.68" topLeftX="67.68" topLeftY="289.44" presetHandlers="9.359856" type="round-rect" id="bZK">
+        <fill>
+          <fillColor color="rgba(245, 248, 251, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="259.2" height="31.68" topLeftX="80.64000000000001" topLeftY="289.44" type="text" id="bZF">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">phonological 音位</span></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="31.68" topLeftX="67.68" topLeftY="325.44" presetHandlers="9.359856" type="round-rect" id="bZd">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="259.2" height="31.68" topLeftX="80.64000000000001" topLeftY="325.44" type="text" id="bZy">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">articulatory 发音</span></strong></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="31.68" topLeftX="67.68" topLeftY="361.44" presetHandlers="9.359856" type="round-rect" id="bZU">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="259.2" height="31.68" topLeftX="80.64000000000001" topLeftY="361.44" type="text" id="bZn">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">acoustic 声学</span></strong></p>
+        </content>
+      </shape>
+      <shape width="285.12" height="36" topLeftX="67.68" topLeftY="396" type="text" id="bZf">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">本研究报告的是：从发音相关神经表征直接预测声学输出。</span></p>
+        </content>
+      </shape>
+      <shape width="517.8959842519685" height="66.24" topLeftX="397.44000000000005" topLeftY="141.12" presetHandlers="9.359712" type="round-rect" id="bZt">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="46.08" topLeftX="406.08" topLeftY="151.2" presetHandlers="2.7" type="round-rect" id="bZY">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="477.5759842519685" height="24.4" topLeftX="419.0400000000001" topLeftY="146.88" type="text" id="bZS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">副语言特征被解出来了</span></strong></p>
+        </content>
+      </shape>
+      <shape width="477.5759842519685" height="36" topLeftX="419.0400000000001" topLeftY="169.92" type="text" id="bZB">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">除音位内容外，还从皮层内活动解码出副语言特征，参与者可以实时调节合成语音的语调，并演唱短旋律。</span></p>
+        </content>
+      </shape>
+      <shape width="517.8959842519685" height="66.24" topLeftX="397.44000000000005" topLeftY="214.56" presetHandlers="9.359712" type="round-rect" id="bZc">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="46.08" topLeftX="406.08" topLeftY="224.64" presetHandlers="2.7" type="round-rect" id="bZQ">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="477.5759842519685" height="24.4" topLeftX="419.0400000000001" topLeftY="220.32" type="text" id="bZN">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">能说词表以外的声音</span></strong></p>
+        </content>
+      </shape>
+      <shape width="477.5759842519685" height="36" topLeftX="419.0400000000001" topLeftY="243.36" type="text" id="bZZ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">可以直接产生非词声音与感叹词，这是依赖语言模型 / 词表的语音 BCI 做不到的；而且这些类别并未用于训练。</span></p>
+        </content>
+      </shape>
+      <shape width="517.8959842519685" height="82" topLeftX="397.44000000000005" topLeftY="288" presetHandlers="9.359712" type="round-rect" id="bZX">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="46.08" topLeftX="406.08" topLeftY="298.08" presetHandlers="2.7" type="round-rect" id="bZo">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="477.5759842519685" height="24.4" topLeftX="419.0400000000001" topLeftY="293.76" type="text" id="bZT">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">默说也能合成</span></strong></p>
+        </content>
+      </shape>
+      <shape width="477.5759842519685" height="49" topLeftX="419.0400000000001" topLeftY="316.8" type="text" id="bZi">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">只在有声模仿说话上训练过的解码器，对默说（mimed speech）同样能合成（r = 0.82±0.03，与有声条件无统计差异），参与者还反馈默说更省力。</span></p>
+        </content>
+      </shape>
+      <shape width="517.8959842519685" height="66.24" topLeftX="397.44000000000005" topLeftY="372" presetHandlers="9.359712" type="round-rect" id="bZp">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="5.4" height="46.08" topLeftX="406.08" topLeftY="371.52" presetHandlers="2.7" type="round-rect" id="bZq">
+        <fill>
+          <fillColor color="rgba(224, 122, 95, 1)" />
+        </fill>
+        <border color="rgba(224, 122, 95, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="477.5759842519685" height="24.4" topLeftX="419.0400000000001" topLeftY="378" type="text" id="bZk">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(224, 122, 95, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">身份被保留下来</span></strong></p>
+        </content>
+      </shape>
+      <shape width="477.5759842519685" height="36" topLeftX="419.0400000000001" topLeftY="401" type="text" id="bZm">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">合成的是他自己的声音。参与者用它报告：听到自己的声音「made me feel happy and it felt like my real voice」。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="37.2" topLeftX="44.639999999999986" topLeftY="440.64" type="text" id="bZs">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">声音同时传递情绪、强调、语调与说话方式——所以 speech BCI 的目标从 text output 转向 natural communication。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bZu">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页把「表达性」讲成一个独立的价值，而不是语音输出的附加功能。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">左边这条语言层级链说明：这项研究抓的是发音到声学这一段，是最靠近输出的那一层——这也是它的边界所在，它读到的还不是抽象思维。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">右边四条里，最容易被忽略也最动人的是第四条：患者听到自己原本的声音。请把原话念出来。</span></p>
+      </content>
+    </note>
+  </slide>

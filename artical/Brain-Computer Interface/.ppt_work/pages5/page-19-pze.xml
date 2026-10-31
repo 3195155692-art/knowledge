@@ -1,0 +1,104 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pze">
+    <style>
+      <fill id="fze">
+        <fillColor color="rgba(10, 26, 47, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bRH" src="GuTqbtZ1Yo7W9uxU81Kcs43In4f" width="959.0" height="154.8" topLeftX="0" topLeftY="385.19999999999993">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="959.0" height="7.92" topLeftX="0" topLeftY="0" type="rect" id="bDm">
+        <fill>
+          <fillColor color="rgba(47, 184, 198, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="216" height="28.8" topLeftX="44.639999999999986" topLeftY="105.12" type="text" id="bDT">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="2.4" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="2.4">第 3 幕</span></strong></p>
+        </content>
+      </shape>
+      <shape width="590.4" height="73.8" topLeftX="44.639999999999986" topLeftY="136.8" type="text" id="bDE">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="48.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">内容重建与闭环</span></strong></p>
+        </content>
+      </shape>
+      <shape width="619.2" height="28.8" topLeftX="44.639999999999986" topLeftY="213.12" type="text" id="bRA">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(159, 180, 199, 1)" fontSize="16.5" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">Reconstructing content, and closing the loop</span></p>
+        </content>
+      </shape>
+      <shape width="165.6" height="2.88" topLeftX="44.64" topLeftY="256.32" presetHandlers="1.44" type="round-rect" id="bRr">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="597.6" height="115.2" topLeftX="44.639999999999986" topLeftY="276.48" type="text" id="bDv">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:23.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="15.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">当「读」这一步站稳，BCI 就从一次检查变成一条通道：语义可以被重建，语言可以流式输出，声音可以保留说话人的身份。再往前一步，就是检测、干预、再检测的闭环。</span></p>
+        </content>
+      </shape>
+      <shape width="237.0959842519685" height="346.1" topLeftX="678.24" topLeftY="136.8" presetHandlers="9.36055" type="round-rect" id="bDN">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="192.45598425196852" height="23.04" topLeftX="699.8400000000001" topLeftY="151.2" type="text" id="bRw">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">这一幕要交代的问题</span></strong></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="25.92" topLeftX="699.84" topLeftY="180" type="text" id="bDg">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">01</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="63.36" topLeftX="735.8400000000001" topLeftY="178.56" type="text" id="bDS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">为什么「意义」而不是「词」才是接口</span></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="25.92" topLeftX="699.84" topLeftY="249.11999999999998" type="text" id="bDn">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">02</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="183.4" topLeftX="735.8400000000001" topLeftY="247.68" type="text" id="bDs">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" wrap="true">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">流式输出与持续交互改变了什么</span></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="25.92" topLeftX="699.84" topLeftY="318.24" type="text" id="bDO">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">03</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="163.1" topLeftX="735.8400000000001" topLeftY="316.8" type="text" id="bRa">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" wrap="true">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">为什么必须多模态一起读</span></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="25.92" topLeftX="699.84" topLeftY="387.36" type="text" id="bDz">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="15.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">04</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="63.36" topLeftX="735.8400000000001" topLeftY="385.92" type="text" id="bDW">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">从检测走向闭环调控：新机会与新风险</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bDK">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第三幕开场。这一幕从技术基础走到临床，最后收在闭环调控上。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">提示听众：接下来的每一篇都在解决上一幕留下的一个问题——语义重建解决「内容」的问题，流式与交互解决「时间」的问题，多模态与闭环解决「证据」的问题。</span></p>
+      </content>
+    </note>
+  </slide>

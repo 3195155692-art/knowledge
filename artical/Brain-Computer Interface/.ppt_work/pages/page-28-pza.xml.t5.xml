@@ -1,0 +1,210 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pza">
+    <style>
+      <fill id="fza">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bio" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bik">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第三幕 · 07 du Bois 2026 · 临床应用</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bin">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">24</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bip">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识评估不是一次横断面检查</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="biq">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="396" height="165.6" topLeftX="44.639999999999986" topLeftY="142.56" presetHandlers="9.359712" type="round-rect" id="biz">
+        <fill>
+          <fillColor color="rgba(252, 238, 218, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="347.04" height="25.1" topLeftX="69.12" topLeftY="152.64" type="text" id="biS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">一次性检查的三种失败模式</span></strong></p>
+        </content>
+      </shape>
+      <shape width="347.04" height="115.2" topLeftX="69.12" topLeftY="182.88" type="text" id="biu">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">疲劳：越到测试后段，表现越差。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">注意波动：单次测量的信噪比本就很低。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">单次阴性：很容易被读成「无意识」，于是把「这一次没测到」当成「没有」。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="453.0959842519685" height="165.6" topLeftX="462.24" topLeftY="142.56" presetHandlers="9.359712" type="round-rect" id="biL">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="404.1359842519685" height="25.1" topLeftX="486.72" topLeftY="152.64" type="text" id="bih">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">结构化、多阶段的交互方案（44 人）</span></strong></p>
+        </content>
+      </shape>
+      <shape width="404.1359842519685" height="122.3" topLeftX="486.72" topLeftY="182.88" type="text" id="biN">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">阶段推进：感觉运动节律调制 → BCI 训练 → 有 / 无神经反馈训练 → 二选一问答。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">每次会话同步做 CRS-R 与 WHIM 行为学评估，两种尺子都留着。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="11.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">73.8% 的患者达到显著的解码准确率，其中 90% 进入问答阶段。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="108" topLeftX="44.639999999999986" topLeftY="318.24" presetHandlers="9.36036" type="round-rect" id="bij">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="432" height="24.4" topLeftX="69.12" topLeftY="326.88" type="text" id="biG">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">从「检查」到「对话」：交互回路</span></strong></p>
+        </content>
+      </shape>
+      <shape width="155.1311811023622" height="33.12" topLeftX="69.12000000000002" topLeftY="352.8" presetHandlers="9.360044" type="round-rect" id="biP">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(220, 241, 243, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="146.4911811023622" height="33.12" topLeftX="73.44" topLeftY="352.8" type="text" id="biT">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">系统发出指令</span></strong></p>
+        </content>
+      </shape>
+      <shape width="12.96" height="33.12" topLeftX="222.8111811023622" topLeftY="352.8" type="text" id="biI">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="14.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="155.1311811023622" height="33.12" topLeftX="235.77118110236216" topLeftY="352.8" presetHandlers="9.360044" type="round-rect" id="biy">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(220, 241, 243, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="146.4911811023622" height="33.12" topLeftX="240.09118110236224" topLeftY="352.8" type="text" id="bim">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">患者产生内部反应</span></strong></p>
+        </content>
+      </shape>
+      <shape width="12.96" height="33.12" topLeftX="389.4623622047244" topLeftY="352.8" type="text" id="bis">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="14.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="155.1311811023622" height="33.12" topLeftX="402.42236220472444" topLeftY="352.8" presetHandlers="9.360044" type="round-rect" id="biF">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(220, 241, 243, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="146.4911811023622" height="33.12" topLeftX="406.7423622047245" topLeftY="352.8" type="text" id="bid">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">EEG</span></strong></p>
+        </content>
+      </shape>
+      <shape width="12.96" height="33.12" topLeftX="556.1136220472441" topLeftY="352.8" type="text" id="biU">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="14.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="155.1311811023622" height="33.12" topLeftX="569.073622047244" topLeftY="352.8" presetHandlers="9.360044" type="round-rect" id="biW">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(220, 241, 243, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="146.4911811023622" height="33.12" topLeftX="573.3936220472441" topLeftY="352.8" type="text" id="bit">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">decoder</span></strong></p>
+        </content>
+      </shape>
+      <shape width="12.96" height="33.12" topLeftX="722.7648031496063" topLeftY="352.8" type="text" id="biY">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="14.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="155.1311811023622" height="33.12" topLeftX="735.7248031496063" topLeftY="352.8" presetHandlers="9.360044" type="round-rect" id="big">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(220, 241, 243, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="146.4911811023622" height="33.12" topLeftX="740.0448031496063" topLeftY="352.8" type="text" id="biE">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">系统继续交互</span></strong></p>
+        </content>
+      </shape>
+      <shape width="821.7359842519685" height="40.32" topLeftX="69.12" topLeftY="385.92" type="text" id="bic">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">本汇报推论：这把「一次表现」换成「随时间的可重复性」，等于把单次阴性从「证据」降级为「一个事件」。04 的流式与 07 的持续交互其实是同一件事的两个层面——一个是通道连续，一个是关系连续。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="64.8" topLeftX="44.639999999999986" topLeftY="442.08" presetHandlers="9.359712" type="round-rect" id="biQ">
+        <fill>
+          <fillColor color="rgba(15, 58, 87, 1)" />
+        </fill>
+        <border color="rgba(15, 58, 87, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="102.24" height="64.8" topLeftX="67.68" topLeftY="442.08" type="text" id="biv">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.2" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.2">汇报结论</span></strong></p>
+        </content>
+      </shape>
+      <shape width="716.6159842519685" height="64.8" topLeftX="175.67999999999995" topLeftY="442.08" type="text" id="biK">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识 BCI 正从实验室的 EEG 范式，走向 wearable、interactive、bedside 的系统。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="biX">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页把 07 的「结构化多阶段协议」讲成一个范式变化，而不是流程细节。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">左边三种失败模式是每个做临床测量的人都会遇到的，请具体讲：疲劳和注意波动会造成假阴性，而假阴性会被当作「无意识」的证据。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">右边给出答案：把一次性检查换成持续交互，让「一次没做到」不再等于「做不到」。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">底部推论是全场的第二句主线：通道的连续性与关系的连续性，其实是同一个方向的两次推进。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,180 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzW">
+    <style>
+      <fill id="fzW">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bxK" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bJx">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 2 · 02 Fischer 2025 · Neurology</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bxQ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">08</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bxk">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">把问题从「有没有」换成「是什么」</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bxn">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="408.96" height="116.64" topLeftX="44.640000000000015" topLeftY="142.56" presetHandlers="9.36036" type="round-rect" id="bJa">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="360" height="21.6" topLeftX="69.12" topLeftY="154.08" type="text" id="bxo">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">旧问题 · consciousness detection</span></strong></p>
+        </content>
+      </shape>
+      <shape width="360" height="37.44" topLeftX="69.12" topLeftY="177.12" type="text" id="bxz">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">Does the patient have consciousness?</span></strong></p>
+        </content>
+      </shape>
+      <shape width="360" height="34.56" topLeftX="69.12" topLeftY="214.56" type="text" id="bxS">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">要求患者隐蔽地执行一个指令任务（如想象打网球），再对照预期脑区。</span></p>
+        </content>
+      </shape>
+      <shape width="441.36" height="116.64" topLeftX="473.76000000000005" topLeftY="142.56" presetHandlers="9.36036" type="round-rect" id="bJw">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="396" height="21.6" topLeftX="498.24" topLeftY="154.08" type="text" id="bxq">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="11.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">新问题 · consciousness reconstruction</span></strong></p>
+        </content>
+      </shape>
+      <shape width="396" height="37.44" topLeftX="498.24" topLeftY="177.12" type="text" id="bxh">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="16.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">What is the patient consciously experiencing?</span></strong></p>
+        </content>
+      </shape>
+      <shape width="396" height="34.56" topLeftX="498.24" topLeftY="214.56" type="text" id="bxN">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.00" defaultTabSize="72"><span color="rgba(15, 58, 87, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">从脑活动中重建刺激、概念与语义内容，把意识评估从二分推向连续谱。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="27.4" topLeftX="44.639999999999986" topLeftY="277.92" type="text" id="bJA">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="18.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">现行范式的四个根本局限</span></strong></p>
+        </content>
+      </shape>
+      <shape width="203.6340157480315" height="145.44" topLeftX="44.64" topLeftY="312.48" presetHandlers="9.360518" type="round-rect" id="bxL">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="169.07401574803148" height="25.1" topLeftX="61.92" topLeftY="324" type="text" id="bxP">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">01</span></strong></p>
+        </content>
+      </shape>
+      <shape width="169.07401574803148" height="30.24" topLeftX="61.92" topLeftY="351.36" type="text" id="bxT">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">灵敏度有限</span></strong></p>
+        </content>
+      </shape>
+      <shape width="169.07401574803148" height="67.5" topLeftX="61.92" topLeftY="385.92" type="text" id="bJH">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">听懂、注意、形成正确心理表象、持续执行——任一环节失败都会造成假阴性。</span></p>
+        </content>
+      </shape>
+      <shape width="203.6340157480315" height="145.44" topLeftX="266.9940157480315" topLeftY="312.48" presetHandlers="9.360518" type="round-rect" id="bxG">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="169.07401574803148" height="25.1" topLeftX="284.2740157480315" topLeftY="324" type="text" id="bxm">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">02</span></strong></p>
+        </content>
+      </shape>
+      <shape width="169.07401574803148" height="30.24" topLeftX="284.2740157480315" topLeftY="351.36" type="text" id="bxs">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">依赖先验神经解剖假设</span></strong></p>
+        </content>
+      </shape>
+      <shape width="169.07401574803148" height="67.5" topLeftX="284.2740157480315" topLeftY="385.92" type="text" id="bJJ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">「想象打网球应激活运动区」这类假设，在脑网络已重组的重伤患者身上未必成立。</span></p>
+        </content>
+      </shape>
+      <shape width="203.6340157480315" height="145.44" topLeftX="489.34803149606296" topLeftY="312.48" presetHandlers="9.360518" type="round-rect" id="bxy">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="169.07401574803148" height="25.1" topLeftX="506.628031496063" topLeftY="324" type="text" id="bxW">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">03</span></strong></p>
+        </content>
+      </shape>
+      <shape width="169.07401574803148" height="30.24" topLeftX="506.628031496063" topLeftY="351.36" type="text" id="bxO">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">测的是任务执行能力</span></strong></p>
+        </content>
+      </shape>
+      <shape width="183.4" height="68.8" topLeftX="506.628031496063" topLeftY="385.92" type="text" id="bJb">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" wrap="true">
+          <p><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">而不是患者正在经历的</span></p><p><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">主观内容。</span></p></content>
+      </shape>
+      <shape width="203.6340157480315" height="145.44" topLeftX="711.701968503937" topLeftY="312.48" presetHandlers="9.360518" type="round-rect" id="bxU">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="169.07401574803148" height="25.1" topLeftX="728.981968503937" topLeftY="324" type="text" id="bxg">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">04</span></strong></p>
+        </content>
+      </shape>
+      <shape width="169.07401574803148" height="30.24" topLeftX="728.981968503937" topLeftY="351.36" type="text" id="bxE">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(22, 34, 46, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">把意识建构成二分现象</span></strong></p>
+        </content>
+      </shape>
+      <shape width="183.4" height="68.8" topLeftX="728.981968503937" topLeftY="385.92" type="text" id="bJr">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" wrap="true">
+          <p><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">忽略了意识体验本身的</span></p><p><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">连续谱性质。</span></p></content>
+      </shape>
+      <shape width="870.6959842519685" height="21.6" topLeftX="44.639999999999986" topLeftY="502.56" type="text" id="bxY">
+        <content verticalAlign="bottom" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">文献类型：Review / Perspective。检索范围：PubMed 与 Google Scholar，1990-01 至 2024-09。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bxv">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这篇的核心贡献不是新算法，而是重新定义问题：从 consciousness detection 到 consciousness reconstruction。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">四个局限里，最值得注意的是「依赖先验神经解剖假设」——它和 07 的脑地形结果以及 06 的跨被试失败互相印证。</span></p>
+      </content>
+    </note>
+  </slide>

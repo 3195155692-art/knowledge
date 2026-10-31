@@ -1,0 +1,64 @@
+[
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "A deep learning framework for understanding cochlear implants.",
+    "authors": [
+      "Annesya Banerjee",
+      "Mark R Saddler",
+      "Julie G Arenberg",
+      "Josh H McDermott"
+    ],
+    "journal": "bioRxiv",
+    "year": 2025,
+    "date": "2025-Oct-17",
+    "abstract": "Sensory prostheses replace dysfunctional sensory organs with electrical stimulation but currently fail to restore normal perception. Outcomes may be limited by stimulation strategies, neural degeneration, or suboptimal decoding by the brain. We propose a deep learning framework to evaluate these issues by estimating best-case outcomes with task-optimized decoders operating on simulated prosthetic input. We applied the framework to cochlear implants - the standard treatment for deafness - by training artificial neural networks to recognize and localize sounds using simulated auditory nerve input. The resulting models exhibited speech recognition and sound localization that was worse than that of normal hearing listeners, and on par with the best human cochlear implant users, with similar results across the three main stimulation strategies in current use. Speech recognition depended heavily on the extent of decoder optimization for implant input, with lesser influence from other factors. The results identify performance limits of current devices and demonstrate a model-guided approach for understanding the limitations and potential of sensory prostheses.",
+    "doi": "10.1101/2025.07.16.665227",
+    "pmid": "40777303",
+    "pmcid": "PMC12330565",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40777303/",
+    "type": "article",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Cochlear Implant Artifacts Removal in EEG-Based Objective Auditory Rehabilitation Assessment.",
+    "authors": [
+      "Qi Zheng",
+      "Yubo Wu",
+      "Jianing Zhu",
+      "Leqiang Cao",
+      "Yanru Bai",
+      "Guangjian Ni"
+    ],
+    "journal": "IEEE Trans Neural Syst Rehabil Eng",
+    "year": 2024,
+    "date": "2024",
+    "abstract": "Cochlear implant (CI) is a neural prosthesis that can restore hearing for patients with severe to profound hearing loss. Observed variability in auditory rehabilitation outcomes following cochlear implantation may be due to cerebral reorganization. Electroencephalography (EEG), favored for its CI compatibility and non-invasiveness, has become a staple in clinical objective assessments of cerebral plasticity post-implantation. However, the electrical activity of CI distorts neural responses, and EEG susceptibility to these artifacts presents significant challenges in obtaining reliable neural responses. Despite the use of various artifact removal techniques in previous studies, the automatic identification and reduction of CI artifacts while minimizing information loss or damage remains a pressing issue in objectively assessing advanced auditory functions in CI recipients. To address this problem, we propose an approach that combines machine learning algorithms-specifically, Support Vector Machines (SVM)-along with Independent Component Analysis (ICA) and Ensemble Empirical Mode Decomposition (EEMD) to automatically detect and minimize electrical artifacts in EEG data. The innovation of this research is the automatic detection of CI artifacts using the temporal properties of EEG signals. By applying EEMD and ICA, we can process and remove the identified CI artifacts from the affected EEG channels, yielding a refined signal. Comparative analysis in the temporal, frequency, and spatial domains suggests that the corrected EEG recordings of CI recipients closely align with those of peers with normal hearing, signifying the restoration of reliable neural responses across the entire scalp while eliminating CI artifacts.",
+    "doi": "10.1109/tnsre.2024.3438149",
+    "pmid": "39102322",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39102322/",
+    "type": "article",
+    "volume": "32",
+    "issue": "",
+    "pages": "2854-2863",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  }
+]

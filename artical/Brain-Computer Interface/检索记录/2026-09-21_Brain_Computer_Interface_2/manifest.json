@@ -1,0 +1,470 @@
+{
+  "project": "Brain-Computer Interface/2026-09-21_Brain_Computer_Interface_2",
+  "generatedAt": "2026-09-21T19:09:55+08:00",
+  "tool": "lky-search v1.0.0",
+  "kind": "search",
+  "query": "(\"disorders of consciousness\"[Title/Abstract] OR \"covert consciousness\"[Title/Abstract]) AND (\"deep brain stimulation\"[Title/Abstract] OR \"spinal cord stimulation\"[Title/Abstract] OR \"thalamus\"[Title/Abstract] OR \"neuromodulation\"[Title/Abstract]) AND (2024:2026[dp])",
+  "sources": [
+    "pubmed",
+    "europepmc",
+    "openalex",
+    "crossref",
+    "arxiv"
+  ],
+  "sort": "cited",
+  "filters": {
+    "year_from": null,
+    "year_to": null
+  },
+  "outputLayout": {
+    "notes": "*.md",
+    "pdfs": "PDFs/",
+    "data": "results.{csv,ris,bib,json}"
+  },
+  "fullTextPolicy": "本技能只判定 OA；付费与 CNKI 全文由 nature-downloader 获取",
+  "summary": {
+    "total": 23,
+    "with_doi": 23,
+    "open_access": 0
+  },
+  "errors": [],
+  "results": [
+    {
+      "index": 1,
+      "title": "Spinal cord stimulation improves brain connectivity and consciousness level in patients with disorders of consciousness.",
+      "authors": "Adilijiang Aihemaitiniyazi; Tiemin Li; Huawei Zhang; Da Wei; Pu Cai; Wei Wang; Guoming Luan; Yong Wang; Changqing Liu",
+      "journal": "Neuroimage",
+      "year": 2026,
+      "doi": "10.1016/j.neuroimage.2026.121694",
+      "pmid": "41548827",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41548827/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 2,
+      "title": "Temporal Interference Stimulation of Centromedian-Parafascicular Complex in Disorders of Consciousness: A Pilot Study.",
+      "authors": "Gengyao Hu; Changgeng Song; Dianwei Wu; Xiaoqian Niu; Jianmin Hao; Lijuan Liu; Xiaogang Kang; Wen Jiang",
+      "journal": "Ann Clin Transl Neurol",
+      "year": 2026,
+      "doi": "10.1002/acn3.70477",
+      "pmid": "42417066",
+      "pmcid": "PMC13395062",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42417066/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 3,
+      "title": "Mechanisms of disorders of consciousness based on source-level microstate characteristics under deep brain stimulation neuromodulation.",
+      "authors": "Tianqing Cao; Yihua Wang; Bin Jiang; Dongsheng Liu; Wang Nan; Xiaoke Chai; Qiheng He; Sipeng Zhu; Hongbin Wu; Yitong Jia; Chunyun Zhang; Yi Yang; Jizong Zhao",
+      "journal": "Stroke Vasc Neurol",
+      "year": 2026,
+      "doi": "10.1136/svn-2025-004148",
+      "pmid": "41482344",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41482344/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 4,
+      "title": "Esketamine Preserves Network Connectivity and Promotes Recovery in Consciousness Disorders.",
+      "authors": "Xuewei Qin; Xuanling Chen; Lan Yao; Bo Wang; Hongchuan Niu; Zhenhu Liang; Zhibin Zhao; Jian Wang; Jiapeng Huang; Xiangyang Guo; Xiaoli Li",
+      "journal": "CNS Neurosci Ther",
+      "year": 2026,
+      "doi": "10.1002/cns.70890",
+      "pmid": "42126345",
+      "pmcid": "PMC13170474",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42126345/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 5,
+      "title": "Graph-Theoretical Signature from Neural and Vascular Signals Reveals Spinal Cord Stimulation Frequency-Specific Brain Network in Disorders of Consciousness Patients.",
+      "authors": "Nan Wang; Xiaoke Chai; Yifang He; Jiuxiang Song; Tianqing Cao; Qiheng He; Sipeng Zhu; Yitong Jia; Juanning Si; Yi Yang; Jizong Zhao",
+      "journal": "Cyborg Bionic Syst",
+      "year": 2026,
+      "doi": "10.34133/cbsystems.0539",
+      "pmid": "42040188",
+      "pmcid": "PMC13103464",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42040188/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 6,
+      "title": "Awareness- and Arousal-specific Brain Analysis Predicts Spinal Cord Stimulation Effectiveness in Disorders of Consciousness.",
+      "authors": "Jiewei Lu; Qianqian Ge; Yinuo Liu; Jianghong He; Jianda Han; Ningbo Yu",
+      "journal": "IEEE J Biomed Health Inform",
+      "year": 2026,
+      "doi": "10.1109/jbhi.2026.3677372",
+      "pmid": "41880257",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41880257/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 7,
+      "title": "A Comprehensive Review of Low-Intensity Focused Ultrasound Parameters and Applications in Neurologic and Psychiatric Disorders.",
+      "authors": "Stewart S Cox; Dillon J Connolly; Xiaolong Peng; Bashar W Badran",
+      "journal": "Neuromodulation",
+      "year": 2025,
+      "doi": "10.1016/j.neurom.2024.07.008",
+      "pmid": "39230530",
+      "pmcid": "PMC11700779",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39230530/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 8,
+      "title": "Subcortical Hubs of Brain Networks Sustaining Human Consciousness.",
+      "authors": "Morgan K Cambareri; Andreas Horn; Laura D Lewis; Jian Li; Brian L Edlow",
+      "journal": "Hum Brain Mapp",
+      "year": 2025,
+      "doi": "10.1002/hbm.70352",
+      "pmid": "41074653",
+      "pmcid": "PMC12514454",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41074653/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 9,
+      "title": "A human brain network linked to restoration of consciousness after deep brain stimulation.",
+      "authors": "Aaron E L Warren; Marina Raguž; Helen Friedrich; Frederic L W V J Schaper; Jordy Tasserie; Samuel B Snider; Jian Li; Melissa M J Chua; Konstantin Butenko; Maximilian U Friedrich; Rohan Jha; Juan E Iglesias; Patrick W Carney; David Fischer; Michael D Fox; Aaron D Boes; Brian L Edlow; Andreas Horn; Darko Chudy; John D Rolston",
+      "journal": "Nat Commun",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-61988-4",
+      "pmid": "40691170",
+      "pmcid": "PMC12279989",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40691170/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 10,
+      "title": "A shared central thalamus mechanism underlying diverse recoveries in disorders of consciousness.",
+      "authors": "Haoran Zhang; Qianqian Ge; Xiao Liu; Yuanyuan Dang; Long Xu; Yutong Zhuang; Si Wu; Steven Laureys; Jianghong He; Shan Yu",
+      "journal": "Nat Commun",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-65360-4",
+      "pmid": "41285808",
+      "pmcid": "PMC12644788",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41285808/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 11,
+      "title": "Thalamic burst and tonic firing selectively indicate patients' consciousness level and recovery.",
+      "authors": "Huan Wang; Yongxiang Hu; Qianqian Ge; Yuanyuan Dang; Yi Yang; Long Xu; Xiaoyu Xia; Peng Zhang; Sheng He; Steven Laureys; Yan Yang; Jianghong He",
+      "journal": "Innovation (Camb)",
+      "year": 2025,
+      "doi": "10.1016/j.xinn.2025.100846",
+      "pmid": "40432773",
+      "pmcid": "PMC12105493",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40432773/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 12,
+      "title": "Transcranial direct current stimulation modulates primate brain dynamics across states of consciousness.",
+      "authors": "Guylaine Hoffner; Pablo Castro; Lynn Uhrig; Camilo Miguel Signorelli; Morgan Dupont; Jordy Tasserie; Alain Destexhe; Rodrigo Cofre; Jacobo Sitt; Béchir Jarraya",
+      "journal": "Elife",
+      "year": 2025,
+      "doi": "10.7554/elife.101688",
+      "pmid": "41081761",
+      "pmcid": "PMC12517689",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41081761/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 13,
+      "title": "Proceedings of the 12th annual deep brain stimulation think tank: cutting edge technology meets novel applications.",
+      "authors": "Alfonso Enrique Martinez-Nunez; Christopher J Rozell; Simon Little; Huiling Tan; Stephen L Schmidt; Warren M Grill; Miroslav Pajic; Dennis A Turner; Coralie de Hemptinne; Andre Machado; Nicholas D Schiff; Abbey S Holt-Becker; Robert S Raike; Mahsa Malekmohammadi; Yagna J Pathak; Lyndahl Himes; David Greene; Lothar Krinke; Mattia Arlotti; Lorenzo Rossi; Jacob Robinson; Bahne H Bahners; Vladimir Litvak; Luka Milosevic; Saadi Ghatan; Frederic L W V J Schaper; Michael D Fox; Nicholas M Gregg; Cynthia Kubu; James J Jordano; Nicola G Cascella; YoungHoon Nho; Casey H Halpern; Helen S Mayberg; Ki Sueng Choi; Haneul Song; Jungho Cha; Sankaraleengam Alagapan; Nico U F Dosenbach; Evan M Gordon; Jianxun Ren; Hesheng Liu; Lorraine V Kalia; Sarah-Anna Hescham; Dorian M Kusyk; Adolfo Ramirez-Zamora; Kelly D Foote; Michael S Okun; Joshua K Wong",
+      "journal": "Front Hum Neurosci",
+      "year": 2025,
+      "doi": "10.3389/fnhum.2025.1544994",
+      "pmid": "40070487",
+      "pmcid": "PMC11893992",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40070487/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 14,
+      "title": "Stimulation intensities influence the effects of spinal cord stimulation in disorders of consciousness: an fNIRS study.",
+      "authors": "Aoxuan Liu; Qianqian Ge; Liqin Jiao; Hao Peng; Yuhang Sun; Shuai Han; Qin Zhang; Juanning Si; Jianghong He",
+      "journal": "Neurophotonics",
+      "year": 2025,
+      "doi": "10.1117/1.nph.12.3.035003",
+      "pmid": "40777927",
+      "pmcid": "PMC12331174",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40777927/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 15,
+      "title": "Electroencephalogram prediction of propofol effects on neuromodulation in disorders of consciousness.",
+      "authors": "Xuewei Qin; Xuanling Chen; Xin Zhao; Lan Yao; Hongchuan Niu; Kai Li; Yuanli Zhao; Zhenhu Liang; Zhilei Lan; Yuqian Wang; Xiangyang Guo; Jiapeng Huang; Xiaoli Li",
+      "journal": "Front Neurol",
+      "year": 2025,
+      "doi": "10.3389/fneur.2025.1637647",
+      "pmid": "41090031",
+      "pmcid": "PMC12517178",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41090031/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 16,
+      "title": "The efficacy and safety of low-intensity focused ultrasound pulses for prolonged disorders of consciousness: a study protocol for a randomized controlled trial.",
+      "authors": "Yuehong Huang; Qiuyi Yu; Hongxiang Liu; Chenxia Xue; Caroline Schnakers; Steven Laureys; Martin M Monti; Haibo Di",
+      "journal": "Front Neurol",
+      "year": 2025,
+      "doi": "10.3389/fneur.2025.1597567",
+      "pmid": "41281547",
+      "pmcid": "PMC12631113",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41281547/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 17,
+      "title": "Spinal Cord Stimulation for Prolonged Disorders of Consciousness: A Study on Scalp Electroencephalography.",
+      "authors": "Jian Sun; Jiuqi Yan; Liang Zhao; Xiang Wei; Chang Qiu; Wenwen Dong; Bei Luo; Wenbin Zhang",
+      "journal": "CNS Neurosci Ther",
+      "year": 2024,
+      "doi": "10.1111/cns.70180",
+      "pmid": "39736021",
+      "pmcid": "PMC11683476",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39736021/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 18,
+      "title": "Deep Brain Stimulation for Consciousness Disorders; Technical and Ethical Considerations.",
+      "authors": "Alceste Deli; Alexander L Green",
+      "journal": "Neuroethics",
+      "year": 2024,
+      "doi": "10.1007/s12152-024-09570-5",
+      "pmid": "39091894",
+      "pmcid": "PMC11289033",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39091894/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 19,
+      "title": "Clinical Outcome After Epidural Spinal Cord Stimulation in Patients With Severe Traumatic Brain Injury.",
+      "authors": "Alexey N Vorobyev; Aleksandra V Burmistrova; Kiril M Puzin; Maria D Varyukhina; Margarita L Radutnaya; Alexey A Yakovlev; Gennady E Chmutin; Gerald Musa; Egor G Chmutin; Andrey V Grechko; Gervith Reyes Soto; Carlos Catillo-Rangel; Renat Nurmukhametov; Manuel de Jesus Encarnacion Ramirez; Nicola Montemurro",
+      "journal": "Cureus",
+      "year": 2024,
+      "doi": "10.7759/cureus.65753",
+      "pmid": "39211655",
+      "pmcid": "PMC11361623",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39211655/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 20,
+      "title": "Transient alteration of Awareness triggered by direct electrical stimulation of the brain.",
+      "authors": "Julie Lévi-Strauss; Julia Makhalova; Samuel Medina Villalon; Romain Carron; Christian G Bénar; Fabrice Bartolomei",
+      "journal": "Brain Stimul",
+      "year": 2024,
+      "doi": "10.1016/j.brs.2024.08.013",
+      "pmid": "39218350",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39218350/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 21,
+      "title": "Re-awakening the brain: Forcing transitions in disorders of consciousness by external in silico perturbation.",
+      "authors": "Paulina Clara Dagnino; Anira Escrichs; Ane López-González; Olivia Gosseries; Jitka Annen; Yonatan Sanz Perl; Morten L Kringelbach; Steven Laureys; Gustavo Deco",
+      "journal": "PLoS Comput Biol",
+      "year": 2024,
+      "doi": "10.1371/journal.pcbi.1011350",
+      "pmid": "38701063",
+      "pmcid": "PMC11068192",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38701063/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 22,
+      "title": "Brain Temporal-Spectral Functional Variability Reveals Neural Improvements of DBS Treatment for Disorders of Consciousness.",
+      "authors": "Jiewei Lu; Jingchao Wu; Zhilin Shu; Xinyuan Zhang; Haitao Li; Siquan Liang; Jianda Han; Ningbo Yu",
+      "journal": "IEEE Trans Neural Syst Rehabil Eng",
+      "year": 2024,
+      "doi": "10.1109/tnsre.2024.3368434",
+      "pmid": "38386574",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38386574/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 23,
+      "title": "Spinal cord electrical stimulation for severe disturbance of consciousness after traumatic brain injury: A case report.",
+      "authors": "Zhiwen Zhu; Xiaozhen Hu; Yajun Mao",
+      "journal": "Heliyon",
+      "year": 2024,
+      "doi": "10.1016/j.heliyon.2024.e34913",
+      "pmid": "39144968",
+      "pmcid": "PMC11320212",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39144968/",
+      "file": null,
+      "note": null
+    }
+  ]
+}

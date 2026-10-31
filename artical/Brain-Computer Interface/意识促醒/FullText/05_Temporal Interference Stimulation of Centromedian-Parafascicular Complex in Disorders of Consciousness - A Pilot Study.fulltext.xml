@@ -1,0 +1,501 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="acn370477" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="pmc-domain-id">2565</journal-id><journal-id journal-id-type="pmc-domain">ancltransneuro</journal-id><journal-id journal-id-type="nlm-id">101623278</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13395062</article-id><article-id pub-id-type="pmcid-ver">PMC13395062.1</article-id><article-id pub-id-type="pmcaid">13395062</article-id><article-id pub-id-type="pmcaiid">13395062</article-id><article-id pub-id-type="pmid">42417066</article-id><article-id pub-id-type="doi">10.1002/acn3.70477</article-id><article-id pub-id-type="publisher-id">ACN370477</article-id><article-id pub-id-type="other">ACN3-2026-02-0226.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Temporal Interference Stimulation of Centromedian‐Parafascicular Complex in Disorders of Consciousness: A Pilot Study</article-title></title-group><contrib-group><contrib id="acn370477-cr-0001" contrib-type="author"><name name-style="western"><surname>Hu</surname><given-names initials="G">Gengyao</given-names></name><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0002" contrib-type="author"><name name-style="western"><surname>Song</surname><given-names initials="C">Changgeng</given-names></name><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0003" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="D">Dianwei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-7077-5143</contrib-id><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0004" contrib-type="author"><name name-style="western"><surname>Niu</surname><given-names initials="X">Xiaoqian</given-names></name><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0005" contrib-type="author"><name name-style="western"><surname>Hao</surname><given-names initials="J">Jianmin</given-names></name><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0006" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="L">Lijuan</given-names></name><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0007" contrib-type="author"><name name-style="western"><surname>Kang</surname><given-names initials="X">Xiaogang</given-names></name><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370477-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Jiang</surname><given-names initials="W">Wen</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0612-2917</contrib-id><xref rid="acn370477-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jiangwen@fmmu.edu.cn</email></address></contrib></contrib-group><aff id="acn370477-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology, Xijing Hospital</named-content>
+<institution>Fourth Military Medical University</institution>
+<city>Xi'an</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Wen Jiang (<email>jiangwen@fmmu.edu.cn</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>7</month><year>2026</year></pub-date><issue-id pub-id-type="pmc-issue-id">518191</issue-id><elocation-id>10.1002/acn3.70477</elocation-id><history>
+<date date-type="rev-recd"><day>10</day><month>6</month><year>2026</year></date>
+<date date-type="received"><day>25</day><month>2</month><year>2026</year></date>
+<date date-type="accepted"><day>25</day><month>6</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>08</day><month>07</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>24</day><month>07</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-21 14:25:17.353"><day>21</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals LLC on behalf of American Neurological Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ACN3-9999-0.pdf"><?pdf-name ACN3-9999-0.pdf?><?pdf-size 1180723?><?pdf-md5 67349a5a92755d4f181f7a5d62e12aed?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:1101/13395062/67349a5a9275/ACN3-9999-0.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ACN3-9999-0.pdf"/><abstract><title>ABSTRACT</title><sec id="acn370477-sec-0001"><title>Objective</title><p>Treatment of disorders of consciousness (DoC) remains a major clinical challenge, and noninvasive, targeted modulation of deep brain structures has emerged as a promising therapeutic strategy. We aimed to evaluate the feasibility/safety and preliminary effects of thalamic temporal interference stimulation (TIS) targeting centromedian‐parafascicular (CM‐PF) complex in patients with DoC.</p></sec><sec id="acn370477-sec-0002"><title>Methods</title><p>We conducted a single‐arm, self‐controlled trial in nine patients with DoC. All patients received TIS targeting the bilateral CM‐PF complex once daily for 10 consecutive days. Stimulation targets were guided by patient‐specific electric field modeling to ensure precise neuromodulation. Outcome measures included adverse events, the change in Coma Recovery Scale‐Revised (CRS‐R) total and subscale scores from baseline to after five and 10 stimulation sessions, and alterations in EEG “ABCD” patterns and power spectral density (PSD) following the tenth session.</p></sec><sec id="acn370477-sec-0003"><title>Results</title><p>No serious adverse events were reported. After 10 stimulation sessions, CRS‐R total scores increased significantly, with improvements primarily observed in the auditory, visual, and motor subscales. No significant changes in CRS‐R scores were detected after five stimulation sessions. EEG analyses demonstrated an increased prevalence of patterns C and D, disappearance of pattern A, and elevated global PSD in the alpha and beta frequency bands after 10 stimulation sessions.</p></sec><sec id="acn370477-sec-0004"><title>Interpretation</title><p>This pilot study demonstrates that thalamic TIS is a safe and feasible noninvasive deep brain stimulation technology that may facilitate consciousness recovery in patients with DoC. Larger randomized controlled trials with longer follow‐up are needed to confirm these preliminary observations.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="acn370477-kwd-0001">centromedian‐parafascicular complex</kwd><kwd id="acn370477-kwd-0002">disorders of consciousness</kwd><kwd id="acn370477-kwd-0003">temporal interference stimulation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Shaanxi Province Key Research and Development Program</institution></institution-wrap>
+</funding-source><award-id>2024SF‐YBXM‐043</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Clinical Research Project of the Fourth Military Medical University</institution></institution-wrap>
+</funding-source><award-id>2023LC2314</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Shaanxi Province Special Support Program for Leading Talents in Scientific and Technological Innovation</institution></institution-wrap>
+</funding-source></award-group><funding-statement>This work was funded by <funding-source>
+<institution-wrap><institution>Shaanxi Province Key Research and Development Program</institution></institution-wrap>
+</funding-source> grant <award-id>2024SF‐YBXM‐043</award-id>; <funding-source>
+<institution-wrap><institution>Clinical Research Project of the Fourth Military Medical University</institution></institution-wrap>
+</funding-source> grant <award-id>2023LC2314</award-id>; <funding-source>
+<institution-wrap><institution>Shaanxi Province Special Support Program for Leading Talents in Scientific and Technological Innovation</institution></institution-wrap>
+</funding-source>.</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="9"/><word-count count="6000"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>corrected-proof</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.4 mode:remove_FC converted:22.07.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="acn370477-body-0001"><sec id="acn370477-sec-0005"><label>1</label><title>Introduction</title><p>Disorders of consciousness (DoC) usually follow severe brain injury due to trauma, anoxia, or stroke, and are characterized by marked impairments in awareness and/or arousal [<xref rid="acn370477-bib-0001" ref-type="bibr">1</xref>]. When these conditions persist for more than 28 days, they are classified as prolonged DoC (pDoC), including vegetative state/unresponsive wakefulness syndrome (VS/UWS) and minimally conscious state (MCS) [<xref rid="acn370477-bib-0002" ref-type="bibr">2</xref>]. Patients with pDoC show profound limitations in communication and purposeful behavior, require long‐term institutional or home‐based care, and impose a considerable burden on families and healthcare systems [<xref rid="acn370477-bib-0003" ref-type="bibr">3</xref>, <xref rid="acn370477-bib-0004" ref-type="bibr">4</xref>]. Despite the use of multiple therapeutic strategies to promote recovery of consciousness and functional improvement, only a small proportion of patients with DoC derive substantial benefit and achieve meaningful restoration of consciousness [<xref rid="acn370477-bib-0005" ref-type="bibr">5</xref>]. This therapeutic gap underscores the need for novel approaches that can reliably enhance arousal and awareness.</p><p>Deep brain stimulation (DBS) has emerged as a promising option for selected patients with pDoC [<xref rid="acn370477-bib-0006" ref-type="bibr">6</xref>]. By delivering electrical stimulation to deep nuclei such as the centromedian–parafascicular (CM‐PF) complex, central thalamus and globus pallidus internus, DBS can modulate thalamo‐striatal and thalamo‐cortical circuits that are central to conscious processing [<xref rid="acn370477-bib-0007" ref-type="bibr">7</xref>, <xref rid="acn370477-bib-0008" ref-type="bibr">8</xref>, <xref rid="acn370477-bib-0009" ref-type="bibr">9</xref>, <xref rid="acn370477-bib-0010" ref-type="bibr">10</xref>]. The CM and PF receive rich inputs from the brainstem ascending reticular activating system, the internal segment of the globus pallidus, and the reticular part of the substantia nigra (the output nuclei of the basal ganglia), and then project strongly to sensorimotor cortical areas as well as the prefrontal and cingulate cortices [<xref rid="acn370477-bib-0011" ref-type="bibr">11</xref>]. Because these structures are critically involved in arousal and cognition, the CM‐PF complex plays a central role in neuromodulation for disorders of consciousness. Supporting this, sEEG evidence from the human brain supports that the intralaminar and medial thalamic nuclei, particularly the CM‐PF complex, act as gatekeepers for prefrontal cortical activity during conscious perception through thalamofrontal synchrony and cross‐frequency coupling [<xref rid="acn370477-bib-0012" ref-type="bibr">12</xref>]. Furthermore, in 40 patients with DoC who underwent DBS targeting the CM‐PF complex, electric field modeling reveals that stimulation is most effective when it extends below the CM nucleus to engage the inferior PF nucleus and the adjacent ventral tegmental tract, compared to other regions [<xref rid="acn370477-bib-0013" ref-type="bibr">13</xref>]. However, DBS requires stereotactic surgery, carries perioperative risks, and is associated with high costs and limited availability. These constraints substantially restrict its use in routine care and motivate the search for noninvasive alternatives that can target similar deep structures.</p><p>Temporal interference (TI) stimulation is a recently developed, noninvasive electrical neuromodulation technique designed to focally modulate deep brain regions in humans [<xref rid="acn370477-bib-0014" ref-type="bibr">14</xref>]. TI applies two high‐frequency alternating currents, usually above 1 kHz, with slightly different frequencies through scalp electrodes. These currents pass through the skull with relatively low attenuation [<xref rid="acn370477-bib-0015" ref-type="bibr">15</xref>]. In the region where the two fields overlap, they generate a low‐frequency amplitude‐modulated envelope that can effectively drive neural activity, while superficial and off‐target regions primarily experience high‐frequency components that are less effective at depolarizing neurons. This mechanism allows selective engagement of deep targets with limited stimulation of overlying cortex and reduced discomfort, addressing a major limitation of conventional noninvasive stimulation methods.</p><p>Accumulating evidence suggests that temporal interference stimulation (TIS) is safe in humans and can modulate deep networks in a functionally meaningful way [<xref rid="acn370477-bib-0016" ref-type="bibr">16</xref>, <xref rid="acn370477-bib-0017" ref-type="bibr">17</xref>, <xref rid="acn370477-bib-0018" ref-type="bibr">18</xref>, <xref rid="acn370477-bib-0019" ref-type="bibr">19</xref>]. Hippocampal TIS has been reported to improve episodic memory and increase hippocampal activation [<xref rid="acn370477-bib-0016" ref-type="bibr">16</xref>], and theta‐burst patterned TIS over the striatum has been shown to enhance motor learning and strengthen motor network connectivity in older adults [<xref rid="acn370477-bib-0017" ref-type="bibr">17</xref>]. However, the potential of TIS to promote recovery in pDoC has not been systematically explored.</p><p>In this pilot study, we developed an individualized TIS protocol targeting the CM‐PF complex and evaluated its safety and efficacy in patients with pDoC. We aimed to determine whether noninvasive TIS of the thalamus can promote behavioral signs of consciousness and modulate relevant brain networks in this highly treatment‐resistant population.</p></sec><sec sec-type="methods" id="acn370477-sec-0006"><label>2</label><title>Methods</title><sec id="acn370477-sec-0007"><label>2.1</label><title>Study Design</title><p>This was a single‐group, pre–post interventional trial conducted at the Coma Awakening Center, Department of Neurology, Xijing Hospital, Xi'an, China. The overall study design is shown in Figure <xref rid="acn370477-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="acn370477-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Study flow diagram. CM‐PF, centromedian‐parafascicular; CRS‐R, Coma Recovery Scale‐Revised; MCS, minimally conscious state; TI, temporal interference; TIS, temporal interference stimulation; VS/UWS, vegetative state/unresponsive wakefulness syndrome.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ACN3-9999-0-g002.jpg"><?image-name ACN3-9999-0-g002.jpg?><?image-size 104819?><?image-md5 d3cdf3cfe6eb013e3eb489b0dc303367?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1287?><?image-original-width 995?><?image-scaled-height 858?><?image-scaled-width 663?><?image-cloudpmc-urn urn:cdn:blobs/1101/13395062/d3cdf3cfe6eb/ACN3-9999-0-g002.jpg?><?thumb-name ACN3-9999-0-g002.gif?><?thumb-size 4412?><?thumb-md5 3dc0b874d6ba8331212378ac0a13edc6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 129?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/1101/13395062/3dc0b874d6ba/ACN3-9999-0-g002.gif?></graphic></fig></sec><sec id="acn370477-sec-0008"><label>2.2</label><title>Subjects/Recruitment</title><p>Inclusion criteria were: (1) age 18 to 80 years; (2) diagnosis of vegetative state/unresponsive wakefulness syndrome (VS/UWS) or minimally conscious state (MCS) based on Coma Recovery Scale–Revised (CRS‐R) assessments during the screening period; (3) more than 28 days since brain injury; (4) acquired brain injury of known etiology; and (5) informed consent provided by a legal surrogate.</p><p>Exclusion criteria were: (1) continuous use of sedative medications, sodium or calcium channel blockers, or NMDA receptor antagonists; (2) history of severe or progressive neurological disease; (3) history of epilepsy or ongoing seizures; (4) unstable vital signs or other life‐threatening medical conditions; (5) skull defect or active implanted device (such as cardiac pacemaker or defibrillator, deep brain stimulator, ventriculoperitoneal shunt); and (6) documented pregnancy.</p></sec><sec id="acn370477-sec-0009"><label>2.3</label><title>Standard Protocol Approvals, Registrations, and Subject Consents</title><p>The study followed the Declaration of Helsinki and Good Clinical Practice guidelines, was approved by the Ethics Committee of Xijing Hospital (KY20242231‐F‐1), and registered at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06851156">NCT06851156</ext-link>). Written informed consent was obtained from each patient's legal surrogate.</p></sec><sec id="acn370477-sec-0010"><label>2.4</label><title>Interventions and Procedures</title><sec id="acn370477-sec-0011"><label>2.4.1</label><title>Individualized Temporal Interference Modeling</title><p>Subject‐specific temporal interference (TI) models were generated using NervioX‐S2400 software (2024). Two sinusoidal currents at 2.050 kHz and 2.000 kHz were applied, yielding an envelope frequency Δf of 50 Hz in the target region.</p><p>First, T1‐weighted structural MRI images were segmented with SPM12 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fil.ion.ucl.ac.uk/spm/" ext-link-type="uri">http://www.fil.ion.ucl.ac.uk/spm/</ext-link>) into six tissue classes with assigned conductivities: scalp (0.465 S/m), skull (0.010 S/m), cerebrospinal fluid (1.650 S/m), white matter (0.126 S/m), gray matter (0.276 S/m), and cavities (2.5 × 10<sup>−14</sup> S/m). The international 10–10 EEG electrode system was then registered onto each participant's scalp. Tetrahedral finite element meshes were generated using the Computational Geometry Algorithms Library (CGAL). Using the finite element solver GetDP, we computed the electric field generated by each electrode pair separately. TI field strength was then derived according to the TI coupling principle. The AAL3 atlas was registered to each participant's MRI to identify the CM‐PF region of the thalamus (Figure <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S1</xref>) [<xref rid="acn370477-bib-0020" ref-type="bibr">20</xref>]. For each participant, an exhaustive search was used to determine the electrode montage that maximized the TI field intensity within the CM‐PF.</p></sec><sec id="acn370477-sec-0012"><label>2.4.2</label><title>
+<styled-content style="fixed-case" toggle="no">CM</styled-content>‐<styled-content style="fixed-case" toggle="no">PF</styled-content>‐<styled-content style="fixed-case" toggle="no">TIS</styled-content> Stimulation Paradigm</title><p>Stimulation was delivered using a transcranial electrical stimulator (TES NEURO‐800, Neurodome Inc., China) for 10 consecutive days. Based on the indication provided in DBS for DoC treatment [<xref rid="acn370477-bib-0021" ref-type="bibr">21</xref>], the bilateral CM‐PF was targeted. Each daily session consisted of 60 min of TI stimulation with a fixed left‐then‐right order (30 min targeting the left CM‐PF, followed by 30 min targeting the right CM‐PF). All patients received TIS while lying semi‐recumbent in a quiet, separate room without concurrent treatments [<xref rid="acn370477-bib-0022" ref-type="bibr">22</xref>]. Arousal was continuously monitored, and patients were kept awake using the arousal procedures from the CRS‐R throughout the stimulation periods whenever possible. These conditions were kept consistent across all sessions and patients.</p></sec></sec><sec id="acn370477-sec-0013"><label>2.5</label><title>Clinical Assessment</title><p>The CRS‐R is the standard clinical tool to assess the level of consciousness and to distinguish between coma, VS/UWS, MCS, and emergence from MCS (EMCS) [<xref rid="acn370477-bib-0023" ref-type="bibr">23</xref>, <xref rid="acn370477-bib-0024" ref-type="bibr">24</xref>]. It comprises six subscales evaluating auditory, visual, motor, oromotor/verbal, communication, and arousal functions, with a maximum total score of 23. Higher scores indicate higher levels of consciousness.</p><p>During the one‐week screening period, each patient underwent five CRS‐R assessments on separate days, administered at the bedside by two independent and experienced clinicians at standardized time points (9:00–11:00 AM) [<xref rid="acn370477-bib-0025" ref-type="bibr">25</xref>]. Diagnoses of VS/UWS and MCS were based on specific CRS‐R subscale items [<xref rid="acn370477-bib-0024" ref-type="bibr">24</xref>]. During the intervention phase, the CRS‐R was administered before the first stimulation session and after the fifth and tenth sessions. All assessments were performed with patients' eyes open in a familiar setting in the absence of environmental interference, and an arousal‐promoting protocol was applied if eyes were closed.</p></sec><sec id="acn370477-sec-0014"><label>2.6</label><title>
+<styled-content style="fixed-case" toggle="no">EEG</styled-content> Data Acquisition and Preprocessing</title><p>EEG was recorded with 32 Ag/AgCl ring electrodes connected to a BrainAmp MR Plus amplifier (Brain Products GmbH, Gilching, Germany), with electrodes placed according to the international 10–20 system. Signals were sampled at 1000 Hz and impedances were kept below 5 kΩ. Continuous EEG was collected for 20–30 min immediately before the first stimulation session and immediately after the completion of the tenth stimulation session. Participants were maintained in an awake, eyes‐open state; if eye closure or drowsiness was observed, an arousal protocol was applied as recommended by the CRS‐R scale [<xref rid="acn370477-bib-0023" ref-type="bibr">23</xref>].</p><p>EEG preprocessing was implemented using the EEGLAB in custom Matlab R2023a. The EEG signal was filtered between 0.5 and 70 Hz and notch‐filtered at 50 Hz to remove line noise, and then downsampled to 500 Hz. Prior to preprocessing, the data were visually inspected to exclude drowsy or eyes‐closed periods, as well as segments with large‐amplitude movement artifacts. First, bad channels were removed and interpolated using spherical spline interpolation. Then, independent component analysis was applied to identify artifact components, which were subsequently removed manually. Finally, the data were visually inspected again to eliminate any residual segments not adequately cleaned in the previous steps. All signals were re‐referenced to the average of the mastoids before feature extraction. The entire preprocessing pipeline was standardized and semi‐automated, applied identically to each recording.</p></sec><sec id="acn370477-sec-0015"><label>2.7</label><title>Power Spectral Analysis</title><p>EEG power was analyzed for canonical frequency bands using monopolar montages, both for the whole brain and across brain lobes: frontal, parietal, occipital, temporal, and central. The frequency bands included delta (1–4 Hz), theta (4–8 Hz), alpha (8–13 Hz), beta (13–30 Hz), low gamma (30–50 Hz), and high gamma (50–70 Hz). Power spectral density (PSD) was estimated using Welch's method with a Hamming window and 50% overlap. All spectral analyzes were performed in MATLAB (MathWorks) using EEGLAB toolboxes.</p></sec><sec id="acn370477-sec-0016"><label>2.8</label><title>‘<styled-content style="fixed-case" toggle="no">ABCD</styled-content>’ <styled-content style="fixed-case" toggle="no">EEG</styled-content> Pattern Analysis</title><p>To characterize neurophysiological changes associated with TI stimulation, we applied the “ABCD” EEG pattern framework based on EEG power. This model describes a potential sequence of EEG phenotypes reflecting the severity of thalamo‐cortical deafferentation and has been proposed as a marker of conscious processing in DoC. The patterns are defined as: (A) Frequencies below 4 Hz, indicating complete or near‐complete deafferentation of the neocortex resulting from structural injuries; (B) Narrow‐band theta activity (4–7 Hz) suggesting severe deafferentation generated by layer V pyramidal neurons under hyperpolarized neocortical membrane potentials; (C) Mixed theta and beta activity suggesting moderate deafferentation with partial recovery of neocortical membrane potentials and synchronous bursting of thalamic neurons; (D) Near‐normal cortical activity characterized by prominent alpha and beta rhythms. Each EEG recording was assigned an ABCD category to track changes in thalamo‐cortical dynamics across sessions.</p></sec><sec id="acn370477-sec-0017"><label>2.9</label><title>Outcomes</title><p>Safety outcomes include, but are not limited to, seizures or epileptiform activity, autonomic instability, agitation or behavioral intolerance, interruptions of stimulation, skin discomfort or burns, and worsening of EEG findings or other adverse neurophysiological changes. Efficacy outcomes include the effect of TIS on CRS‐R total score assessed at three time points (baseline, Day 5 and Day 10), as well as its effect on CRS‐R subscale scores (auditory, visual, motor, oromotor/verbal, communication, arousal). Additional outcomes comprise pre–post changes in log‐transformed EEG power within each frequency band and changes in the ordinal ABCD EEG pattern. Safety was evaluated by monitoring adverse events throughout the study.</p></sec><sec id="acn370477-sec-0018"><label>2.10</label><title>Statistical Analysis</title><p>All statistical tests were two‐sided, with a significance threshold of α = 0.05. The primary efficacy outcome was the effect of visit on the CRS‐R total score across three assessments (Baseline, Day 5, and Day 10). Secondary efficacy outcomes included time effects on CRS‐R subscales (auditory, visual, motor, oromotor/verbal, communication, and arousal), changes in EEG log‐power between Baseline and Day 10 within canonical frequency bands (delta, 1–4 Hz; theta, 4–8 Hz; alpha, 8–13 Hz; beta, 13–30 Hz; low gamma, 30–50 Hz; and high gamma, 50–70 Hz), and changes in the ordinal ABCD‐mode.</p><p>CRS‐R outcomes were analyzed using time‐only linear mixed‐effects models (LMMs) with subject‐specific random intercepts and time as a categorical fixed effect. Primary inference focused on the overall effect of time, followed by prespecified pairwise contrasts comparing Day 5 and Day 10 with Baseline, reported as estimated marginal mean differences. A covariate‐adjusted LMM including age, sex, etiology, and time since injury was fitted as a sensitivity analysis. Additional sensitivity analyses used the Friedman test for omnibus within‐subject visit effects and paired Wilcoxon signed‐rank tests (two‐sided; exact <italic toggle="yes">p</italic> values where feasible) for pairwise comparisons. The arousal subscale was not analyzed inferentially because all patients had the same score at all three visits.</p><p>EEG power values were log‐transformed before analysis. For each frequency‐region measure, Baseline‐to‐Day 10 EEG changes were analyzed using time‐only LMMs with subject‐specific random intercepts and visit as a fixed effect. Covariate‐adjusted LMMs including age, sex, etiology, and time since injury, as well as paired Wilcoxon signed‐rank tests, were performed as sensitivity analyses. Because multiple EEG frequency‐region measures were examined, these analyses were considered exploratory and interpreted cautiously.</p><p>Changes in the ordinal ABCD‐mode index between Baseline and Day 10 were assessed using the paired Wilcoxon signed‐rank test (two‐sided). This non‐parametric approach was chosen because the limited sample size and sparse distribution of ordinal scores precluded stable regression‐based modeling.</p><p>All analyses were conducted in R (v4.5.0), using lme4 for LMM fitting, lmerTest for inference, emmeans for estimated marginal means and pairwise contrasts, and ggplot2 for visualization.</p></sec></sec><sec sec-type="results" id="acn370477-sec-0019"><label>3</label><title>Results</title><sec id="acn370477-sec-0020"><label>3.1</label><title>Baseline Demographic and Clinical Characteristics</title><p>From 20 May 2025 to 10 October 2025, nine patients were enrolled. The median age was 54.0 years (IQR 38.5–61.5), and 8 of 9 (88.9%) were male. At enrollment, the median time since brain injury was 42.0 days (IQR 35.0–53.5). The median baseline CRS‐R total score was 5.0 (IQR 5.0–7.0). Eight patients (88.9%) were in a VS/UWS, and one patient was in a MCS. Etiologies included anoxia (<italic toggle="yes">n</italic> = 4), stroke (<italic toggle="yes">n</italic> = 4), and traumatic brain injury (<italic toggle="yes">n</italic> = 1). Medication (5 patients received oral baclofen) and rehabilitation were kept unchanged throughout the experiment. The clinical characteristics and lesion features are shown in Tables <xref rid="acn370477-tbl-0001" ref-type="table">1</xref> and <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S1</xref>.</p><table-wrap position="float" id="acn370477-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline demographic and clinical characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Patient</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sex/age, y</th><th align="center" valign="bottom" rowspan="1" colspan="1">Etiology</th><th align="center" valign="bottom" rowspan="1" colspan="1">Time since injury (d)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Consciousness</th><th align="center" valign="bottom" rowspan="1" colspan="1">CRS‐R total score</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">M/54</td><td align="center" valign="top" rowspan="1" colspan="1">Anoxic</td><td align="center" valign="top" rowspan="1" colspan="1">60</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">M/66</td><td align="center" valign="top" rowspan="1" colspan="1">TBI</td><td align="center" valign="top" rowspan="1" colspan="1">40</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">M/59</td><td align="center" valign="top" rowspan="1" colspan="1">Hemorrhage of brain stem</td><td align="center" valign="top" rowspan="1" colspan="1">50</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">F/36</td><td align="center" valign="top" rowspan="1" colspan="1">Anoxic</td><td align="center" valign="top" rowspan="1" colspan="1">40</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">M/33</td><td align="center" valign="top" rowspan="1" colspan="1">Anoxic</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">M/51</td><td align="center" valign="top" rowspan="1" colspan="1">Anoxic</td><td align="center" valign="top" rowspan="1" colspan="1">42</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">M/41</td><td align="center" valign="top" rowspan="1" colspan="1">Hemorrhage of brain stem</td><td align="center" valign="top" rowspan="1" colspan="1">57</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">M/64</td><td align="center" valign="top" rowspan="1" colspan="1">Basal ganglia Hemorrhage</td><td align="center" valign="top" rowspan="1" colspan="1">48</td><td align="center" valign="top" rowspan="1" colspan="1">MCS</td><td align="center" valign="top" rowspan="1" colspan="1">10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">M/54</td><td align="center" valign="top" rowspan="1" colspan="1">Thalamic hemorrhage</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">VS/UWS</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr></tbody></table><table-wrap-foot id="acn370477-ntgp-0002"><fn id="acn370477-note-0002"><p>Abbreviations: CRS‐R, Coma Recovery Scale‐Revised; TBI, traumatic brain injury.</p></fn></table-wrap-foot></table-wrap></sec><sec id="acn370477-sec-0021"><label>3.2</label><title>The Effects of <styled-content style="fixed-case" toggle="no">TIS</styled-content> on Consciousness</title><p>The TIS montage and stimulation settings were computationally determined based on each individual's structural brain MRI data (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S2</xref>). After 10 stimulation sessions, TIS was associated with a significant increase in CRS‐R total score (difference 2.44, 95% CI 1.20–3.69, <italic toggle="yes">p =</italic> 0.001), particularly in the auditory (difference 0.78, 95% CI 0.32–1.24, <italic toggle="yes">p =</italic> 0.004), visual (difference 0.67, 95% CI 0.21–1.12, <italic toggle="yes">p =</italic> 0.011), and motor subscales (difference 0.78, 95% CI 0.15–1.41, <italic toggle="yes">p =</italic> 0.028) (Table <xref rid="acn370477-tbl-0002" ref-type="table">2</xref>). No significant changes in CRS‐R total or subscale scores were detected after five sessions. Three patients showed behavioral signs of improved consciousness after 10 treatment sessions: two transitioned from VS/UWS to MCS−, and one progressed from MCS− to EMCS (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S1</xref>). The arousal subscale was not analyzed inferentially because all patients had the same score at all three visits. Individual CRS‐R trajectories are shown in Figures <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S2</xref> and <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S3</xref>.</p><table-wrap position="float" id="acn370477-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Estimated changes in CRS‐R total and subscale scores over time based on linear mixed‐effects models.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">CRS‐R score</th><th align="center" valign="bottom" rowspan="1" colspan="1">Time point</th><th align="center" valign="bottom" rowspan="1" colspan="1">Median (IQR)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Estimated difference (95% CI)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="3" valign="top" colspan="1">Total score</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">5.0 (5.0–7.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">6.0 (5.0–8.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.78 (−0.47 to 2.03)</td><td align="center" valign="top" rowspan="1" colspan="1">0.240</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">7.0 (7.0–9.0)</td><td align="center" valign="top" rowspan="1" colspan="1">2.44 (1.20 to 3.69)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.001</bold>
+</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Auditory score</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">0.0 (0.0–1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (0.0–1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.44 (−0.01 to 0.90)</td><td align="center" valign="top" rowspan="1" colspan="1">0.075</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (1.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.78 (0.32 to 1.24)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.004</bold>
+</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Visual score</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (0.0–1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">0.0 (0.0–3.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.22 (−0.24 to 0.68)</td><td align="center" valign="top" rowspan="1" colspan="1">0.355</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (1.0–3.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.67 (0.21 to 1.12)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.011</bold>
+</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Motor score</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (1.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (1.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.11 (−0.52 to 0.74)</td><td align="center" valign="top" rowspan="1" colspan="1">0.735</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (2.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.78 (0.15 to 1.41)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.028</bold>
+</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Oromotor/Verbal score</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (1.0–1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (1.0–1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00 (−0.18 to 0.18)</td><td align="center" valign="top" rowspan="1" colspan="1">1.000</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 (1.0–1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.11 (−0.07 to 0.29)</td><td align="center" valign="top" rowspan="1" colspan="1">0.238</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Communication score</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">0.0 (0.0–0.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">0.0 (0.0–0.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00 (−0.18 to 0.18)</td><td align="center" valign="top" rowspan="1" colspan="1">1.000</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">0.0 (0.0–0.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.11 (−0.07 to 0.29)</td><td align="center" valign="top" rowspan="1" colspan="1">0.233</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Arousal score<xref rid="acn370477-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (2.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 5</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (2.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—<xref rid="acn370477-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Day 10</td><td align="center" valign="top" rowspan="1" colspan="1">2.0 (2.0–2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—<xref rid="acn370477-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot id="acn370477-ntgp-0003"><fn id="acn370477-note-0003"><p>
+<italic toggle="yes">Note:</italic> Estimates and <italic toggle="yes">p</italic> values were obtained from linear mixed‐effects models with time as the only fixed effect and subject‐specific random intercepts. Median values with interquartile range (IQR) are shown. The bold values in the table indicate statistical significance.</p></fn><fn id="acn370477-note-0004"><p>Abbreviation: CRS‐R, Coma Recovery Scale‐Revised.</p></fn><fn id="acn370477-note-0005"><label>
+<sup>a</sup>
+</label><p>All patients scored 2 on the Arousal subscale at all three time points; the LMM could not estimate variance components for this outcome.</p></fn></table-wrap-foot></table-wrap><p>Sensitivity analyses supported the robustness of these findings. In the covariate‐adjusted linear mixed‐effects models, the time‐effect estimates were essentially unchanged, and the improvements at Day 10 remained significant for the CRS‐R total, auditory, visual, and motor scores (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S3</xref>). In the non‐parametric sensitivity analyses, Friedman tests showed significant overall differences across the three visits for the CRS‐R total score (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 12, <italic toggle="yes">p =</italic> 0.002) as well as the auditory (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 8.000, <italic toggle="yes">p =</italic> 0.018), visual (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 7, <italic toggle="yes">p =</italic> 0.030), and motor subscales (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 7.538, <italic toggle="yes">p =</italic> 0.023) (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S4</xref>).</p><p>Pairwise Wilcoxon signed‐rank tests further confirmed significant increases in CRS‐R total score from Baseline to Day 10 (<italic toggle="yes">p =</italic> 0.016) and from Day 5 to Day 10 (<italic toggle="yes">p =</italic> 0.016), whereas pairwise comparisons for individual subscales did not reach significance, consistent with the more conservative nature of the non‐parametric analyses (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S5</xref>).</p><p>TIS targeting the CM‐PF complex was generally well tolerated. No serious adverse events occurred, and only one patient developed mild local swelling at the electrode sites.</p></sec><sec id="acn370477-sec-0022"><label>3.3</label><title>The Effects of <styled-content style="fixed-case" toggle="no">TIS</styled-content> on <styled-content style="fixed-case" toggle="no">EEG</styled-content>
+</title><p>Eight patients completed EEG examination. After the tenth session, TIS was associated with a significant shift in the distribution of ABCD EEG patterns (<italic toggle="yes">p</italic> = 0.012; Figure <xref rid="acn370477-fig-0002" ref-type="fig">2A</xref>), with an increased prevalence of patterns C and D and disappearance of pattern A. In the primary linear mixed‐effects analyses, stimulation was associated with increased global EEG log‐power in the alpha (estimate 0.534, <italic toggle="yes">p</italic> = 0.027) and beta (estimate 0.700, <italic toggle="yes">p</italic> = 0.035) bands, whereas changes in delta, theta, low‐gamma, and high‐gamma bands were not statistically significant, although theta and low‐gamma showed trend‐level increases (<italic toggle="yes">p</italic> = 0.072 for both) (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S6</xref>). Region‐specific analyses showed significant increases in theta power over the occipital (<italic toggle="yes">p</italic> = 0.044) and central (<italic toggle="yes">p</italic> = 0.028) regions; alpha power over the frontal (<italic toggle="yes">p</italic> = 0.031), parietal (<italic toggle="yes">p</italic> = 0.024), occipital (<italic toggle="yes">p</italic> = 0.026), temporal (<italic toggle="yes">p</italic> = 0.016), and central (<italic toggle="yes">p</italic> = 0.042) regions; beta power over the frontal (<italic toggle="yes">p</italic> = 0.025), parietal (<italic toggle="yes">p</italic> = 0.027), and temporal (<italic toggle="yes">p</italic> = 0.018) regions; and low‐gamma power over the parietal region (<italic toggle="yes">p</italic> = 0.043) (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S6</xref>; Figure <xref rid="acn370477-fig-0002" ref-type="fig">2B–I</xref>). Individual EEG trajectories are shown in Figures <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S4</xref> and <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S5</xref>.</p><fig position="float" fig-type="FIGURE" id="acn370477-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>EEG changes after 10 sessions of CM–PF temporal interference stimulation. (A) Differences in the distribution of “ABCD” EEG patterns after 10 stimulation sessions. (B–G) Differences in global power spectral density after 10 stimulation sessions in the delta (B), theta (C), alpha (D), beta (E), low gamma (F), and high gamma (G) frequency bands. (H, I) Differences in alpha (H) and beta (I) power across the frontal, parietal, occipital, temporal, and central lobes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ACN3-9999-0-g001.jpg"><?image-name ACN3-9999-0-g001.jpg?><?image-size 121424?><?image-md5 4621efb558b6c72be6a709edc67542af?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1579?><?image-original-width 1064?><?image-scaled-height 1052?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/1101/13395062/4621efb558b6/ACN3-9999-0-g001.jpg?><?thumb-name ACN3-9999-0-g001.gif?><?thumb-size 12994?><?thumb-md5 cd02979026d565925b0d04483129ed13?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 148?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/1101/13395062/cd02979026d5/ACN3-9999-0-g001.gif?></graphic></fig><p>These EEG findings were partly supported by sensitivity analyses. In the covariate‐adjusted models, the global alpha (<italic toggle="yes">p</italic> = 0.040) and beta (<italic toggle="yes">p</italic> = 0.049) increases remained significant, together with regional increases in theta power over the central region (<italic toggle="yes">p</italic> = 0.038); alpha power over the frontal (<italic toggle="yes">p</italic> = 0.045), parietal (<italic toggle="yes">p</italic> = 0.035), occipital (<italic toggle="yes">p</italic> = 0.038), and temporal (<italic toggle="yes">p</italic> = 0.025) regions; and beta power over the frontal (<italic toggle="yes">p</italic> = 0.037), parietal (<italic toggle="yes">p</italic> = 0.039), and temporal (<italic toggle="yes">p</italic> = 0.028) regions (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S7</xref>). In the paired Wilcoxon signed‐rank analyses, significant increases were observed for alpha power over the occipital (<italic toggle="yes">p</italic> = 0.042) and temporal (<italic toggle="yes">p</italic> = 0.021) regions and for beta power over the frontal (<italic toggle="yes">p</italic> = 0.042) and temporal (<italic toggle="yes">p</italic> = 0.042) regions, whereas the global alpha and beta effects were reduced to trend level (<italic toggle="yes">p</italic> = 0.059 for both) (Table <xref rid="acn370477-supitem-0001" ref-type="supplementary-material">S8</xref>). Taken together, these analyses suggest that the EEG effects were directionally consistent across methods, although the number of significant findings was smaller in the more conservative sensitivity analyzes.</p></sec></sec><sec sec-type="discussion" id="acn370477-sec-0023"><label>4</label><title>Discussion</title><p>This pilot, single‐arm trial suggests that 10 sessions of individualized 50 Hz TIS designed to target the bilateral CM‐PF are feasible and can be well tolerated in patients with pDoC. The preliminary evidence suggests that this noninvasive deep brain stimulation may facilitate short‐term improvement in consciousness recovery and enhance thalamo‐cortical integrity.</p><p>The improvement in consciousness observed with noninvasive TIS was comparable in direction to that reported with invasive DBS. Thalamic DBS, particularly targeting the CM‐PF complex, has previously shown therapeutic potential in patients with pDoC [<xref rid="acn370477-bib-0011" ref-type="bibr">11</xref>, <xref rid="acn370477-bib-0026" ref-type="bibr">26</xref>]. A systematic review of 21 studies involving 146 patients with DoC revealed that CM‐PF was the most commonly targeted nucleus of DBS, with 50 Hz identified as the most effective stimulation frequency [<xref rid="acn370477-bib-0009" ref-type="bibr">9</xref>]. Furthermore, a DBS study targeting the bilateral CM‐PF reported that 47.8% (11/23) of patients exhibited improved levels of consciousness after 12 months of follow‐up, including 38.5% (5/13) of those initially diagnosed with VS/UWS who progressed to MCS or EMCS [<xref rid="acn370477-bib-0021" ref-type="bibr">21</xref>]. Of note, specific electrophysiological features of the CM‐PF were found to be associated with more favorable clinical outcomes. In our cohort, 88.9% of patients were initially classified as VS/UWS, and 25% progressed to MCS− after 10 days of TIS. Although the direction of improvement is consistent, the observed efficacy differs between the two approaches, likely due to differences in stimulation duration, follow‐up length, and baseline consciousness levels.</p><p>Several mechanisms may account for the role of CM‐PF stimulation in promoting conscious awareness. Anatomically, the CM‐PF complex maintains extensive connections with cortical and subcortical regions implicated in consciousness, including the striatum and neocortex [<xref rid="acn370477-bib-0027" ref-type="bibr">27</xref>, <xref rid="acn370477-bib-0028" ref-type="bibr">28</xref>, <xref rid="acn370477-bib-0029" ref-type="bibr">29</xref>]. Functionally, thalamo‐cortical circuits involving the CM‐PF and mediodorsal magnocellular nuclei are considered essential for conscious perception [<xref rid="acn370477-bib-0012" ref-type="bibr">12</xref>]. In addition, bilateral CM‐PF stimulation, as implemented in this study, may induce stronger and more widespread cortical activation than unilateral stimulation paradigms applied in other neurological conditions [<xref rid="acn370477-bib-0030" ref-type="bibr">30</xref>].</p><p>In patients with severe traumatic brain injury, EEG spectral and ABCD classifications improve longitudinally in parallel with behavioral recovery and correlate with the behavioral level of consciousness in both the acute and subacute‐to‐chronic phases [<xref rid="acn370477-bib-0031" ref-type="bibr">31</xref>]. Our EEG findings are descriptively compatible with the hypothesis that TIS targeting CM‐PF complex may improve network organization (e.g., increased prevalence of “C”/“D” patterns and higher alpha/beta power) [<xref rid="acn370477-bib-0032" ref-type="bibr">32</xref>, <xref rid="acn370477-bib-0033" ref-type="bibr">33</xref>]. Improvement in the ABCD EEG pattern may reflect restoration of thalamo‐cortical integrity. However, given the absence of a control group and the well‐known susceptibility of EEG signals to fluctuations in arousal and vigilance, these results should be interpreted as exploratory and supportive rather than as confirmation of a specific mechanism.</p><p>As a pilot study, several limitations should be acknowledged. First, the single‐arm design, small sample size, and absence of a control group limit the ability to exclude confounding factors and preclude causal inference, and the mix of different etiologies and consciousness levels limits the generalizability and interpretability of our findings. Moreover, improvements in consciousness may be attributable not only to spontaneous recovery but also to non‐specific stimulation and environmental effects. Therefore, future studies should employ large‐sample designs with a sham control. Second, the lack of evoked physiological assessments (such as SEP, MMN, P300, and TMS‐EEG) and functional MRI in the current study precludes more direct evidence of altered network responsiveness. Although individualized electric field modeling provides anatomical guidance for targeting, it does not directly confirm actual modulation of CM‐PF neurons, which remains an inherent limitation of the present study. Future animal experiments should combine TI stimulation with chemogenetic or optogenetic manipulation of the CM‐PF nucleus to establish whether the arousal‐promoting effects of TI in patients with DoC are specifically mediated by altered CM‐PF neural activity, rather than merely reflecting a non‐specific current network effect. Nevertheless, prior studies using electric field modeling and measurements in human cadavers have provided converging evidence that temporal interference stimulation can be focused on deep brain structures such as the hippocampus [<xref rid="acn370477-bib-0016" ref-type="bibr">16</xref>], supporting the plausibility of our targeting strategy. Third, the study was limited to short‐term therapeutic effects and did not include long‐term functional outcome measures. Consequently, we cannot draw any conclusions regarding the persistence of the observed effects. Future trials integrating both short‐term changes in consciousness and long‐term functional recovery will be essential to determine the durability and clinical relevance of TIS effects.</p><p>In summary, this pilot, single‐arm, self‐controlled trial indicates that individualized 50 Hz TIS targeting the thalamic CM‐PF region is feasible and may offer a promising approach to improving consciousness in patients with DoC. However, due to the pilot nature and limited sample size, these observations warrant cautious interpretation.</p></sec><sec id="acn370477-sec-0024"><title>Author Contributions</title><p>
+<bold>Gengyao Hu, Changgeng Song, Dianwei Wu:</bold> conceptualization, investigation, methodology, writing – original draft. <bold>Xiaoqian Niu, Jianmin Hao, Lijuan Liu, Xiaogang Kang:</bold> data curation, resources, validation. <bold>Wen Jiang:</bold> conceptualization, supervision, writing – review and editing.</p></sec><sec id="acn370477-sec-0025"><title>Funding</title><p>This work was supported by Shaanxi Province Key Research and Development Program (Grant 2024SF‐YBXM‐043), Clinical Research Project of the Fourth Military Medical University (Grant 2023LC2314) and Shaanxi Province Special Support Program for Leading Talents in Scientific and Technological Innovation (Wen Jiang).</p></sec><sec sec-type="COI-statement" id="acn370477-sec-0027"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="acn370477-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Anatomical localization and simulated envelope electric field strength distribution of the thalamic CM‐PF nucleus and its adjacent regions.</p><p>
+<bold>Figure S2:</bold> CRS‐R total score at baseline, Day 5, and Day 10.</p><p>
+<bold>Figure S3:</bold> CRS‐R subscale scores at baseline, Day 5, and Day 10.</p><p>
+<bold>Figure S4:</bold> EEG power spectral density at baseline and Day 10.</p><p>
+<bold>Figure S5:</bold> “ABCD” EEG patterns at baseline and Day 10.</p><p>
+<bold>Table S1:</bold> Individual‐level data of the 9 patients.</p><p>
+<bold>Table S2:</bold> Transcranial temporal interference stimulation (TIS) montage and stimulation settings of each participant.</p><p>
+<bold>Table S3:</bold> Covariate‐adjusted estimated changes in CRS‐R total and subscale scores over time based on linear mixed‐effects models.</p><p>
+<bold>Table S4:</bold> Differences in CRS‐R total and subscale scores across time points using the Friedman test.</p><p>
+<bold>Table S5:</bold> Pairwise comparisons in CRS‐R total and subscale scores across time points using the Wilcoxon signed‐rank test.</p><p>
+<bold>Table S6:</bold> Estimated changes in regions‐ and frequency‐specific EEG power over time based on linear mixed‐effects models.</p><p>
+<bold>Table S7:</bold> Covariate‐adjusted estimated changes in regions‐ and frequency‐specific EEG power over time based on linear mixed‐effects models.</p><p>
+<bold>Table S8:</bold> Wilcoxon signed‐rank test results for pairwise comparisons of regions‐ and frequency‐specific EEG power between baseline and post‐treatment.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ACN3-9999-0-s001.docx" position="float" orientation="portrait"><?suppdata-name ACN3-9999-0-s001.docx?><?suppdata-size 2353591?><?suppdata-md5 c550577d086bf84c082c24b55e6f9ce1?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:1101/13395062/c550577d086b/ACN3-9999-0-s001.docx?></media></supplementary-material></sec></body><back><ack id="acn370477-sec-0026"><title>Acknowledgments</title><p>We thank all study participants and investigators who participated in this trial. This work was supported by the Shaanxi Province Special Support Program for Leading Talents in Scientific and Technological Innovation (Wen Jiang), Clinical Research Project of the Fourth Military Medical University (grant number 2023LC2314), and Shaanxi Province Key Research and Development Program (grant number 2024SF‐YBXM‐043).</p></ack><sec sec-type="data-availability" id="acn370477-sec-0029"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="acn370477-bibl-0001"><title>References</title><ref id="acn370477-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn370477-cit-0001">
+<string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Edlow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Claassen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Schiff</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Greer</surname>
+</string-name>, “<article-title>Recovery From Disorders of Consciousness: Mechanisms, Prognosis and Emerging Therapies</article-title>,” <source>Nature Reviews. Neurology</source>
+<volume>17</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>135</fpage>–<lpage>156</lpage>.<pub-id pub-id-type="pmid">33318675</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41582-020-00428-x</pub-id><pub-id pub-id-type="pmcid">PMC7734616</pub-id></mixed-citation></ref><ref id="acn370477-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn370477-cit-0002">
+<string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. I.</given-names>
+<surname>Katz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Schiff</surname>
+</string-name>, et al., “<article-title>Comprehensive Systematic Review Update Summary: Disorders of Consciousness: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology; the American Congress of Rehabilitation Medicine; and the National Institute on Disability, Independent Living, and Rehabilitation Research</article-title>,” <source>Archives of Physical Medicine and Rehabilitation</source>
+<volume>99</volume>, no. <issue>9</issue> (<year>2018</year>): <fpage>1710</fpage>–<lpage>1719</lpage>.<pub-id pub-id-type="pmid">30098792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.apmr.2018.07.002</pub-id></mixed-citation></ref><ref id="acn370477-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn370477-cit-0003">
+<string-name name-style="western">
+<given-names>W. G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Recovery From Prolonged Disorders of Consciousness: A Dual‐Center Prospective Cohort Study in China</article-title>,” <source>World Journal of Clinical Cases</source>
+<volume>8</volume>, no. <issue>12</issue> (<year>2020</year>): <fpage>2520</fpage>–<lpage>2529</lpage>.<pub-id pub-id-type="pmid">32607329</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.12998/wjcc.v8.i12.2520</pub-id><pub-id pub-id-type="pmcid">PMC7322439</pub-id></mixed-citation></ref><ref id="acn370477-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn370477-cit-0004">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, “<article-title>Disorders of Consciousness in China</article-title>,” <source>Neuroscience Bulletin</source>
+<volume>34</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>605</fpage>–<lpage>614</lpage>.<pub-id pub-id-type="pmid">30039244</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12264-018-0263-1</pub-id><pub-id pub-id-type="pmcid">PMC6060217</pub-id></mixed-citation></ref><ref id="acn370477-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn370477-cit-0005">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thibaut</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Schiff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Laureys</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Gosseries</surname>
+</string-name>, “<article-title>Therapeutic Interventions in Patients With Prolonged Disorders of Consciousness</article-title>,” <source>Lancet Neurology</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>600</fpage>–<lpage>614</lpage>.<pub-id pub-id-type="pmid">31003899</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(19)30031-6</pub-id></mixed-citation></ref><ref id="acn370477-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn370477-cit-0006">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. Q.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>He</surname>
+</string-name>, et al., “<article-title>Revolutionizing Treatment for Disorders of Consciousness: A Multidisciplinary Review of Advancements in Deep Brain Stimulation</article-title>,” <source>Military Medical Research</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>81</elocation-id>.<pub-id pub-id-type="pmid">39690407</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40779-024-00585-w</pub-id><pub-id pub-id-type="pmcid">PMC11654023</pub-id></mixed-citation></ref><ref id="acn370477-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn370477-cit-0007">
+<string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Schiff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kalmar</surname>
+</string-name>, et al., “<article-title>Behavioural Improvements With Thalamic Stimulation After Severe Traumatic Brain Injury</article-title>,” <source>Nature</source>
+<volume>448</volume>, no. <issue>7153</issue> (<year>2007</year>): <fpage>600</fpage>–<lpage>603</lpage>.<pub-id pub-id-type="pmid">17671503</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature06041</pub-id></mixed-citation></ref><ref id="acn370477-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn370477-cit-0008">
+<string-name name-style="western">
+<given-names>A. E. L.</given-names>
+<surname>Warren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Raguz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Friedrich</surname>
+</string-name>, et al., “<article-title>A Human Brain Network Linked to Restoration of Consciousness After Deep Brain Stimulation</article-title>,” <source>Nature communications</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2025</year>): <elocation-id>6721</elocation-id>, <pub-id pub-id-type="doi">10.1101/2024.10.17.24314458</pub-id>.<pub-id pub-id-type="pmcid">PMC12279989</pub-id><pub-id pub-id-type="pmid">40691170</pub-id></mixed-citation></ref><ref id="acn370477-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn370477-cit-0009">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, et al., “<article-title>Clinical Neuromodulatory Effects of Deep Brain Stimulation in Disorder of Consciousness: A Literature Review</article-title>,” <source>CNS Neuroscience &amp; Therapeutics</source>
+<volume>30</volume>, no. <issue>6</issue> (<year>2024</year>): <elocation-id>e14559</elocation-id>.<pub-id pub-id-type="pmid">38115730</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cns.14559</pub-id><pub-id pub-id-type="pmcid">PMC11163193</pub-id></mixed-citation></ref><ref id="acn370477-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn370477-cit-0010">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bergeron</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mithani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Raguz</surname>
+</string-name>, et al., “<article-title>Central Thalamic Deep Brain Stimulation for Disorders of Consciousness: An Individual Participant Data Meta‐Analysis</article-title>,” <source>Journal of Neurosurgery</source>
+<volume>143</volume>, no. <issue>5</issue> (<year>2025</year>): <fpage>1217</fpage>–<lpage>1226</lpage>.<pub-id pub-id-type="pmid">40680302</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/2025.3.JNS241092</pub-id></mixed-citation></ref><ref id="acn370477-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn370477-cit-0011">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Arnts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Coolen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. W.</given-names>
+<surname>Fernandes</surname>
+</string-name>, et al., “<article-title>The Intralaminar Thalamus: A Review of Its Role as a Target in Functional Neurosurgery</article-title>,” <source>Brain Communications</source>
+<volume>5</volume>, no. <issue>3</issue> (<year>2023</year>): <elocation-id>fcad003</elocation-id>.<pub-id pub-id-type="pmid">37292456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/braincomms/fcad003</pub-id><pub-id pub-id-type="pmcid">PMC10244065</pub-id></mixed-citation></ref><ref id="acn370477-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn370477-cit-0012">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ping</surname>
+</string-name>, et al., “<article-title>Human High‐Order Thalamic Nuclei Gate Conscious Perception Through the Thalamofrontal Loop</article-title>,” <source>Science</source>
+<volume>388</volume>, no. <issue>6742</issue> (<year>2025</year>): <elocation-id>eadr3675</elocation-id>.<pub-id pub-id-type="pmid">40179184</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.adr3675</pub-id></mixed-citation></ref><ref id="acn370477-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn370477-cit-0013">
+<string-name name-style="western">
+<given-names>A. E. L.</given-names>
+<surname>Warren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Raguz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Friedrich</surname>
+</string-name>, et al., “<article-title>A Human Brain Network Linked to Restoration of Consciousness After Deep Brain Stimulation</article-title>,” <source>Nature Communications</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2025</year>): <elocation-id>6721</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-025-61988-4</pub-id><pub-id pub-id-type="pmcid">PMC12279989</pub-id><pub-id pub-id-type="pmid">40691170</pub-id></mixed-citation></ref><ref id="acn370477-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn370477-cit-0014">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Grossman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bono</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Dedic</surname>
+</string-name>, et al., “<article-title>Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields</article-title>,” <source>Cell</source>
+<volume>169</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>1029</fpage>–<lpage>1041.e1016</lpage>.<pub-id pub-id-type="pmid">28575667</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2017.05.024</pub-id><pub-id pub-id-type="pmcid">PMC5520675</pub-id></mixed-citation></ref><ref id="acn370477-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn370477-cit-0015">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Cassara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Newton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Zhuang</surname>
+</string-name>, et al., “<article-title>Recommendations for the Safe Application of Temporal Interference Stimulation in the Human Brain Part I: Principles of Electrical Neuromodulation and Adverse Effects</article-title>,” <source>Bioelectromagnetics</source>
+<volume>46</volume>, no. <issue>2</issue> (<year>2025</year>): <elocation-id>e22542</elocation-id>.<pub-id pub-id-type="pmid">39921360</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bem.22542</pub-id><pub-id pub-id-type="pmcid">PMC11806287</pub-id></mixed-citation></ref><ref id="acn370477-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn370477-cit-0016">
+<string-name name-style="western">
+<given-names>I. R.</given-names>
+<surname>Violante</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Alania</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Cassara</surname>
+</string-name>, et al., “<article-title>Non‐Invasive Temporal Interference Electrical Stimulation of the Human Hippocampus</article-title>,” <source>Nature Neuroscience</source>
+<volume>26</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>1994</fpage>–<lpage>2004</lpage>.<pub-id pub-id-type="pmid">37857775</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-023-01456-8</pub-id><pub-id pub-id-type="pmcid">PMC10620081</pub-id></mixed-citation></ref><ref id="acn370477-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn370477-cit-0017">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Wessel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Beanato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Popa</surname>
+</string-name>, et al., “<article-title>Noninvasive Theta‐Burst Stimulation of the Human Striatum Enhances Striatal Activity and Motor Skill Learning</article-title>,” <source>Nature Neuroscience</source>
+<volume>26</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>2005</fpage>–<lpage>2016</lpage>.<pub-id pub-id-type="pmid">37857774</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-023-01457-7</pub-id><pub-id pub-id-type="pmcid">PMC10620076</pub-id></mixed-citation></ref><ref id="acn370477-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn370477-cit-0018">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Vassiliadis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Stiennon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Windel</surname>
+</string-name>, et al., “<article-title>Safety, Tolerability and Blinding Efficiency of Non‐Invasive Deep Transcranial Temporal Interference Stimulation: First Experience From More Than 250 Sessions</article-title>,” <source>Journal of Neural Engineering</source>
+<volume>21</volume>, no. <issue>2</issue> (<year>2024</year>), <pub-id pub-id-type="doi">10.1088/1741-2552/ad2d32</pub-id>.<pub-id pub-id-type="pmid">38408385</pub-id></mixed-citation></ref><ref id="acn370477-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn370477-cit-0019">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lamos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bockova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Missey</surname>
+</string-name>, et al., “<article-title>Noninvasive Temporal Interference Stimulation of the Subthalamic Nucleus in Parkinson's Disease Reduces Beta Activity</article-title>,” <source>Movement Disorders</source>
+<volume>40</volume>, no. <issue>6</issue> (<year>2025</year>): <fpage>1051</fpage>–<lpage>1060</lpage>.<pub-id pub-id-type="pmid">40202094</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mds.30134</pub-id><pub-id pub-id-type="pmcid">PMC12160966</pub-id></mixed-citation></ref><ref id="acn370477-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn370477-cit-0020">
+<string-name name-style="western">
+<given-names>E. T.</given-names>
+<surname>Rolls</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. P.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Feng</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Joliot</surname>
+</string-name>, “<article-title>Automated Anatomical Labelling Atlas 3</article-title>,” <source>NeuroImage</source>
+<volume>206</volume> (<year>2020</year>): <elocation-id>116189</elocation-id>.<pub-id pub-id-type="pmid">31521825</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2019.116189</pub-id></mixed-citation></ref><ref id="acn370477-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="acn370477-cit-0021">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dang</surname>
+</string-name>, et al., “<article-title>Electrophysiological Characteristics of CM‐Pf in Diagnosis and Outcome of Patients With Disorders of Consciousness</article-title>,” <source>Brain Stimulation</source>
+<volume>16</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>1522</fpage>–<lpage>1532</lpage>.<pub-id pub-id-type="pmid">37778457</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brs.2023.09.021</pub-id></mixed-citation></ref><ref id="acn370477-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn370477-cit-0022">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>DaCosta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Fakhreddine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stroever</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Stork</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>O'Brien</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zhang</surname>
+</string-name>, “<article-title>Differences in Coma Recovery Scale‐Revised Performance in an Upright Position Versus Lying Position</article-title>,” <source>Frontiers in Neurology</source>
+<volume>16</volume> (<year>2025</year>): <elocation-id>1683275</elocation-id>.<pub-id pub-id-type="pmid">41127299</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2025.1683275</pub-id><pub-id pub-id-type="pmcid">PMC12537355</pub-id></mixed-citation></ref><ref id="acn370477-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn370477-cit-0023">
+<string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Giacino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kalmar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Whyte</surname>
+</string-name>, “<article-title>The JFK Coma Recovery Scale‐Revised: Measurement Characteristics and Diagnostic Utility</article-title>,” <source>Archives of Physical Medicine and Rehabilitation</source>
+<volume>85</volume>, no. <issue>12</issue> (<year>2004</year>): <fpage>2020</fpage>–<lpage>2029</lpage>.<pub-id pub-id-type="pmid">15605342</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.apmr.2004.02.033</pub-id></mixed-citation></ref><ref id="acn370477-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn370477-cit-0024">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kondziella</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bender</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Diserens</surname>
+</string-name>, et al., “<article-title>European Academy of Neurology Guideline on the Diagnosis of Coma and Other Disorders of Consciousness</article-title>,” <source>European Journal of Neurology</source>
+<volume>27</volume>, no. <issue>5</issue> (<year>2020</year>): <fpage>741</fpage>–<lpage>756</lpage>.<pub-id pub-id-type="pmid">32090418</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ene.14151</pub-id></mixed-citation></ref><ref id="acn370477-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="acn370477-cit-0025">
+<string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Cortese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Riganello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Arcuri</surname>
+</string-name>, et al., “<article-title>Coma Recovery Scale‐r: Variability in the Disorder of Consciousness</article-title>,” <source>BMC Neurology</source>
+<volume>15</volume> (<year>2015</year>): <elocation-id>186</elocation-id>.<pub-id pub-id-type="pmid">26450569</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12883-015-0455-5</pub-id><pub-id pub-id-type="pmcid">PMC4599033</pub-id></mixed-citation></ref><ref id="acn370477-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn370477-cit-0026">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>A Shared Central Thalamus Mechanism Underlying Diverse Recoveries in Disorders of Consciousness</article-title>,” <source>Nature Communications</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2025</year>): <elocation-id>10400</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-025-65360-4</pub-id><pub-id pub-id-type="pmcid">PMC12644788</pub-id><pub-id pub-id-type="pmid">41285808</pub-id></mixed-citation></ref><ref id="acn370477-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="acn370477-cit-0027">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Whyte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Redinbaugh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Shine</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y. B.</given-names>
+<surname>Saalmann</surname>
+</string-name>, “<article-title>Thalamic Contributions to the State and Contents of Consciousness</article-title>,” <source>Neuron</source>
+<volume>112</volume>, no. <issue>10</issue> (<year>2024</year>): <fpage>1611</fpage>–<lpage>1625</lpage>.<pub-id pub-id-type="pmid">38754373</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2024.04.019</pub-id><pub-id pub-id-type="pmcid">PMC11537458</pub-id></mixed-citation></ref><ref id="acn370477-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="acn370477-cit-0028">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Shine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. D.</given-names>
+<surname>Garrett</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hwang</surname>
+</string-name>, “<article-title>The Impact of the Human Thalamus on Brain‐Wide Information Processing</article-title>,” <source>Nature Reviews. Neuroscience</source>
+<volume>24</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>416</fpage>–<lpage>430</lpage>.<pub-id pub-id-type="pmid">37237103</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41583-023-00701-0</pub-id><pub-id pub-id-type="pmcid">PMC10970713</pub-id></mixed-citation></ref><ref id="acn370477-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="acn370477-cit-0029">
+<string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Goldman‐Rakic</surname>
+</string-name>, “<article-title>Topography of Cognition: Parallel Distributed Networks in Primate Association Cortex</article-title>,” <source>Annual Review of Neuroscience</source>
+<volume>11</volume> (<year>1988</year>): <fpage>137</fpage>–<lpage>156</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev.ne.11.030188.001033</pub-id><pub-id pub-id-type="pmid">3284439</pub-id></mixed-citation></ref><ref id="acn370477-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="acn370477-cit-0030">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Du</surname>
+</string-name>, et al., “<article-title>Transcranial Temporal Interference Subthalamic Stimulation for Treating Motor Symptoms in Parkinson's Disease: A Pilot Study</article-title>,” <source>Brain Stimulation</source>
+<volume>17</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1250</fpage>–<lpage>1252</lpage>.<pub-id pub-id-type="pmid">39486623</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brs.2024.10.012</pub-id></mixed-citation></ref><ref id="acn370477-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="acn370477-cit-0031">
+<string-name name-style="western">
+<given-names>W. H.</given-names>
+<surname>Curley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. G.</given-names>
+<surname>Bodien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Zhou</surname>
+</string-name>, et al., “<article-title>Electrophysiological Correlates of Thalamocortical Function in Acute Severe Traumatic Brain Injury</article-title>,” <source>Cortex</source>
+<volume>152</volume> (<year>2022</year>): <fpage>136</fpage>–<lpage>152</lpage>.<pub-id pub-id-type="pmid">35569326</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cortex.2022.04.007</pub-id><pub-id pub-id-type="pmcid">PMC9759728</pub-id></mixed-citation></ref><ref id="acn370477-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="acn370477-cit-0032">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Effect of Cerebellar Stimulation on Awareness Recovery in Disorders of Consciousness (CARE‐DoC): A Randomized, Sham‐Controlled, Crossover Clinical Trial</article-title>,” <source>Neurotherapeutics</source>
+<volume>22</volume>, no. <issue>5</issue> (<year>2025</year>): <elocation-id>e00635</elocation-id>.<pub-id pub-id-type="pmid">40617737</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurot.2025.e00635</pub-id><pub-id pub-id-type="pmcid">PMC12491794</pub-id></mixed-citation></ref><ref id="acn370477-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="acn370477-cit-0033">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Straudi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Bonsangue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mele</surname>
+</string-name>, et al., “<article-title>Bilateral M1 Anodal Transcranial Direct Current Stimulation in Post Traumatic Chronic Minimally Conscious State: A Pilot EEG‐tDCS Study</article-title>,” <source>Brain Injury</source>
+<volume>33</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>490</fpage>–<lpage>495</lpage>.<pub-id pub-id-type="pmid">30632807</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/02699052.2019.1565894</pub-id></mixed-citation></ref></ref-list></back></article>

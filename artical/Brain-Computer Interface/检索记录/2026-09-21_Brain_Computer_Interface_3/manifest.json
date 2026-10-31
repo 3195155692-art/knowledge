@@ -1,0 +1,223 @@
+{
+  "project": "Brain-Computer Interface/2026-09-21_Brain_Computer_Interface_3",
+  "generatedAt": "2026-09-21T19:09:58+08:00",
+  "tool": "lky-search v1.0.0",
+  "kind": "search",
+  "query": "(\"visual prosthesis\"[Title/Abstract] OR \"cortical visual prosthesis\"[Title/Abstract] OR phosphene[Title/Abstract] OR \"artificial vision\"[Title/Abstract]) AND (2024:2026[dp])",
+  "sources": [
+    "pubmed",
+    "europepmc",
+    "openalex",
+    "crossref",
+    "arxiv"
+  ],
+  "sort": "cited",
+  "filters": {
+    "year_from": null,
+    "year_to": null
+  },
+  "outputLayout": {
+    "notes": "*.md",
+    "pdfs": "PDFs/",
+    "data": "results.{csv,ris,bib,json}"
+  },
+  "fullTextPolicy": "本技能只判定 OA；付费与 CNKI 全文由 nature-downloader 获取",
+  "summary": {
+    "total": 10,
+    "with_doi": 10,
+    "open_access": 0
+  },
+  "errors": [],
+  "results": [
+    {
+      "index": 1,
+      "title": "Phosphene mapping strategies for cortical visual prosthesis recipients",
+      "authors": "G. Dagnelie; V. T Yin; D. Hess; L. Yang",
+      "journal": "Journal of Vision",
+      "year": 2010,
+      "doi": "10.1167/3.9.222",
+      "pmid": "",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": 4,
+      "openAccess": null,
+      "sources": [
+        "crossref"
+      ],
+      "url": "https://doi.org/10.1167/3.9.222",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 2,
+      "title": "Abstract #39: Towards a microcoil-based cortical visual prosthesis",
+      "authors": "Shelley Fried; Seung Woo Lee",
+      "journal": "Brain Stimulation",
+      "year": 2019,
+      "doi": "10.1016/j.brs.2018.12.046",
+      "pmid": "",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": 1,
+      "openAccess": null,
+      "sources": [
+        "crossref"
+      ],
+      "url": "https://doi.org/10.1016/j.brs.2018.12.046",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 3,
+      "title": "Glaucoma.",
+      "authors": "Henry Bair; Mak Djulbegovic; Joel S Schuman",
+      "journal": "Handb Clin Neurol",
+      "year": 2026,
+      "doi": "10.1016/b978-0-443-22212-2.00010-0",
+      "pmid": "42217975",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42217975/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 4,
+      "title": "Visual Cortical Thickness Increases with Prolonged Artificial Vision Restoration.",
+      "authors": "Noelle R B Stiles; Jeiran Choupan; Hossein Ameri; Vivek R Patel; Yonggang Shi",
+      "journal": "medRxiv",
+      "year": 2024,
+      "doi": "10.1101/2024.06.26.24309493",
+      "pmid": "38978654",
+      "pmcid": "PMC11230327",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38978654/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 5,
+      "title": "Benefits of thermal and distance-filtered imaging for wayfinding with prosthetic vision.",
+      "authors": "Roksana Sadeghi; Arathy Kartha; Michael P Barry; Paul Gibson; Avi Caspi; Arup Roy; Duane R Geruschat; Gislin Dagnelie",
+      "journal": "Sci Rep",
+      "year": 2024,
+      "doi": "10.1038/s41598-024-51798-x",
+      "pmid": "38225344",
+      "pmcid": "PMC10789760",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38225344/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 6,
+      "title": "Pattern-reversal visual evoked potentials in prosthetic vision and simulated visual reduction.",
+      "authors": "Yingchen He; Jonathon Toft-Nielsen; Gordon Legge; Sandra R Montezuma",
+      "journal": "BMJ Open Ophthalmol",
+      "year": 2024,
+      "doi": "10.1136/bmjophth-2024-001705",
+      "pmid": "39103235",
+      "pmcid": "PMC11308878",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39103235/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 7,
+      "title": "Predicting the Temporal Dynamics of Prosthetic Vision.",
+      "authors": "Yuchen Hou; Laya Pullela; Jiaxin Su; Sriya Aluru; Shivani Sista; Xiankun Lu; Michael Beyeler",
+      "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+      "year": 2024,
+      "doi": "10.1109/embc53108.2024.10782668",
+      "pmid": "40039044",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40039044/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 8,
+      "title": "Towards biologically plausible phosphene simulation for the differentiable optimization of visual cortical prostheses.",
+      "authors": "Maureen van der Grinten; Jaap de Ruyter van Steveninck; Antonio Lozano; Laura Pijnacker; Bodo Rueckauer; Pieter Roelfsema; Marcel van Gerven; Richard van Wezel; Umut Güçlü; Yağmur Güçlütürk",
+      "journal": "Elife",
+      "year": 2024,
+      "doi": "10.7554/elife.85812",
+      "pmid": "38386406",
+      "pmcid": "PMC10883675",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38386406/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 9,
+      "title": "Improvement of dynamic phosphene presentation for a cortical visual prosthesis is task-specific.",
+      "authors": "Haozhe Zac Wang; Yan Tat Wong",
+      "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+      "year": 2024,
+      "doi": "10.1109/embc53108.2024.10782366",
+      "pmid": "40039057",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40039057/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 10,
+      "title": "Pre-processing visual scenes for retinal prosthesis systems: A comprehensive review.",
+      "authors": "Heidi Ahmed Holiel; Sahar Ali Fawzi; Walid Al-Atabany",
+      "journal": "Artif Organs",
+      "year": 2024,
+      "doi": "10.1111/aor.14824",
+      "pmid": "39023279",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39023279/",
+      "file": null,
+      "note": null
+    }
+  ]
+}

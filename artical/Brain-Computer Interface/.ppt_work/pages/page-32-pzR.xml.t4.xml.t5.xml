@@ -1,0 +1,231 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzR">
+    <style>
+      <fill id="fzR">
+        <fillColor color="rgba(10, 26, 47, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="blr" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="blC">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第三幕 · 08 Kordas 2026 · 闭环</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="blj">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(159, 180, 199, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">28</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="blX">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">从检测到闭环：把「测量」和「干预」绑在一起</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="blo">
+        <fill>
+          <fillColor color="rgba(36, 64, 92, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <img id="bBs" src="GuTqbtZ1Yo7W9uxU81Kcs43In4f" width="959.0" height="4" topLeftX="0" topLeftY="424.79999999999995">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="124.9559842519685" height="61.92" topLeftX="44.63999999999999" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="blx">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="116.3159842519685" height="61.92" topLeftX="48.959999999999994" topLeftY="139.68" type="text" id="blZ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">脑信号</span></strong></p>
+        </content>
+      </shape>
+      <shape width="15.84" height="61.92" topLeftX="168.8759842519685" topLeftY="139.68" type="text" id="blp">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="124.9559842519685" height="61.92" topLeftX="183.9959842519685" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="blq">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="116.3159842519685" height="61.92" topLeftX="188.31598425196847" topLeftY="139.68" type="text" id="bBO">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">AI 解码</span></strong></p>
+        </content>
+      </shape>
+      <shape width="15.84" height="61.92" topLeftX="308.231968503937" topLeftY="139.68" type="text" id="blJ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="124.9559842519685" height="61.92" topLeftX="323.35196850393703" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="bli">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="116.3159842519685" height="61.92" topLeftX="327.671968503937" topLeftY="139.68" type="text" id="blf">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">意识状态</span></strong></p>
+        </content>
+      </shape>
+      <shape width="15.84" height="61.92" topLeftX="447.58803149606297" topLeftY="139.68" type="text" id="blt">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="124.9559842519685" height="61.92" topLeftX="462.7080314960629" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="blY">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="116.3159842519685" height="61.92" topLeftX="467.0280314960629" topLeftY="139.68" type="text" id="blA">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.00" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">神经调控</span></strong></p>
+        </content>
+      </shape>
+      <shape width="15.84" height="61.92" topLeftX="586.9440157480315" topLeftY="139.68" type="text" id="blb">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="124.9559842519685" height="61.92" topLeftX="602.0640157480315" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="ble">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="116.3159842519685" height="61.92" topLeftX="606.3840157480315" topLeftY="139.68" type="text" id="blc">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">新的大脑状态</span></strong></p>
+        </content>
+      </shape>
+      <shape width="15.84" height="61.92" topLeftX="726.3" topLeftY="139.68" type="text" id="blQ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="15.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="124.9559842519685" height="61.92" topLeftX="741.42" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="blH">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="116.3159842519685" height="61.92" topLeftX="745.74" topLeftY="139.68" type="text" id="blD">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="12.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">再评估</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="36" topLeftX="44.639999999999986" topLeftY="211.68" presetHandlers="9.36" type="round-rect" id="blB">
+        <fill>
+          <fillColor color="rgba(10, 26, 47, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="827.4959842519685" height="36" topLeftX="66.24000000000001" topLeftY="211.68" type="text" id="blI">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">检测 → 干预 → 再检测：BCI 不再只是被动测量，而可能成为「评估 + 干预」系统</span></strong></p>
+        </content>
+      </shape>
+      <shape width="876.7" height="161.28" topLeftX="44.639999999999986" topLeftY="257.76" presetHandlers="9.360691" type="round-rect" id="bla">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="377.748031496063" height="25.9" topLeftX="67.67999999999998" topLeftY="267.84" type="text" id="blR">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="17.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">闭环解决了什么</span></strong></p>
+        </content>
+      </shape>
+      <shape width="377.748031496063" height="122.4" topLeftX="67.67999999999998" topLeftY="295.2" type="text" id="bll">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(234, 242, 248, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">把「相关」变成「因果」：如果调控改变了信号、信号变化又伴随状态变化，说明该信号确实与状态相关。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(234, 242, 248, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">让 BCI 从被动测量变成 assessment + intervention system。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(234, 242, 248, 1)" fontSize="10.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">把「读完就结束」的评估，变成可以反复修正的过程。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="423.828031496063" height="188.3" topLeftX="491.50803149606304" topLeftY="257.76" presetHandlers="9.360691" type="round-rect" id="bld">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="377.748031496063" height="25.9" topLeftX="514.548031496063" topLeftY="267.84" type="text" id="blw">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="17.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">闭环同时制造了什么（本汇报推论）</span></strong></p>
+        </content>
+      </shape>
+      <shape width="377.748031496063" height="122.4" topLeftX="514.548031496063" topLeftY="295.2" type="text" id="blM">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(234, 242, 248, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">ground truth 不再独立：调控本身改变了状态，「再检测」读到的可能不是自然状态。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(234, 242, 248, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">因此闭环研究必须预设「自然状态基线 + 调控后对照」，否则因果解释会绕回自己。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.00" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(234, 242, 248, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">伦理问题的性质也变了：从 mental privacy（读不读得到）变成 agency（能不能被调控、谁来授权）。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="21.3" topLeftX="44.639999999999986" topLeftY="418.8" type="text" id="blF">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="11.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">这也是目前文献里最薄的一环：08 把闭环作为展望提出，尚无临床证据支持，伦理授权问题更是基本空白。</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="64.8" topLeftX="44.639999999999986" topLeftY="442.08" presetHandlers="9.359712" type="round-rect" id="blV">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="102.24" height="64.8" topLeftX="67.68" topLeftY="442.08" type="text" id="blu">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.2" defaultTabSize="72"><strong><span color="rgba(47, 184, 198, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.2">汇报结论</span></strong></p>
+        </content>
+      </shape>
+      <shape width="716.6159842519685" height="64.8" topLeftX="175.67999999999995" topLeftY="442.08" type="text" id="blL">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:18.00" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">未来意识 BCI 不太可能依赖单一脑信号或单一分类器，而更可能是多模态神经信号 + AI + 个体化模型 + 交互式 BCI 的组合。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="blG">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一幕的收束，也是全场的落点。回路本身是 08 提出的：脑信号 → AI 解码 → 意识状态 → 神经调控 → 新的大脑状态 → 再评估。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">左边讲闭环的价值：它能把相关性推进到因果性，这是纯观察研究做不到的。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">右边讲它的代价，这部分是我的推论，请明确说是推论：一旦你同时测量和干预，就失去了一个独立的参照点；</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">所以闭环实验必须自带「自然状态基线 + 调控后对照」的设计，否则因果解释会自我循环。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">同时点出伦理性质的变化：从隐私问题变成授权问题——这是我认为最值得做的空白。</span></p>
+      </content>
+    </note>
+  </slide>

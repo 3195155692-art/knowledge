@@ -1,0 +1,156 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzf">
+    <style>
+      <fill id="fzf">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bJj" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bJc">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">第二幕 · 02 Fischer 2025 · 概念</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bJG">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">09</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bJQ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">neural decoding 在做什么</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bJD">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="870.6959842519685" height="61.92" topLeftX="44.639999999999986" topLeftY="139.68" presetHandlers="9.359827" type="round-rect" id="bJC">
+        <fill>
+          <fillColor color="rgba(245, 248, 251, 1)" />
+        </fill>
+        <border color="rgba(245, 248, 251, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="223.2" height="61.92" topLeftX="67.68" topLeftY="139.68" type="text" id="bJl">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">传统 task-based 范式</span></strong></p>
+        </content>
+      </shape>
+      <shape width="587.0159842519685" height="61.92" topLeftX="303.84" topLeftY="139.68" type="text" id="bJX">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="13" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">给一个指令 → 看预期脑区是否激活 → 判断「患者能否执行任务」</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="61.92" topLeftX="44.639999999999986" topLeftY="210.24" presetHandlers="9.359827" type="round-rect" id="bJI">
+        <fill>
+          <fillColor color="rgba(231, 239, 246, 1)" />
+        </fill>
+        <border color="rgba(231, 239, 246, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="223.2" height="61.92" topLeftX="67.68" topLeftY="210.24" type="text" id="bJo">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">解码范式</span></strong></p>
+        </content>
+      </shape>
+      <shape width="587.0159842519685" height="61.92" topLeftX="303.84" topLeftY="210.24" type="text" id="bJR">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="13" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">记录脑活动 → 用模型反推刺激、概念与语义 → 判断「患者正在加工什么内容」</span></p>
+        </content>
+      </shape>
+      <shape width="202.5540157480315" height="61.92" topLeftX="44.64" topLeftY="289.44" presetHandlers="9.359827" type="round-rect" id="bJZ">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="179.51401574803148" height="61.92" topLeftX="56.15999999999998" topLeftY="289.44" type="text" id="bJF">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.50" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">刺激 / 内部状态</span></strong></p>
+        </content>
+      </shape>
+      <shape width="20.16" height="61.92" topLeftX="244.3140157480315" topLeftY="289.44" type="text" id="bJp">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="16.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="202.5540157480315" height="61.92" topLeftX="267.3540157480315" topLeftY="289.44" presetHandlers="9.359827" type="round-rect" id="bJd">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="179.51401574803148" height="61.92" topLeftX="278.87401574803147" topLeftY="289.44" type="text" id="bJq">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.50" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">脑活动</span></strong></p>
+        </content>
+      </shape>
+      <shape width="20.16" height="61.92" topLeftX="467.02803149606297" topLeftY="289.44" type="text" id="bJM">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="16.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="202.5540157480315" height="61.92" topLeftX="490.06803149606304" topLeftY="289.44" presetHandlers="9.359827" type="round-rect" id="bJi">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="179.51401574803148" height="61.92" topLeftX="501.5880314960629" topLeftY="289.44" type="text" id="bJf">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.50" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">机器学习模型</span></strong></p>
+        </content>
+      </shape>
+      <shape width="20.16" height="61.92" topLeftX="689.741968503937" topLeftY="289.44" type="text" id="bJu">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(47, 184, 198, 1)" fontSize="16.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">→</span></p>
+        </content>
+      </shape>
+      <shape width="202.5540157480315" height="61.92" topLeftX="712.781968503937" topLeftY="289.44" presetHandlers="9.359827" type="round-rect" id="bJt">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="179.51401574803148" height="61.92" topLeftX="724.301968503937" topLeftY="289.44" type="text" id="bJL">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="center">
+          <p textAlign="center" lineSpacing="fixed:16.50" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="13" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">重建：刺激、概念、语义</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="61.92" topLeftX="44.639999999999986" topLeftY="364.32" presetHandlers="9.359827" type="round-rect" id="bJY">
+        <fill>
+          <fillColor color="rgba(220, 241, 243, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="821.7359842519685" height="61.92" topLeftX="69.12" topLeftY="364.32" type="text" id="bJe">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">例：患者听到「我昨天去公园散步」 → 语义解码器 → 「公园 / 散步 / 昨天」</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="28.8" topLeftX="44.639999999999986" topLeftY="439.2" type="text" id="bJV">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="16.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">关键区别：解码给出的是内容层面的证据，而不只是「脑活动增强了」——这是它比传统范式更接近「体验」的原因。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bJB">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页把两种范式的差别讲成一句话：传统范式测的是「能不能做到」，解码范式测的是「正在加工什么」。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">强调最后一行——内容层面的证据，才是它被认为更接近主观体验的理由。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">同时埋下伏笔：能重建内容，并不自动等于重建了「体验」，下一页专门讲这个坑。</span></p>
+      </content>
+    </note>
+  </slide>
+  

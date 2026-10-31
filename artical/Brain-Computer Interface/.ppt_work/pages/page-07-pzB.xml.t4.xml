@@ -1,0 +1,125 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzB">
+    <style>
+      <fill id="fzB">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bao" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bay">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 1 · 01 Bodien 2024 · NEJM</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bak">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">05</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bam">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">行为无反应 ≠ 认知不存在</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bad">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="324" height="309.6" topLeftX="44.639999999999986" topLeftY="144" presetHandlers="9.359208" type="round-rect" id="baq">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="263.52" height="21.6" topLeftX="74.88" topLeftY="159.84" type="text" id="baU">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">CMD 检出率</span></strong></p>
+        </content>
+      </shape>
+      <shape width="263.52" height="97.4" topLeftX="74.88" topLeftY="184.32" type="text" id="baz">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="84.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">25%</span></strong></p>
+        </content>
+      </shape>
+      <shape width="263.52" height="35.8" topLeftX="74.88" topLeftY="283.68" type="text" id="bat">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="23.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">60 / 241</span></strong></p>
+        </content>
+      </shape>
+      <shape width="263.52" height="72" topLeftX="74.88" topLeftY="316.8" type="text" id="baL">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:19.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="13" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">名「对指令无可观察反应」的意识障碍患者，在任务态 fMRI 或 EEG 上检出认知-运动分离。</span></p>
+        </content>
+      </shape>
+      <shape width="263.52" height="1.1519685039370078" topLeftX="74.88" topLeftY="396" presetHandlers="0.57599574" type="round-rect" id="baY">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="263.52" height="40.32" topLeftX="74.88" topLeftY="403.2" type="text" id="bah">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">阳性来源：仅 fMRI 11 例、仅 EEG 13 例；</span></p>
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">两种方法均为阳性 36 例。</span></p>
+        </content>
+      </shape>
+      <shape width="525.0959842519685" height="138.24" topLeftX="390.24" topLeftY="144" presetHandlers="9.36023" type="round-rect" id="bag">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="473.2559842519685" height="25.1" topLeftX="416.15999999999997" topLeftY="154.08" type="text" id="bac">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">研究设计</span></strong></p>
+        </content>
+      </shape>
+      <shape width="473.2559842519685" height="93.6" topLeftX="416.15999999999997" topLeftY="180" type="text" id="baG">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">353 名意识障碍成人，2006–2023 年、6 个国际中心的前瞻性队列。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">行为评估用 CRS-R，评估者盲于 fMRI/EEG 结果；只取第一天最佳表现。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">中位年龄 37.9 岁；伤后中位 7.9 个月（26% 在 28 天内）；50% 为创伤性病因。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="525.0959842519685" height="161.28" topLeftX="390.24" topLeftY="292.32" presetHandlers="9.360691" type="round-rect" id="baQ">
+        <fill>
+          <fillColor color="rgba(231, 239, 246, 1)" />
+        </fill>
+        <border color="rgba(231, 239, 246, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="473.2559842519685" height="21.6" topLeftX="416.15999999999997" topLeftY="305.28" type="text" id="baP">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">CMD 的操作性定义</span></strong></p>
+        </content>
+      </shape>
+      <shape width="473.2559842519685" height="108" topLeftX="416.15999999999997" topLeftY="331.2" type="text" id="bav">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">CRS-R 无指令跟随与可理解言语（听觉 &lt;3、视觉 &lt;5、口运动/言语 &lt;3、交流 &lt;1），且至少一项任务态 fMRI 或 EEG 阳性。任务包括运动想象、视听觉辨别，需持续数分钟。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="baI">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这是全场第一个硬数字：241 名无可观察指令反应的患者里，60 人（25%）检出 CMD。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">同时给出操作性定义，避免大家把 CMD 当成「有意识」的同义词。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">设计细节（CRS-R 盲评、第一天最佳表现）是这篇可信度的来源。</span></p>
+      </content>
+    </note>
+  </slide>

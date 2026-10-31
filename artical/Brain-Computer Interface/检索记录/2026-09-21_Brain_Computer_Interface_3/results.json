@@ -1,0 +1,310 @@
+[
+  {
+    "source": "crossref",
+    "sources": [
+      "crossref"
+    ],
+    "title": "Phosphene mapping strategies for cortical visual prosthesis recipients",
+    "authors": [
+      "G. Dagnelie",
+      "V. T Yin",
+      "D. Hess",
+      "L. Yang"
+    ],
+    "journal": "Journal of Vision",
+    "year": 2010,
+    "date": "2010-3-16",
+    "abstract": "",
+    "doi": "10.1167/3.9.222",
+    "pmid": "",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": 4,
+    "url": "https://doi.org/10.1167/3.9.222",
+    "type": "article",
+    "volume": "3",
+    "issue": "9",
+    "pages": "222-222",
+    "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "crossref",
+    "sources": [
+      "crossref"
+    ],
+    "title": "Abstract #39: Towards a microcoil-based cortical visual prosthesis",
+    "authors": [
+      "Shelley Fried",
+      "Seung Woo Lee"
+    ],
+    "journal": "Brain Stimulation",
+    "year": 2019,
+    "date": "2019-3",
+    "abstract": "",
+    "doi": "10.1016/j.brs.2018.12.046",
+    "pmid": "",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": 1,
+    "url": "https://doi.org/10.1016/j.brs.2018.12.046",
+    "type": "article",
+    "volume": "12",
+    "issue": "2",
+    "pages": "e14",
+    "publisher": "Elsevier BV",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Glaucoma.",
+    "authors": [
+      "Henry Bair",
+      "Mak Djulbegovic",
+      "Joel S Schuman"
+    ],
+    "journal": "Handb Clin Neurol",
+    "year": 2026,
+    "date": "2026",
+    "abstract": "Glaucoma, a prevalent cause of blindness, refers to a group of optic neuropathies that result in the degeneration of retinal ganglion cells. Glaucoma can be broadly classified based on the anatomy of the anterior chamber angle (open vs closed), though each group can be further subdivided by underlying etiology and chronicity. Given that chronic glaucoma is the most common type and usually progresses insidiously, periodic eye exams are critical to assess both anatomic integrity and visual function. The most important modalities for screening and monitoring at-risk patients or those with a diagnosis are ophthalmoscopy for appraising the appearance of the optic nerve head, gonioscopy for examining the anterior chamber angle, tonometry for measuring intraocular pressure, optical coherence tomography for evaluating structural damage to the optic nerve head, macula, and retinal nerve fiber layer, and perimetry for assessing visual function. Since most cases of glaucoma involve elevated intraocular pressure due to an abnormality in the drainage of aqueous humor out of the eye, current treatments, including medications, laser therapies, and surgeries, focus on lowering intraocular pressure. This chapter additionally includes a summary of significant clinical trials that have helped establish current standard practices, and concludes with an overview of promising emerging research, including stem cell therapies, gene therapies, visual prosthesis, and artificial intelligence/computer vision. Neurologists should be familiar with the diagnosis and management of glaucoma, given its similarities in pathophysiology with other neurodegenerative conditions as well as the fact that glaucoma affects both the eye and the brain.",
+    "doi": "10.1016/b978-0-443-22212-2.00010-0",
+    "pmid": "42217975",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42217975/",
+    "type": "article",
+    "volume": "218",
+    "issue": "",
+    "pages": "219-239",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Visual Cortical Thickness Increases with Prolonged Artificial Vision Restoration.",
+    "authors": [
+      "Noelle R B Stiles",
+      "Jeiran Choupan",
+      "Hossein Ameri",
+      "Vivek R Patel",
+      "Yonggang Shi"
+    ],
+    "journal": "medRxiv",
+    "year": 2024,
+    "date": "2024-Jun-27",
+    "abstract": "The Argus II retinal prosthesis restores visual perception to late blind patients. It has been shown that structural changes occur in the brain due to late-onset blindness, including cortical thinning in visual regions of the brain. Following vision restoration, it is not yet known whether these visual regions are reinvigorated and regain a normal cortical thickness or retain the diminished thickness from blindness. We evaluated the cortical thicknesses of ten Argus II Retinal Prostheses patients, ten blind patients, and thirteen sighted participants. The Argus II patients on average had a thicker left Cuneus Cortex and Lateral Occipital Cortex relative to the blind patients. The duration of the Argus II use (time since implant in active users) significantly partially correlated with thicker visual cortical regions in the left hemisphere. Furthermore, in the two case studies (scanned before and after implantation), the patient with longer device use (44.5 months) had an increase in the cortical thickness of visual regions, whereas the shorter-using patient did not (6.5 months). Finally, a third case, scanned at three time points post-implantation, showed an increase in cortical thickness in the Lateral Occipital Cortex between 43.5 and 57 months, which was maintained even after 3 years of disuse (106 months). Overall, the Argus II patients' cortical thickness was on average significantly rejuvenated in two higher visual regions and, patients using the implant for a longer duration had thicker visual regions. This research raises the possibility of structural plasticity reversing visual cortical atrophy in late-blind patients with prolonged vision restoration.",
+    "doi": "10.1101/2024.06.26.24309493",
+    "pmid": "38978654",
+    "pmcid": "PMC11230327",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38978654/",
+    "type": "article",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Benefits of thermal and distance-filtered imaging for wayfinding with prosthetic vision.",
+    "authors": [
+      "Roksana Sadeghi",
+      "Arathy Kartha",
+      "Michael P Barry",
+      "Paul Gibson",
+      "Avi Caspi",
+      "Arup Roy",
+      "Duane R Geruschat",
+      "Gislin Dagnelie"
+    ],
+    "journal": "Sci Rep",
+    "year": 2024,
+    "date": "2024-Jan-15",
+    "abstract": "Visual prostheses such as the Argus II provide partial vision for individuals with limited or no light perception. However, their effectiveness in daily life situations is limited by scene complexity and variability. We investigated whether additional image processing techniques could improve mobility performance in everyday indoor environments. A mobile system connected to the Argus II provided thermal or distance-filtered video stimulation. Four participants used the thermal camera to locate a person and the distance filter to navigate a hallway with obstacles. The thermal camera allowed for finding a target person in 99% of trials, while unfiltered video led to confusion with other objects and a success rate of only 55% ([Formula: see text]). Similarly, the distance filter enabled participants to detect and avoid 88% of obstacles by removing background clutter, whereas unfiltered video resulted in a detection rate of only 10% ([Formula: see text]). For any given elapsed time, the success rate with filtered video was higher than with unfiltered video. After 90 s, participants' success rate reached above 50% with filtered video and 24% and 3% with normal camera in the first and second tasks, respectively. Despite individual variations, all participants showed significant improvement when using the thermal and distance filters compared to unfiltered video. Adding a thermal and distance filter to a visual prosthesis system can enhance the performance of mobility activities by removing clutter in the background, showing people and warm objects with the thermal camera, or nearby obstacles with the distance filter.",
+    "doi": "10.1038/s41598-024-51798-x",
+    "pmid": "38225344",
+    "pmcid": "PMC10789760",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38225344/",
+    "type": "article",
+    "volume": "14",
+    "issue": "1",
+    "pages": "1313",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Pattern-reversal visual evoked potentials in prosthetic vision and simulated visual reduction.",
+    "authors": [
+      "Yingchen He",
+      "Jonathon Toft-Nielsen",
+      "Gordon Legge",
+      "Sandra R Montezuma"
+    ],
+    "journal": "BMJ Open Ophthalmol",
+    "year": 2024,
+    "date": "2024-Aug-05",
+    "abstract": "OBJECTIVE: To quantitatively evaluate visual evoked potentials (VEPs) in prosthetic vision and simulated visual reduction. METHODS AND ANALYSIS: Four blind patients implanted with the Argus II retinal prosthesis and seven sighted controls participated. VEPs were recorded with pattern-reversal stimuli (2 cycles of a horizontal square wave grating, 0.1 cycle/degree) at 1.07 reversals per second (rps) for Argus II subjects and 3.37 rps for controls. Argus II patients had both eyes patched, viewing the pattern solely through their implant. Controls viewed the pattern monocularly, either with their best-corrected vision or with simulated visual reduction (field restriction, added blur or reduced display contrast). RESULTS: VEPs recorded in Argus II patients displayed a similar shape to normal VEPs when controls viewed the pattern without simulated visual reduction. In sighted controls, adding blur significantly delayed the P100 peak time by 8.7 ms, 95% CI (0.9, 16.6). Reducing stimulus contrast to 32% and 6% of full display contrast significantly decreased P100 amplitude to 55% (37%, 82%) and 20% (13%, 31%), respectively. Restriction on the field of view had no impact on either the amplitude or the peak latency of P100. CONCLUSION: The early visual cortex in retinal prosthesis users remains responsive to retinal input, showing a similar response profile to that of sighted controls. Pattern-reversal VEP offers valuable insights for objectively evaluating artificial vision therapy systems (AVTSs) when selecting, fitting and training implant users, but the uncertainties in the exact timing and location of electrode stimulation must be considered when interpreting the results.",
+    "doi": "10.1136/bmjophth-2024-001705",
+    "pmid": "39103235",
+    "pmcid": "PMC11308878",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39103235/",
+    "type": "article",
+    "volume": "9",
+    "issue": "1",
+    "pages": "",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Predicting the Temporal Dynamics of Prosthetic Vision.",
+    "authors": [
+      "Yuchen Hou",
+      "Laya Pullela",
+      "Jiaxin Su",
+      "Sriya Aluru",
+      "Shivani Sista",
+      "Xiankun Lu",
+      "Michael Beyeler"
+    ],
+    "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "year": 2024,
+    "date": "2024-Jul",
+    "abstract": "Retinal implants are a promising treatment option for degenerative retinal disease. While numerous models have been developed to simulate the appearance of elicited visual percepts (\"phosphenes\"), these models often either focus solely on spatial characteristics or inadequately capture the complex temporal dynamics observed in clinical trials, which vary heavily across implant technologies, subjects, and stimulus conditions. Here we introduce two computational models designed to accurately predict phosphene fading and persistence under varying stimulus conditions, cross-validated on behavioral data reported by nine users of the Argus II Retinal Prosthesis System. Both models segment the time course of phosphene perception into discrete intervals, decomposing phosphene fading and persistence into either sinusoidal or exponential components. Our spectral model demonstrates state-of-the-art predictions of phosphene intensity over time (r = 0.7 across all participants). Overall, this study lays the groundwork for enhancing prosthetic vision by improving our understanding of phosphene temporal dynamics.",
+    "doi": "10.1109/embc53108.2024.10782668",
+    "pmid": "40039044",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40039044/",
+    "type": "article",
+    "volume": "2024",
+    "issue": "",
+    "pages": "1-4",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Towards biologically plausible phosphene simulation for the differentiable optimization of visual cortical prostheses.",
+    "authors": [
+      "Maureen van der Grinten",
+      "Jaap de Ruyter van Steveninck",
+      "Antonio Lozano",
+      "Laura Pijnacker",
+      "Bodo Rueckauer",
+      "Pieter Roelfsema",
+      "Marcel van Gerven",
+      "Richard van Wezel",
+      "Umut Güçlü",
+      "Yağmur Güçlütürk"
+    ],
+    "journal": "Elife",
+    "year": 2024,
+    "date": "2024-Feb-22",
+    "abstract": "Blindness affects millions of people around the world. A promising solution to restoring a form of vision for some individuals are cortical visual prostheses, which bypass part of the impaired visual pathway by converting camera input to electrical stimulation of the visual system. The artificially induced visual percept (a pattern of localized light flashes, or 'phosphenes') has limited resolution, and a great portion of the field's research is devoted to optimizing the efficacy, efficiency, and practical usefulness of the encoding of visual information. A commonly exploited method is non-invasive functional evaluation in sighted subjects or with computational models by using simulated prosthetic vision (SPV) pipelines. An important challenge in this approach is to balance enhanced perceptual realism, biologically plausibility, and real-time performance in the simulation of cortical prosthetic vision. We present a biologically plausible, PyTorch-based phosphene simulator that can run in real-time and uses differentiable operations to allow for gradient-based computational optimization of phosphene encoding models. The simulator integrates a wide range of clinical results with neurophysiological evidence in humans and non-human primates. The pipeline includes a model of the retinotopic organization and cortical magnification of the visual cortex. Moreover, the quantitative effects of stimulation parameters and temporal dynamics on phosphene characteristics are incorporated. Our results demonstrate the simulator's suitability for both computational applications such as end-to-end deep learning-based prosthetic vision optimization as well as behavioral experiments. The modular and open-source software provides a flexible simulation framework for computational, clinical, and behavioral neuroscientists working on visual neuroprosthetics.",
+    "doi": "10.7554/elife.85812",
+    "pmid": "38386406",
+    "pmcid": "PMC10883675",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38386406/",
+    "type": "article",
+    "volume": "13",
+    "issue": "",
+    "pages": "",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Improvement of dynamic phosphene presentation for a cortical visual prosthesis is task-specific.",
+    "authors": [
+      "Haozhe Zac Wang",
+      "Yan Tat Wong"
+    ],
+    "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "year": 2024,
+    "date": "2024-Jul",
+    "abstract": "Cortical visual prostheses can restore vision by directly stimulating the neurons in the visual cortex. The goal of these prostheses is to elicit sufficient light perception, known as phosphenes, to represent complex scenes. However, stimulating a large number of electrodes in cortical visual prostheses can be problematic. This may result in distorted visual perception and failure to present the desired visual stimuli. Previous studies have successfully presented simple patterns, such as letters, by dynamically utilizing a single phosphene. To represent more complex scenes, we propose a new method of information presentation. This method limits the number of phosphenes elicited simultaneously while sequentially presenting the contours of a visual scene. We evaluated its effectiveness with 8 participants across four different tasks. We found that the improvement provided by this method is task-specific. Our findings underscore the importance of considering the temporal features of prosthetic vision in future designs.",
+    "doi": "10.1109/embc53108.2024.10782366",
+    "pmid": "40039057",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40039057/",
+    "type": "article",
+    "volume": "2024",
+    "issue": "",
+    "pages": "1-4",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  },
+  {
+    "source": "pubmed",
+    "sources": [
+      "pubmed"
+    ],
+    "title": "Pre-processing visual scenes for retinal prosthesis systems: A comprehensive review.",
+    "authors": [
+      "Heidi Ahmed Holiel",
+      "Sahar Ali Fawzi",
+      "Walid Al-Atabany"
+    ],
+    "journal": "Artif Organs",
+    "year": 2024,
+    "date": "2024-Nov",
+    "abstract": "BACKGROUND: Retinal prostheses offer hope for individuals with degenerative retinal diseases by stimulating the remaining retinal cells to partially restore their vision. This review delves into the current advancements in retinal prosthesis technology, with a special emphasis on the pivotal role that image processing and machine learning techniques play in this evolution. METHODS: We provide a comprehensive analysis of the existing implantable devices and optogenetic strategies, delineating their advantages, limitations, and challenges in addressing complex visual tasks. The review extends to various image processing algorithms and deep learning architectures that have been implemented to enhance the functionality of retinal prosthetic devices. We also illustrate the testing results by demonstrating the clinical trials or using Simulated Prosthetic Vision (SPV) through phosphene simulations, which is a critical aspect of simulating visual perception for retinal prosthesis users. RESULTS: Our review highlights the significant progress in retinal prosthesis technology, particularly its capacity to augment visual perception among the visually impaired. It discusses the integration between image processing and deep learning, illustrating their impact on individual interactions and navigations within the environment through applying clinical trials and also illustrating the limitations of some techniques to be used with current devices, as some approaches only use simulation even on sighted-normal individuals or rely on qualitative analysis, where some consider realistic perception models and others do not. CONCLUSION: This interdisciplinary field holds promise for the future of retinal prostheses, with the potential to significantly enhance the quality of life for individuals with retinal prostheses. Future research directions should pivot towards optimizing phosphene simulations for SPV approaches, considering the distorted and confusing nature of phosphene perception, thereby enriching the visual perception provided by these prosthetic devices. This endeavor will not only improve navigational independence but also facilitate a more immersive interaction with the environment.",
+    "doi": "10.1111/aor.14824",
+    "pmid": "39023279",
+    "pmcid": "",
+    "arxiv": "",
+    "citations": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39023279/",
+    "type": "article",
+    "volume": "48",
+    "issue": "11",
+    "pages": "1223-1250",
+    "publisher": "",
+    "language": "",
+    "oa": null
+  }
+]

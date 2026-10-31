@@ -1,0 +1,119 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzq">
+    <style>
+      <fill id="fzq">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bil" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bia">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 6 · 07 du Bois 2026 · Communications Medicine</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="biJ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">23</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="biR">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">从概念验证走向床旁系统</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="biC">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="278.711968503937" height="108" topLeftX="44.639999999999986" topLeftY="138.24" presetHandlers="9.36036" type="round-rect" id="biB">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="235.511968503937" height="48.7" topLeftX="66.23999999999998" topLeftY="145.44" type="text" id="biH">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="32.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">44</span></strong></p>
+        </content>
+      </shape>
+      <shape width="235.511968503937" height="46.08" topLeftX="66.23999999999998" topLeftY="194.4" type="text" id="bix">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">名参与者：UWS 14 / MCS 17 / LIS 11，另 2 名健全者作基准</span></p>
+        </content>
+      </shape>
+      <shape width="278.711968503937" height="108" topLeftX="340.631968503937" topLeftY="138.24" presetHandlers="9.36036" type="round-rect" id="biD">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="235.511968503937" height="48.7" topLeftX="362.2319685039371" topLeftY="145.44" type="text" id="biV">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="32.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">73.8%</span></strong></p>
+        </content>
+      </shape>
+      <shape width="235.511968503937" height="46.08" topLeftX="362.2319685039371" topLeftY="194.4" type="text" id="bif">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">的患者获得显著的运动想象 BCI 解码准确率</span></p>
+        </content>
+      </shape>
+      <shape width="278.711968503937" height="108" topLeftX="636.6240157480315" topLeftY="138.24" presetHandlers="9.36036" type="round-rect" id="biA">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="235.511968503937" height="48.7" topLeftX="658.2240157480315" topLeftY="145.44" type="text" id="bir">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="32.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">90%</span></strong></p>
+        </content>
+      </shape>
+      <shape width="235.511968503937" height="46.08" topLeftX="658.2240157480315" topLeftY="194.4" type="text" id="bie">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:16.50" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="11.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">的显著者进入问答阶段，常超过 70% 的可用性阈值</span></p>
+        </content>
+      </shape>
+      <undefined id="bii" type="chart_refer_host_perm" />
+      <shape width="402.6959842519685" height="216" topLeftX="512.6399999999999" topLeftY="259.2" presetHandlers="9.35928" type="round-rect" id="biw">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="353.7359842519685" height="25.1" topLeftX="537.1199999999999" topLeftY="270.72" type="text" id="bib">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="16.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">最锋利的一处：与行为学不共线</span></strong></p>
+        </content>
+      </shape>
+      <shape width="353.7359842519685" height="165.6" topLeftX="537.1199999999999" topLeftY="300.96" type="text" id="biM">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">解码准确率与 WHIM 显著相关（偏相关 r = 0.43，p = 0.02），与 CRS-R 无关（p = 0.89）。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">单模态排名：WHIM 59.4% ＞ DA 57.3% ＞ CRS-R 49.4%——行为学金标准 CRS-R 反而是三者中最弱。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" lineSpacing="fixed:17.50" afterLineSpacing="fixed:6.00" marginLeft="14" indent="0" defaultTabSize="72" bulletSize="100%"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">收益集中在 MCS：灵敏度 39% → 69%；LIS 反而略降（78% → 67%），提示 LIS 仍以 DA 单独预测最好。</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+    </data>
+    <note id="biZ">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页从「方法」转到「临床价值」。核心论证是：BCI 指标之所以有用，是因为它与行为学不共线。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">注意作者自己也承认，诊断本来就是用有缺陷的尺子做出来的，所以「DA 与 CRS-R 无关」并不令人意外——真正的问题在尺子。</span></p>
+      </content>
+    </note>
+  </slide>

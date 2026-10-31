@@ -1,0 +1,185 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzx">
+    <style>
+      <fill id="fzx">
+        <fillColor color="rgba(245, 248, 251, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="bVB" src="SDV6blQ29oqRYfxiyl4cxprMnsh" width="108" height="30.24" topLeftX="44.64" topLeftY="33.12">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="640.2959842519685" height="24.48" topLeftX="168.48000000000002" topLeftY="30.239999999999995" type="text" id="bVo">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.4" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="1.4">观点 5 · 04 Littlejohn 2025 &amp; 05 Wairagkar 2025</span></strong></p>
+        </content>
+      </shape>
+      <shape width="86.4" height="24.48" topLeftX="828.9359842519685" topLeftY="30.239999999999995" type="text" id="bVQ">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(90, 107, 125, 1)" fontSize="13.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">20</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="51.84" topLeftX="44.639999999999986" topLeftY="61.92" type="text" id="bVY">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="33.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">两条路线：流式语言 vs 直接声学</span></strong></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="2.015984251968504" topLeftX="44.639999999999986" topLeftY="119.52" presetHandlers="1.0079921" type="round-rect" id="bVg">
+        <fill>
+          <fillColor color="rgba(220, 229, 238, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="423.108031496063" height="318.24" topLeftX="44.640000000000015" topLeftY="142.56" presetHandlers="9.359438" type="round-rect" id="bVi">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="401.508031496063" height="5.76" topLeftX="55.43999999999997" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bVf">
+        <fill>
+          <fillColor color="rgba(23, 82, 122, 1)" />
+        </fill>
+        <border color="rgba(23, 82, 122, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="374.14803149606297" height="20.16" topLeftX="69.11999999999998" topLeftY="156.96" type="text" id="bVc">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="13.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">04 · Nature Neuroscience 2025</span></strong></p>
+        </content>
+      </shape>
+      <shape width="374.14803149606297" height="38.0" topLeftX="69.11999999999998" topLeftY="178.56" type="text" id="bVU">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="25.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">流式脑→语音</span></strong></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="69.12" topLeftY="218.88" type="text" id="bVW">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">记录</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="146.87999999999997" topLeftY="218.88" type="text" id="bVZ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">高密度皮层表面电极（ECoG），重点覆盖言语感觉运动皮层</span></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="69.12" topLeftY="273.6" type="text" id="bVF">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">模型</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="146.87999999999997" topLeftY="273.6" type="text" id="bVt">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">RNN-T 类模型，按 80 ms 增量在线解码，不依赖独立的语音起始检测器</span></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="69.12" topLeftY="328.32" type="text" id="bVm">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">结果</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="146.87999999999997" topLeftY="328.32" type="text" id="bVl">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">流式合成约 46.5 词/分（延迟合成 24.8 词/分）；单次推理在 80 ms 内完成的比例约 99.3%</span></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="69.12" topLeftY="383.04" type="text" id="bVd">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(23, 82, 122, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">代价</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="146.87999999999997" topLeftY="383.04" type="text" id="bVy">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">1024 词通用句集上，语音 WER 中位数约 40.8%，文本约 30.7%</span></p>
+        </content>
+      </shape>
+      <shape width="374.14803149606297" height="20.16" topLeftX="69.11999999999998" topLeftY="437.76" type="text" id="bVT">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">本篇笔记为摘要级提取。</span></p>
+        </content>
+      </shape>
+      <shape width="423.108031496063" height="318.24" topLeftX="492.22803149606307" topLeftY="142.56" presetHandlers="9.359438" type="round-rect" id="bVj">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)" />
+        </fill>
+        <border color="rgba(220, 229, 238, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="401.508031496063" height="5.76" topLeftX="503.0280314960629" topLeftY="149.76" presetHandlers="2.88" type="round-rect" id="bVI">
+        <fill>
+          <fillColor color="rgba(27, 140, 153, 1)" />
+        </fill>
+        <border color="rgba(27, 140, 153, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="374.14803149606297" height="20.16" topLeftX="516.708031496063" topLeftY="156.96" type="text" id="bVP">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="13.0" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">05 · Nature 2025</span></strong></p>
+        </content>
+      </shape>
+      <shape width="374.14803149606297" height="38.0" topLeftX="516.708031496063" topLeftY="178.56" type="text" id="bVN">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="25.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">即时声音合成</span></strong></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="516.708031496063" topLeftY="218.88" type="text" id="bVu">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">记录</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="594.468031496063" topLeftY="218.88" type="text" id="bVG">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">皮层内 4 个微电极阵列共 256 个电极，约 1 ms 数据包实时进入系统</span></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="516.708031496063" topLeftY="273.6" type="text" id="bVh">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">模型</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="594.468031496063" topLeftY="273.6" type="text" id="bVp">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">Transformer 直接预测声学语音特征，再驱动合成器输出声音</span></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="516.708031496063" topLeftY="328.32" type="text" id="bVL">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">结果</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="594.468031496063" topLeftY="328.32" type="text" id="bVz">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">6 选 1 句子匹配平均准确率 94.34%；合成语音 WER 43.75%，而患者自身残余语音为 96.43%</span></p>
+        </content>
+      </shape>
+      <shape width="72" height="21.6" topLeftX="516.708031496063" topLeftY="383.04" type="text" id="bVn">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(27, 140, 153, 1)" fontSize="14.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">边界</span></strong></p>
+        </content>
+      </shape>
+      <shape width="296.388031496063" height="53.28" topLeftX="594.468031496063" topLeftY="383.04" type="text" id="bVX">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(22, 34, 46, 1)" fontSize="12" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">因果（实时）合成质量仍低于事后合成（倒谱失真 2.9 对 2.4）</span></p>
+        </content>
+      </shape>
+      <shape width="374.14803149606297" height="20.16" topLeftX="516.708031496063" topLeftY="437.76" type="text" id="bVq">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(90, 107, 125, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">基于本地全文，含作者自陈局限。</span></p>
+        </content>
+      </shape>
+      <shape width="870.6959842519685" height="25.92" topLeftX="44.639999999999986" topLeftY="472.32" type="text" id="bVk">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(15, 58, 87, 1)" fontSize="17.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">共同结论：BCI 已从「解码想移动什么」走到「解码想说什么，以及声音该怎么表达」。</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bVv">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">把两篇语音 BCI 放在一起对照：一条是「流式语言模型」，一条是「直接声学合成」。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">05 最关键的数字是合成语音 WER 43.75% 对患者自身残余语音 96.43%——这是可懂度的实质提升。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">同时点出两张牌面下的代价：流式的 WER 仍高；实时的音质仍不如事后合成。</span></p>
+      </content>
+    </note>
+  </slide>
+  

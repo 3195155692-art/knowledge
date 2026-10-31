@@ -1,0 +1,104 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pzO">
+    <style>
+      <fill id="fzO">
+        <fillColor color="rgba(10, 26, 47, 1)" />
+      </fill>
+    </style>
+    <data>
+      <img id="brf" src="GuTqbtZ1Yo7W9uxU81Kcs43In4f" width="959.0" height="154.8" topLeftX="0" topLeftY="385.19999999999993">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="959.0" height="7.92" topLeftX="0" topLeftY="0" type="rect" id="bru">
+        <fill>
+          <fillColor color="rgba(47, 184, 198, 1)" />
+        </fill>
+        <border color="rgba(47, 184, 198, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="216" height="28.9" topLeftX="44.639999999999986" topLeftY="105.12" type="text" id="brt">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="2.4" defaultTabSize="72"><strong><span color="rgba(21, 118, 133, 1)" fontSize="19.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false" letterSpacing="2.4">第 2 幕</span></strong></p>
+        </content>
+      </shape>
+      <shape width="590.4" height="81.4" topLeftX="44.639999999999986" topLeftY="136.8" type="text" id="brL">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(234, 242, 248, 1)" fontSize="53.5" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">从检测到解读</span></strong></p>
+        </content>
+      </shape>
+      <shape width="619.2" height="28.9" topLeftX="44.639999999999986" topLeftY="213.12" type="text" id="bri">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(159, 180, 199, 1)" fontSize="19.0" fontFamily="Times New Roman" bold="false" italic="false" strikethrough="false" underline="false">From detection to reconstruction</span></p>
+        </content>
+      </shape>
+      <shape width="165.6" height="2.88" topLeftX="44.64" topLeftY="256.32" presetHandlers="1.44" type="round-rect" id="brF">
+        <fill>
+          <fillColor color="rgba(217, 138, 33, 1)" />
+        </fill>
+        <border color="rgba(217, 138, 33, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="597.6" height="115.2" topLeftX="44.639999999999986" topLeftY="276.48" type="text" id="brp">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:23.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="15.5" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">如果患者确实在认知，下一个问题就不是「有没有」，而是「是什么」。这一步要求换掉整个范式，也第一次把「我们凭什么说这是意识」变成必须正面回答的问题。</span></p>
+        </content>
+      </shape>
+      <shape width="237.0959842519685" height="254.88" topLeftX="678.24" topLeftY="136.8" presetHandlers="9.36055" type="round-rect" id="brd">
+        <fill>
+          <fillColor color="rgba(19, 41, 63, 1)" />
+        </fill>
+        <border color="rgba(36, 64, 92, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="192.45598425196852" height="25.9" topLeftX="699.8400000000001" topLeftY="151.2" type="text" id="brZ">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(21, 118, 133, 1)" fontSize="17.0" fontFamily="Heiti SC" italic="false" strikethrough="false" underline="false">这一幕要交代的问题</span></strong></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="26.6" topLeftX="699.84" topLeftY="180" type="text" id="brl">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="17.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">01</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="63.36" topLeftX="735.8400000000001" topLeftY="178.56" type="text" id="brX">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">从「患者有没有意识」到「患者正在意识到什么」</span></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="26.6" topLeftX="699.84" topLeftY="249.11999999999998" type="text" id="brI">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="17.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">02</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="63.36" topLeftX="735.8400000000001" topLeftY="247.68" type="text" id="brC">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">能解码什么，以及解码「不能」证明什么</span></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="26.6" topLeftX="699.84" topLeftY="318.24" type="text" id="brB">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="17.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">03</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="63.36" topLeftX="735.8400000000001" topLeftY="316.8" type="text" id="brj">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">意识必须拆成三个层次来看</span></p>
+        </content>
+      </shape>
+      <shape width="33.12" height="26.6" topLeftX="699.84" topLeftY="387.36" type="text" id="brc">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><strong><span color="rgba(217, 138, 33, 1)" fontSize="17.5" fontFamily="Times New Roman" italic="false" strikethrough="false" underline="false">04</span></strong></p>
+        </content>
+      </shape>
+      <shape width="156.45598425196852" height="63.36" topLeftX="735.8400000000001" topLeftY="385.92" type="text" id="brG">
+        <content verticalAlign="top" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="fixed:17.00" defaultTabSize="72"><span color="rgba(234, 242, 248, 1)" fontSize="12.0" fontFamily="Heiti SC" bold="false" italic="false" strikethrough="false" underline="false">为什么「让患者报告」会污染我们要测的东西</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="brV">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2" defaultTabSize="72"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第二幕开场。这一幕是全场的理论重心，也是最容易讲快的一幕，请留足时间。</span></p>
+        <p><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">提示听众：接下来会连续出现四个必须分清的概念——解码、意识层次、报告、ground truth。</span></p>
+      </content>
+    </note>
+  </slide>

@@ -1,0 +1,71 @@
+{
+  "project": "Brain-Computer Interface/2026-09-21_Brain_Computer_Interface_5",
+  "generatedAt": "2026-09-21T19:10:11+08:00",
+  "tool": "lky-search v1.0.0",
+  "kind": "search",
+  "query": "(\"cochlear implant\"[Title/Abstract] OR \"auditory brainstem implant\"[Title/Abstract] OR \"auditory prosthesis\"[Title/Abstract]) AND (\"machine learning\"[Title/Abstract] OR \"deep learning\"[Title/Abstract] OR \"neural decoding\"[Title/Abstract] OR outcome[Title/Abstract]) AND (2024:2026[dp])",
+  "sources": [
+    "pubmed",
+    "europepmc",
+    "openalex",
+    "crossref",
+    "arxiv"
+  ],
+  "sort": "cited",
+  "filters": {
+    "year_from": null,
+    "year_to": null
+  },
+  "outputLayout": {
+    "notes": "*.md",
+    "pdfs": "PDFs/",
+    "data": "results.{csv,ris,bib,json}"
+  },
+  "fullTextPolicy": "本技能只判定 OA；付费与 CNKI 全文由 nature-downloader 获取",
+  "summary": {
+    "total": 2,
+    "with_doi": 2,
+    "open_access": 0
+  },
+  "errors": [],
+  "results": [
+    {
+      "index": 1,
+      "title": "A deep learning framework for understanding cochlear implants.",
+      "authors": "Annesya Banerjee; Mark R Saddler; Julie G Arenberg; Josh H McDermott",
+      "journal": "bioRxiv",
+      "year": 2025,
+      "doi": "10.1101/2025.07.16.665227",
+      "pmid": "40777303",
+      "pmcid": "PMC12330565",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40777303/",
+      "file": null,
+      "note": null
+    },
+    {
+      "index": 2,
+      "title": "Cochlear Implant Artifacts Removal in EEG-Based Objective Auditory Rehabilitation Assessment.",
+      "authors": "Qi Zheng; Yubo Wu; Jianing Zhu; Leqiang Cao; Yanru Bai; Guangjian Ni",
+      "journal": "IEEE Trans Neural Syst Rehabil Eng",
+      "year": 2024,
+      "doi": "10.1109/tnsre.2024.3438149",
+      "pmid": "39102322",
+      "pmcid": "",
+      "arxiv": "",
+      "citations": null,
+      "openAccess": null,
+      "sources": [
+        "pubmed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39102322/",
+      "file": null,
+      "note": null
+    }
+  ]
+}
