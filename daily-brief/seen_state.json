@@ -1,0 +1,192 @@
+{
+  "seen": {
+    "10.1142/s0129065727500298": {
+      "first_seen": "2026-11-20",
+      "title": "Modeling the Selective and Lossy Nature of Visual Processing Bridges the Discrepancy in Noninvasive Neural Decoding."
+    },
+    "10.1016/j.bios.2026.119370": {
+      "first_seen": "2026-11-20",
+      "title": "A synchronized dual-scale platform combining flexible micro-ECoG and skull-screw EEG reveals frequency-dependent cortex-to-skull spectral gain in awake mice."
+    },
+    "10.1016/j.neunet.2026.109768": {
+      "first_seen": "2026-11-20",
+      "title": "Enhanced P300-based brain-computer interface decoding via region-weighted multiscale temporal-spatial representation learning method."
+    },
+    "10.1016/j.neunet.2026.109755": {
+      "first_seen": "2026-11-20",
+      "title": "A spatio-temporal attention convolutional network with topology-preserving channel embedding and transformer for EEG decoding."
+    },
+    "10.1016/j.neunet.2026.109693": {
+      "first_seen": "2026-11-20",
+      "title": "Emerging promise in artificial vision research: Unveiling transformative potential through brain-computer interfaces."
+    },
+    "10.1142/s0129065727500225": {
+      "first_seen": "2026-11-20",
+      "title": "Exploiting Phase-Sliding Oscillations for Robust Asynchronous Brain-Computer Interface Control."
+    },
+    "10.1016/j.isci.2026.118073": {
+      "first_seen": "2026-11-20",
+      "title": "Brain-computer interfaces for neurodegenerative diseases: A comprehensive review of closed-loop systems from diagnosis to neural rehabilitation."
+    },
+    "10.1109/rbme.2026.3748634": {
+      "first_seen": "2026-11-20",
+      "title": "A User-Function Taxonomy for Brain-Computer Interfaces: From Task Definition to Evidence."
+    },
+    "10.1142/s0129065726500516": {
+      "first_seen": "2026-11-20",
+      "title": "Enhancing Motor Imagery Decoding for Stroke Patients Using Data Augmentation and Transfer Learning."
+    },
+    "10.1016/j.mtbio.2026.103722": {
+      "first_seen": "2026-11-20",
+      "title": "Conductive hydrogel bioelectronics for chronic neuromodulation: From biomimetic design and bioactive interfaces to integrated neural platforms."
+    },
+    "10.1016/j.biomaterials.2026.124668": {
+      "first_seen": "2026-11-20",
+      "title": "Five-in-One NIR-II phototheranostic nanomedicine for glioblastoma multiforme: Unlocking bio-barriers and photothermal-ferroptotic amplification."
+    },
+    "10.1016/j.biomaterials.2026.124628": {
+      "first_seen": "2026-11-20",
+      "title": "Bright NIR-II fluorescence lipid membrane probes for labelling of biomimetic nanovesicles with image-guided targeted NIR-II mild photothermal-immunotherapy of orthotopic glioblastoma."
+    },
+    "10.1016/j.biomaterials.2026.124608": {
+      "first_seen": "2026-11-20",
+      "title": "Drugless macro-to-nanogel conversion for reprogramming of malignant glioblastoma."
+    },
+    "10.1016/j.bios.2026.119355": {
+      "first_seen": "2026-11-20",
+      "title": "Time-delay deformation cytometry reveals a Piezo1-dependent viscomechanical transition driving glioblastoma invasion."
+    },
+    "10.1016/j.saa.2026.128744": {
+      "first_seen": "2026-11-20",
+      "title": "PI-AttnGAN: Physics-informed attention generative modeling for cross-modal FT-IR-to-Raman serum spectral reconstruction."
+    },
+    "10.1016/j.ejmech.2026.119491": {
+      "first_seen": "2026-11-20",
+      "title": "First conjugates based on a Sigma receptor modulator and a proteasome-impairing agent. Design, synthesis and exploratory biological evaluation in cancer cells."
+    },
+    "10.1016/j.ejmech.2026.119465": {
+      "first_seen": "2026-11-20",
+      "title": "Targeting carbonic anhydrase IX to overcome hypoxia-driven resistance in glioblastoma."
+    },
+    "10.1016/j.saa.2026.128540": {
+      "first_seen": "2026-11-20",
+      "title": "Biophysical insights into interaction mechanism of cediranib with human serum albumin: In-vitro and in-silico perspectives."
+    },
+    "10.1016/j.neuropharm.2026.111238": {
+      "first_seen": "2026-11-20",
+      "title": "Parthenolide reduces transgelin-2 expression in inhibiting glioblastoma malignancy through activating GSK3β-suppressing CREB signaling."
+    },
+    "10.1016/j.neuropharm.2026.111230": {
+      "first_seen": "2026-11-20",
+      "title": "Therapeutic potential and toxicological trade-offs of nanoparticle-enhanced valproic acid in glioblastoma: Behavioral and oxidative insights."
+    },
+    "10.1016/j.heares.2026.109817": {
+      "first_seen": "2026-11-20",
+      "title": "Exploring Auditory Attention Decoding to go with mobile and portable hardware."
+    },
+    "10.1007/s11019-026-10380-0": {
+      "first_seen": "2026-11-20",
+      "title": "Post-trial obligations and participant enrollment in brain pioneering research: should we expand inclusion criteria?"
+    },
+    "10.1007/s13755-026-00470-x": {
+      "first_seen": "2026-11-20",
+      "title": "A novel deep learning approach for privacy-preserving encoded EEG-based brain-computer interfaces with clinical LLM applications."
+    },
+    "10.1016/j.bioactmat.2026.06.037": {
+      "first_seen": "2026-11-20",
+      "title": "Multifunctional material platforms for neural interfaces: active orchestration of dynamic foreign body response across implantation lifetimes."
+    },
+    "10.1016/j.neunet.2026.109221": {
+      "first_seen": "2026-11-20",
+      "title": "NEURAL-VOX: NEURal auditory language decoding for voice and text reconstruction."
+    },
+    "10.1016/j.neunet.2026.109197": {
+      "first_seen": "2026-11-20",
+      "title": "EDSF-Net : An enhanced dynamic spatiotemporal-frequency attention network for robust EEG decoding in motor imagery."
+    },
+    "10.1080/07853890.2026.2646355": {
+      "first_seen": "2026-11-20",
+      "title": "Application and prospects of brain-computer interface technology for motor function reconstruction after brachial plexus injury."
+    },
+    "10.1016/j.neuropharm.2026.111225": {
+      "first_seen": "2026-11-20",
+      "title": "Psychoneuroimmunology of glioblastoma: How emotional states shape tumor biology."
+    },
+    "10.1016/j.bios.2026.119286": {
+      "first_seen": "2026-11-20",
+      "title": "Interpretable dual-wavelength SERS profiling of tumor-associated extracellular vesicles via EV-adapted plasmonic substrates and feature-fusion learning."
+    },
+    "10.1016/j.media.2026.104348": {
+      "first_seen": "2026-11-20",
+      "title": "A unified and domain-robust framework enables controllable multimodal brain MRI synthesis."
+    },
+    "10.1016/j.ijmedinf.2026.106746": {
+      "first_seen": "2026-11-20",
+      "title": "Secure medical data sharing and brain tumor diagnosis using optimized encryption with blockchain-enabled multiscale channel attention residual network."
+    },
+    "10.1016/j.jinorgbio.2026.113468": {
+      "first_seen": "2026-11-20",
+      "title": "Ligand-modulated redox, DNA-binding, and cytotoxic properties of novel Palladium(II) oxime complexes."
+    },
+    "10.1016/j.cmpb.2026.109668": {
+      "first_seen": "2026-11-20",
+      "title": "Transformer-based decision support with CNN and ViT for prognostic risk stratification following adjuvant chemotherapy in high-grade glioma: a multicenter study."
+    },
+    "10.1016/j.jinorgbio.2026.113464": {
+      "first_seen": "2026-11-20",
+      "title": "Design of L-borneol-containing biguanide derivatives and their half-sandwich Ru(II)-p-cymene complexes: DNA/HSA binding properties, antioxidant activity and antiproliferative effects in glioblastoma cells."
+    },
+    "10.1016/j.expneurol.2026.116040": {
+      "first_seen": "2026-11-20",
+      "title": "Divergent and shared alterations of Notch signalling in human epilepsy and glioblastoma."
+    },
+    "10.1016/j.expneurol.2026.116042": {
+      "first_seen": "2026-11-20",
+      "title": "GOAT-NET model: Glioma-Oligodendro astrocytoma tumor network model based on the optimization-based few-shot learning technique."
+    },
+    "10.1016/j.bioadv.2026.215175": {
+      "first_seen": "2026-11-20",
+      "title": "Ligand-free alkyl-modified chitosan nanoparticles are preferentially internalized by microglia and deliver curcumin to suppress cytokine release."
+    },
+    "10.1016/j.gendis.2026.102335": {
+      "first_seen": "2026-11-20",
+      "title": "ONC201/dordaviprone for H3 K27M-mutant tumors: Discovery, mechanisms, therapeutic potential, and future directions."
+    },
+    "10.1016/j.gendis.2026.102121": {
+      "first_seen": "2026-11-20",
+      "title": "The DDIT4L-TOM40-ATP5A pathway suppresses glioblastoma oncogenesis."
+    },
+    "10.1016/j.expneurol.2026.116003": {
+      "first_seen": "2026-11-20",
+      "title": "The glioma metabolite, D-2-hydroxyglutarate (D-2-HG), reduces synaptic transmission and epileptiform bursts in neocortical slices."
+    },
+    "10.1016/j.gendis.2026.102234": {
+      "first_seen": "2026-11-20",
+      "title": "Transcriptional circuits of the glioma microenvironment: FOSL2 as a master regulator of the pathological niche."
+    },
+    "10.1016/j.expneurol.2026.116000": {
+      "first_seen": "2026-11-20",
+      "title": "EAAT1 sustains redox homeostasis and temozolomide resistance through glutamate-dependent regulation of the Keap1/Nrf2 axis in glioblastoma."
+    },
+    "10.1016/j.bbadis.2026.168428": {
+      "first_seen": "2026-11-20",
+      "title": "Repurposing Nelfinavir: AIM2 inflammasome-associated anti-tumor effects in Glioblastoma."
+    },
+    "10.1016/j.bbadis.2026.168517": {
+      "first_seen": "2026-11-20",
+      "title": "Glutamine deprivation elevates EFNB3 and its potential link to macropinocytosis in glioblastoma."
+    },
+    "10.1016/j.bioadv.2026.215226": {
+      "first_seen": "2026-11-20",
+      "title": "Injection-free, spatially controlled delivery of glioblastoma cells to human brain slice cultures using soft cryogel biomaterials."
+    },
+    "10.1016/j.neunet.2026.109695": {
+      "first_seen": "2026-11-20",
+      "title": "Latent knowledge-driven unified representation learning for brain tumor segmentation with missing modalities."
+    },
+    "10.1016/j.bbadis.2026.168486": {
+      "first_seen": "2026-11-20",
+      "title": "Loss of PIMREG impairs double-strand break signaling and repair."
+    }
+  }
+}
